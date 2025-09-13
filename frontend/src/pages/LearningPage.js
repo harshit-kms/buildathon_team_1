@@ -1,5 +1,21 @@
 import React, { useState, useEffect } from 'react';
-import { Play, Star, Award, Users, Clock, TrendingUp, BookOpen, Target, Zap, ChevronRight } from 'lucide-react';
+import { 
+  Play, 
+  Star, 
+  Award, 
+  Users, 
+  Clock, 
+  TrendingUp, 
+  BookOpen, 
+  Target, 
+  Zap, 
+  ChevronRight, 
+  MessageCircle, 
+  Bot, 
+  User, 
+  X, 
+  Send 
+} from 'lucide-react';
 import Layout from '../components/Layout';
 
 const LearningPage = () => {
@@ -117,7 +133,16 @@ const LearningPage = () => {
   ]);
 
   const [currentTipIndex, setCurrentTipIndex] = useState(0);
-
+  const [isChatOpen, setIsChatOpen] = useState(false);
+  const [chatMessages, setChatMessages] = useState([
+    {
+      id: 1,
+      type: 'bot',
+      message: "Hi Priya! I'm your learning assistant. How can I help you today?",
+      timestamp: new Date(Date.now() - 60000)
+    }
+  ]);
+  const [newMessage, setNewMessage] = useState('');
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentTipIndex((prev) => (prev + 1) % dailyTips.length);
@@ -125,6 +150,50 @@ const LearningPage = () => {
     return () => clearInterval(interval);
   }, [dailyTips.length]);
 
+
+  const handleSendMessage = () => {
+    if (!newMessage.trim()) return;
+
+    const userMessage = {
+      id: chatMessages.length + 1,
+      type: 'user',
+      message: newMessage,
+      timestamp: new Date()
+    };
+
+    setChatMessages(prev => [...prev, userMessage]);
+
+    // Simulate bot response
+    setTimeout(() => {
+      const botResponses = [
+        "Great question! Let me help you with that. You can continue your current course by clicking 'Continue Learning' on any course card.",
+        "I'd recommend focusing on 'Advanced Objection Handling' since you're 90% complete. Finishing it will unlock your Silver certification!",
+        "Your conversion rate has improved by 23%! This is likely due to applying the techniques from your completed lessons. Keep it up!",
+        "For WhatsApp campaigns, check out the 'Digital Selling Mastery' course. It covers social selling strategies specifically for health insurance.",
+        "Based on your progress, I suggest scheduling a 1:1 session with Rajesh Kumar. He specializes in sales strategy and has excellent reviews."
+      ];
+      
+      const randomResponse = botResponses[Math.floor(Math.random() * botResponses.length)];
+      
+      const botMessage = {
+        id: chatMessages.length + 2,
+        type: 'bot',
+        message: randomResponse,
+        timestamp: new Date()
+      };
+
+      setChatMessages(prev => [...prev, botMessage]);
+    }, 1000);
+
+    setNewMessage('');
+  };
+
+  const handleKeyPress = (e) => {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      handleSendMessage();
+    }
+  };
   return (
     <Layout title = "Learning">
     <div>
@@ -307,6 +376,102 @@ const LearningPage = () => {
         </div>
       </div>
     </div>
+    {/* Floating Chat Button */}
+      <div className="fixed bottom-6 right-6 z-50">
+        {!isChatOpen && (
+        <button
+        onClick={() => setIsChatOpen(true)}
+        className="flex items-center gap-2 bg-teal-500 hover:bg-teal-600 text-white px-5 py-3 rounded-full shadow-lg transition-all hover:scale-105 animate-pulse"
+        >
+        <MessageCircle className="w-5 h-5" />
+        <span className="font-medium">Insu Learning</span>
+        </button>
+        )}
+      </div>
+
+      {/* Chat Sidebar */}
+      {isChatOpen && (
+        <>
+          {/* Backdrop */}
+          <div 
+            className="fixed inset-0 bg-black bg-opacity-50 z-40 transition-opacity"
+            onClick={() => setIsChatOpen(false)}
+          />
+          
+          {/* Sidebar */}
+          <div className={`fixed top-0 right-0 h-full w-96 bg-white shadow-2xl z-50 transform transition-transform duration-300 ease-in-out ${
+            isChatOpen ? 'translate-x-0' : 'translate-x-full'
+          } flex flex-col`}>
+            {/* Chat Header */}
+            <div className="bg-teal-500 text-white p-4 flex items-center justify-between">
+              <div className="flex items-center space-x-2">
+                <Bot className="w-5 h-5" />
+                <h3 className="font-semibold">Insu Learn</h3>
+              </div>
+              <button
+                onClick={() => setIsChatOpen(false)}
+                className="hover:bg-teal-600 p-1 rounded-full transition-colors"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            {/* Chat Messages */}
+            <div className="flex-1 p-4 overflow-y-auto space-y-4">
+              {chatMessages.map((msg) => (
+                <div
+                  key={msg.id}
+                  className={`flex ${msg.type === 'user' ? 'justify-end' : 'justify-start'}`}
+                >
+                  <div className={`flex items-start space-x-2 max-w-[85%] ${msg.type === 'user' ? 'flex-row-reverse space-x-reverse' : ''}`}>
+                    <div className={`w-8 h-8 rounded-full flex items-center justify-center flex-shrink-0 ${
+                      msg.type === 'bot' ? 'bg-teal-100' : 'bg-blue-100'
+                    }`}>
+                      {msg.type === 'bot' ? (
+                        <Bot className="w-4 h-4 text-teal-600" />
+                      ) : (
+                        <User className="w-4 h-4 text-blue-600" />
+                      )}
+                    </div>
+                    <div className={`p-3 rounded-lg ${
+                      msg.type === 'bot' 
+                        ? 'bg-gray-100 text-gray-800' 
+                        : 'bg-teal-500 text-white'
+                    }`}>
+                      <p className="text-sm">{msg.message}</p>
+                      <span className={`text-xs mt-1 block ${
+                        msg.type === 'bot' ? 'text-gray-500' : 'text-teal-100'
+                      }`}>
+                        {msg.timestamp.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            {/* Chat Input */}
+            <div className="p-4 border-t border-gray-200">
+              <div className="flex space-x-2">
+                <input
+                  type="text"
+                  value={newMessage}
+                  onChange={(e) => setNewMessage(e.target.value)}
+                  onKeyPress={handleKeyPress}
+                  placeholder="Ask me anything about your learning..."
+                  className="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-teal-500 focus:border-transparent"
+                />
+                <button
+                  onClick={handleSendMessage}
+                  className="bg-teal-500 hover:bg-teal-600 text-white px-4 py-2 rounded-lg transition-colors"
+                >
+                  <Send className="w-4 h-4" />
+                </button>
+              </div>
+            </div>
+          </div>
+        </>
+      )}
     </Layout>
   );
 };

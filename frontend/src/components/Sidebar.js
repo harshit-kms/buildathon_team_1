@@ -91,7 +91,7 @@ const Sidebar = () => {
               {hasSubmenu ? (
                 <button
                   onClick={() => toggleSubmenu(item.name)}
-                  className={`w-full flex items-center justify-between px-3 py-2 text-sm font-medium rounded-lg transition-colors duration-200 ${
+                  className={`w-full flex items-center justify-between px-3 py-2 text-base font-medium rounded-lg transition-colors duration-200 ${
                     active
                       ? 'bg-teal-50 dark:bg-teal-900/20 text-teal-700 dark:text-teal-300 border-r-2 border-teal-500'
                       : 'text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'
@@ -111,7 +111,7 @@ const Sidebar = () => {
               ) : (
                 <Link
                   to={item.path}
-                  className={`flex items-center space-x-3 px-3 py-2 text-sm font-medium rounded-lg transition-colors duration-200 ${
+                  className={`flex items-center space-x-3 px-3 py-2 text-base font-medium rounded-lg transition-colors duration-200 ${
                     active
                       ? 'bg-teal-50 dark:bg-teal-900/20 text-teal-700 dark:text-teal-300 border-r-2 border-teal-500'
                       : 'text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'
@@ -132,7 +132,7 @@ const Sidebar = () => {
                     <Link
                       key={subItem.name}
                       to={subItem.path}
-                      className={`block px-3 py-2 text-sm rounded-lg transition-colors duration-200 ${
+                      className={`block px-3 py-2 text-base rounded-lg transition-colors duration-200 ${
                         isActive(subItem.path)
                           ? 'bg-teal-50 dark:bg-teal-900/20 text-teal-700 dark:text-teal-300'
                           : 'text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-gray-900 dark:hover:text-gray-200'
@@ -157,7 +157,7 @@ const Sidebar = () => {
     <>
       {/* Desktop Sidebar */}
       <div className="hidden lg:flex lg:flex-shrink-0">
-        <div className="flex flex-col w-64 h-screen fixed top-0 left-0 bg-white dark:bg-gray-800 border-r border-gray-200 dark:border-gray-700">
+        <div className="flex flex-col w-72 h-screen fixed top-0 left-0 bg-white dark:bg-gray-800 border-r border-gray-200 dark:border-gray-700">
 
           <SidebarContent />
         </div>
@@ -180,7 +180,7 @@ const Sidebar = () => {
             className="fixed inset-0 bg-black opacity-50" 
             onClick={() => setIsMobileMenuOpen(false)}
           />
-          <div className="relative flex flex-col w-64 max-w-xs">
+          <div className="relative flex flex-col w-72 max-w-xs">
             <SidebarContent />
           </div>
         </div>

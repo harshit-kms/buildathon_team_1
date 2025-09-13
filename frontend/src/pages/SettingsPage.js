@@ -59,12 +59,7 @@ const SettingsPage = () => {
 
   return (
     <Layout title="Settings">
-      <div className="p-6 max-w-4xl">
-        <div className="mb-6">
-          <h1 className="text-2xl font-bold text-gray-900 mb-2">Settings</h1>
-          <p className="text-gray-600">Manage your account preferences and application settings</p>
-        </div>
-
+      <div className="p-8">
         <div className="space-y-6">
           {/* Notification Preferences */}
           <div className="bg-white rounded-lg border border-gray-200 p-6">
@@ -72,7 +67,7 @@ const SettingsPage = () => {
             
             <div className="space-y-4">
               <div className="flex items-center justify-between">
-                <div>
+                <div className='text-left'>
                   <h3 className="font-medium text-gray-900">Email Notifications</h3>
                   <p className="text-sm text-gray-500">Send us updates and alerts via email</p>
                 </div>
@@ -84,7 +79,7 @@ const SettingsPage = () => {
               </div>
 
               <div className="flex items-center justify-between">
-                <div>
+                <div className='text-left'>
                   <h3 className="font-medium text-gray-900">SMS Notifications</h3>
                   <p className="text-sm text-gray-500">Get important alerts via SMS</p>
                 </div>
@@ -96,7 +91,7 @@ const SettingsPage = () => {
               </div>
 
               <div className="flex items-center justify-between">
-                <div>
+                <div className='text-left'>
                   <h3 className="font-medium text-gray-900">Renewal Reminders</h3>
                   <p className="text-sm text-gray-500">Automatic notifications for policy renewals</p>
                 </div>
@@ -152,7 +147,7 @@ const SettingsPage = () => {
             
             <div className="space-y-4">
               <div className="flex items-center justify-between">
-                <div>
+                <div className='text-left'>
                   <h3 className="font-medium text-gray-900">Auto Follow-up Tasks</h3>
                   <p className="text-sm text-gray-500">Automatically create follow-up reminders</p>
                 </div>
@@ -164,7 +159,7 @@ const SettingsPage = () => {
               </div>
 
               <div className="flex items-center justify-between">
-                <div>
+                <div className='text-left'>
                   <h3 className="font-medium text-gray-900">Auto Renewal Reminders</h3>
                   <p className="text-sm text-gray-500">Send automatic renewal notifications</p>
                 </div>
@@ -176,7 +171,7 @@ const SettingsPage = () => {
               </div>
 
               <div className="flex items-center justify-between">
-                <div>
+                <div className='text-left'>
                   <h3 className="font-medium text-gray-900">AI Sentiment Analysis</h3>
                   <p className="text-sm text-gray-500">Analyze customer messages and sentiment automatically</p>
                 </div>
