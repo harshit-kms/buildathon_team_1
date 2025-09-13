@@ -4,23 +4,25 @@ import Header from './Header';
 
 const Layout = ({ children, title }) => {
   return (
-    <div className="flex h-screen bg-gray-50">
-      {/* Sidebar */}
-      <Sidebar />
-      
-      {/* Main Content Area */}
-      <div className="flex-1 flex flex-col overflow-hidden">
-        {/* Header */}
-        <Header title={title} />
+    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors duration-200">
+      <div className="flex">
+        {/* Sidebar */}
+        <Sidebar />
         
-        {/* Page Content */}
-        <main className="flex-1 overflow-auto">
-          {children}
-        </main>
+        {/* Main Content Area */}
+        <div className="flex-1 flex flex-col lg:ml-64">
+          <Header title={title} />
+          
+          {/* Page Content */}
+          <main className="flex-1 p-6 bg-gray-50 dark:bg-gray-900 transition-colors duration-200">
+            <div className="max-w-7xl mx-auto">
+              {children}
+            </div>
+          </main>
+        </div>
       </div>
     </div>
   );
 };
 
 export default Layout;
-

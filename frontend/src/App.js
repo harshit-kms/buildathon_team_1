@@ -4,12 +4,12 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import { AuthProvider, useAuth } from './context/AuthContext';
 import Login from './components/Login';
 import DashboardPage from './pages/DashboardPage';
-import HomePage from './pages/HomePage';
 import ReferralsPage from './pages/ReferralsPage';
 import CustomersPage from './pages/CustomersPage';
 import SettingsPage from './pages/SettingsPage';
 import MarketingPage from './pages/MarketingPage';
-
+import LearningPage from './pages/LearningPage';
+import { ThemeProvider } from './context/ThemeContext';
 import './App.css';
 
 // Protected Route Component
@@ -44,6 +44,7 @@ const PublicRoute = ({ children }) => {
 
 function App() {
   return (
+    <ThemeProvider>
     <AuthProvider>
       <Router>
         <div className="App">
@@ -59,14 +60,6 @@ function App() {
             />
 
             {/* Protected Routes */}
-            <Route 
-              path="/home" 
-              element={
-                <ProtectedRoute>
-                  <HomePage />
-                </ProtectedRoute>
-              } 
-            />
             <Route 
               path="/referrals" 
               element={
@@ -100,6 +93,14 @@ function App() {
               } 
             />
             <Route 
+              path="/learning" 
+              element={
+                <ProtectedRoute>
+                  <LearningPage />
+                </ProtectedRoute>
+              } 
+            />
+            <Route 
               path="/settings" 
               element={
                 <ProtectedRoute>
@@ -117,6 +118,7 @@ function App() {
         </div>
       </Router>
     </AuthProvider>
+    </ThemeProvider>
   );
 }
 
