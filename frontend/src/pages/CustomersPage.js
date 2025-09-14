@@ -186,6 +186,16 @@ const CustomerPage = () => {
     }
   };
 
+  const handleRecSys = async () => {
+  try {
+    const response = await fetch("http://127.0.0.1:5000/api/recommender");
+    if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+    const data = await response.json();
+    console.log(data);
+  } catch (error) {
+    console.error("Failed to fetch:", error);
+  }
+};
   const getStatusColor = (status) => {
     switch (status) {
       case 'active': return 'bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300';
@@ -239,8 +249,8 @@ const CustomerPage = () => {
           <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 mb-8">
             <div className="flex items-center justify-between mb-4">
               <h2 className="text-xl font-bold text-gray-900 dark:text-white">Customer Overview</h2>
-              <button className="w-40 bg-teal-500 hover:bg-teal-600 text-white py-2 rounded-lg font-medium transition-colors">
-                Add Customer
+              <button onClick={handleRecSys} className="p-10 bg-teal-500 hover:bg-teal-600 text-white py-2 rounded-lg font-medium transition-colors">
+                Send Personalised Recommendations for User.
               </button>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-4 gap-6">

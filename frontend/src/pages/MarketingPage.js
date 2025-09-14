@@ -146,22 +146,38 @@ const MarketingPage = () => {
     if (!prompt.trim()) return;
 
     setIsGenerating(true);
-    
-    // Simulate image generation (replace with actual API call)
-    setTimeout(() => {
-      const mockImage = {
-        id: Date.now(),
-        prompt: prompt,
-        url: `https://picsum.photos/512/512?random=${Date.now()}`,
-        createdAt: new Date().toLocaleString()
-      };
-      
-      setGeneratedImage(mockImage);
-      setImageHistory(prev => [mockImage, ...prev.slice(0, 4)]); // Keep last 5 images
-      setIsGenerating(false);
-    }, 3000);
-  };
 
+    try {
+        const response = await fetch("http://127.0.0.1:8000/generate_image", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+                prompt: prompt,
+                company_name: "<Your Company Name>"
+            })
+        });
+
+        if (!response.ok) {
+            throw new Error("Failed to generate image");
+        }
+
+        const data = await response.json();
+
+        const newImage = {
+            id: Date.now(),
+            prompt: prompt,
+            url: data.image_url,  // Use the URL returned by your API
+            createdAt: new Date().toLocaleString()
+        };
+
+        setGeneratedImage(newImage);
+        setImageHistory(prev => [newImage, ...prev.slice(0, 4)]);
+    } catch (err) {
+        console.error(err);
+    } finally {
+        setIsGenerating(false);
+    }
+};
   const handlePromptSelect = (selectedPrompt) => {
     setPrompt(selectedPrompt);
   };
@@ -349,7 +365,7 @@ const MarketingPage = () => {
                         disabled={!prompt.trim() || isGenerating}
                         className="flex items-center justify-center space-x-2 bg-teal-500 hover:bg-teal-600 disabled:bg-gray-400 text-white px-6 py-3 rounded-lg font-semibold transition-colors disabled:cursor-not-allowed"
                       >
-                        {isGenerating ? (
+                        {(isGenerating) ? (
                           <>
                             <RefreshCw className="w-5 h-5 animate-spin" />
                             <span>Generating...</span>
