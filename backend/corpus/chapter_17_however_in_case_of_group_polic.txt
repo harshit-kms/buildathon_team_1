@@ -1,0 +1,1056 @@
+However, in case of group policies, the malus is charged by way of loading the 
+overall premium suitably to keep the claim ratio within reasonable limits. On 
+the other hand if experience is good a discount in premium rate is allowed 
+which is turned as Bonus. 
+
+13. No claim discount 
+
+Some products provide for a discount on premium for every claim free year 
+instead of a bonus on sum insured. 
+
+14. Co-payment 
+
+Co-payment is the concept of the insured bearing a portion of each and every 
+claim under a health policy. These could be compulsory or voluntary depending 
+on the product. Co-payment brings in a certain discipline among the insured to 
+avoid unnecessary hospitalizations. 
+
+Some products in the market have co-payment clauses in respect of certain 
+diseases only, such as major surgeries, or commonly occurring surgeries, or for 
+persons above a certain age.
+392 
+15. Deductible / Excess 
+
+Also called as excess, in health policies, it is the fixed amount of money the 
+insured is required to pay initially before the claim is paid by insurer, for e.g. if 
+the deductible in a policy is Rs. 10,000, the insured pays first Rs. 10,000 in each 
+insured loss claimed for. To illustrate, if the claim is for Rs. 80,000, the insured 
+bears the first Rs. 10,000 and the insurer pays Rs. 70,000. 
+
+Deductible may also be a specified number of days/hours in case of hospital 
+cash policies which will apply before any benefits are payable by the insurer. 
+
+16. Room rent restrictions 
+
+While several products are open ended with the sum insured being the 
+maximum amount payable in the event of a claim, several products today place 
+a restriction on the category of room that an insured chooses by linking it to the 
+sum insured. Experience shows that all expenses of hospitalization follow the 
+room rent, with higher room rent leading to proportionately higher charges 
+under all heads of expenses. Hence a person with a sum insured of one lac 
+would be entitled to a room of Rs 1,000 per day if the policy has a room rent 
+restriction of 1% of sum insured per day. This clearly indicates that if one 
+prefers luxury treatment at high end hospitals, then the policy too should be 
+purchased for high sums insured at appropriate premium. 
+
+17. Renewability clause 
+
+The IRDA guidelines on renewability of health insurance policies makes lifetime 
+guaranteed renewal of the health policies compulsory. An insurance company 
+can deny renewal only on the grounds of fraud or misrepresentation or 
+suppression by insured (or on his behalf) either in obtaining insurance or 
+subsequently in relation thereto. 
+
+18. Cancellation clause 
+
+The cancellation clause is also standardized by regulatory provisions and an 
+insurance company may at any time cancel the policy only on grounds of 
+misrepresentation, fraud, non-disclosure of material fact or non-cooperation by 
+the insured. 
+
+A minimum of fifteen days‟ notice in writing by registered A/D to the insured at 
+his last known address is required. Where a policy is cancelled by the insurer, 
+the company shall return to the insured a proportion of the last premium 
+corresponding to the unexpired period of insurance provided no claim has been 
+paid under the policy. 
+
+In the event of cancellation by the insured, premium refund is on short period 
+rates, meaning insured would receive refund of premium for a percentage less 
+than the pro-rata. If a claim is made no refund would be made.
+393 
+19. Free look in period 
+
+If a customer has bought a new insurance policy and received the policy 
+document and then finds that the terms and conditions are not what he wanted, 
+what are his options? 
+
+IRDAI has built into its regulations a consumer-friendly provision that takes care 
+this problem. The customer can return it and get a refund subject to the 
+following conditions: 
+
+1. This applies only to life insurance policies and to health insurance 
+policies with tenure of at least one year. 
+2. The customer must exercise this right within 15 days of receiving the 
+policy document 
+3. He has to communicate the same to the insurer in writing 
+4. The premium refund will be available only if no claim has been made on 
+the policy and will be adjusted for 
+a) proportionate risk premium for the period on cover 
+b) expenses incurred by the insurer on medical examination and 
+c) stamp duty charges 
+
+20. Grace period for renewal 
+
+A significant feature of a health insurance policy is maintaining continuity of 
+insurance. As benefits under a policy are maintained only if policies are 
+renewed without break, timely renewal is of great importance. 
+
+As per IRDAI guidelines, a 30 days grace period is allowed for renewal of 
+individual health policies. 
+
+All continuity benefits are maintained if the policy is renewed within 30 days 
+from expiry of the earlier insurance. Claims, if any, during the break period will 
+not be considered. 
+
+Insurers may consider granting a longer grace period for renewal, depending on 
+individual products. 
+
+Most of above key clauses, definitions, exclusions have been standardized under 
+Health Regulations and Health Insurance Standardization guidelines issued by 
+IRDA. Students are advised to go through the same and also keep themselves 
+updated on guidelines and circulars issued by IRDA from time to time.
+394 
+Test Yourself 9 
+
+As per IRDA guidelines, a ________ grace period is allowed for renewal of 
+individual health policies. 
+
+I. Fifteen days 
+II. Thirty days 
+III. Forty Five days 
+IV. Sixty days 
+
+Summary 
+
+a) A health insurance policy provides financial protection to the insured person 
+in the event of an unforeseen and sudden accident / illness leading to 
+hospitalization. 
+
+b) Health insurance products can be classified on the basis of number of people 
+covered under the policy: individual policy, family floater policy, group 
+policy. 
+
+c) A hospitalization expenses policy or Mediclaim reimburses the cost of 
+hospitalization expenses incurred on account of illness / accident. 
+
+d) Pre hospitalization expenses would be relevant medical expenses incurred 
+during period up to the defined number of days (generally 30 days) prior to 
+hospitalization and will be considered as part of claim. 
+
+e) Post hospitalization expenses would be relevant medical expenses incurred 
+during period up to the defined number of days (generally 60 days) after 
+hospitalization and will be considered as part of claim. 
+
+f) In a family floater policy, the family consisting of spouse, dependent 
+children and dependent parents are offered a single sum insured which 
+floats over the entire family. 
+
+g) A hospital daily cash policy provides a fixed sum to the insured person for 
+each day of hospitalization. 
+
+h) Critical illness policy is a benefit policy with a provision to pay a lump sum 
+amount on diagnosis of certain named critical illness. 
+
+i) High Deductible or Top-up Covers offer cover for higher sum insured over 
+and above a specified chosen amount (called threshold or deductible). 
+
+j) The fixed benefits cover provides adequate cover to the insured person and 
+also helps the insurer to effectively price his policy 
+
+k) A Personal Accident (PA) Cover provides compensation in the form of death 
+and disability benefits due to unforeseen accidents.
+395 
+
+l) Out-patient covers provide for medical expenses like dental treatments, 
+vision care expenses, routine medical examinations and tests etc. that do 
+not require hospitalization. 
+
+m) A group policy is taken by a group owner who could be an employer, an 
+association, a bank‟s credit card division, where a single policy covers the 
+entire group of individuals. 
+
+n) Corporate Floater or Buffer Cover amount helps meet excess expenses over 
+and above the family sum insured. 
+
+o) Overseas Mediclaim / Travel Policies provide cover to an individual against 
+exposure to the risk of accident, injury and sickness during his stay 
+overseas. 
+
+p) Corporate Frequent Travelers‟ Plan is an annual policy whereby a corporate 
+takes individual policies for its executives who frequently make trips outside 
+India. 
+
+q) Many terms used in health insurance have been standardized by IRDA by 
+regulation to avoid confusion especially for the insureds. 
+
+Answers to Test Yourself 
+
+Answer 1 
+
+The correct option is II. 
+
+Though the duration of cover for pre-hospitalization expenses would vary from 
+insurer to insurer and is defined in the policy, the most common cover is for 
+thirty days pre-hospitalization. 
+
+Answer 2 
+
+The correct option is I. 
+
+As per IRDA guidelines, a 30 days grace period is allowed for renewal of 
+individual health policies. 
+
+Self-Examination Questions 
+
+Question 1 
+
+Which of the below statement is correct with regards to a hospitalization 
+expenses policy? 
+
+I. Only hospitalization expenses are covered
+396 
+II. Hospitalization as well as pre and post hospitalization expenses are covered 
+III. Hospitalization as well as pre and post hospitalization expenses are covered 
+and a lumpsum amount is paid to the family members in the event of 
+insured‟s death 
+IV. Hospitalization expenses are covered from the first year and pre and post 
+hospitalization expenses are covered from the second year if the first year is 
+claim free. 
+
+Question 2 
+
+Identify which of the below statement is correct? 
+
+I. Health insurance deals with morbidity 
+II. Health insurance deals with mortality 
+III. Health insurance deals with morbidity as well as mortality 
+IV. Health insurance neither deals with morbidity or mortality 
+
+Question 3 
+
+Which of the below statement is correct with regards to cashless service 
+provided in health insurance? 
+
+I. It is an environment friendly go-green initiative started by insurance 
+companies to promote electronic payments so that circulation of physical 
+cash notes can be reduced and trees can be saved. 
+II. Service is provided free of cost to the insured and no cash is to be paid as 
+the payment is made by the Government to the insurance company under a 
+special scheme 
+III. All payments made by insured have to be made only through internet 
+banking or cards as cash is not accepted by the insurance company 
+IV. The insured does not pay and the insurance company settles the bill directly 
+with the hospital 
+
+Question 4 
+
+Identify the correct full form of PPN with regards to hospitals in health 
+insurance. 
+
+I. Public Preferred Network 
+II. Preferred Provider Network 
+III. Public Private Network 
+IV. Provider Preferential Network 
+
+Question 5 
+
+Identify which of the below statement is incorrect? 
+
+I. An employer can take a group policy for his employees
+397 
+II. A bank can take a group policy for its customers 
+III. A shopkeeper can take a group policy for its customers 
+IV. A group policy taken by the employer for his employees can be extended to 
+include the family members of the employees
+398 
+
+Answers to Self-Examination Questions 
+
+Answer 1 
+
+The correct option is II. 
+
+In a hospitalization expenses policy, hospitalization as well as pre and post 
+hospitalization expenses are covered. 
+
+Answer 2 
+
+The correct option is I. 
+
+Health insurance deals with morbidity (rate of incidence of disease). 
+
+Answer 3 
+
+The correct option is IV. 
+
+Under the cashless service, the insured does not pay and the insurance company 
+settles the bill directly with the hospital. 
+
+Answer 4 
+
+The correct option is II. 
+
+PPN stands for Preferred Provider Network. 
+
+Answer 5 
+
+The correct option is III. 
+
+Statements I, II and IV are correct. Statement III is incorrect as a shopkeeper 
+cannot take group insurance for its customers.
+399 
+CHAPTER 20 
+
+HEALTH INSURANCE UNDERWRITING 
+Chapter Introduction 
+
+This chapter aims to provide you detailed knowledge about underwriting in 
+health insurance. Underwriting is a very important aspect of any type of 
+insurance and plays a vital role in issuance of an insurance policy. In this 
+chapter, you will get an understanding about basic principles, tools, methods 
+and process of underwriting. It will also provide you the knowledge about group 
+health insurance underwriting. 
+
+Learning Outcomes 
+
+A. What is underwriting? 
+B. Underwriting - Basic concepts 
+C. File and Use guidelines 
+D. Other health insurance regulations of IRDAI 
+E. Basic principles and tools for underwriting 
+F. Underwriting process 
+G. Group health insurance 
+H. Underwriting of Overseas Travel Insurance 
+I. Underwriting of Personal Accident Insurance 
+
+After studying this chapter, you should be able to: 
+
+a) Explain what is meant by underwriting 
+b) Describe the basic concepts of underwriting 
+c) Explain the principles and the various tools followed by underwriters 
+d) Appreciate the complete process of underwriting individual health policies 
+e) Discuss how group health policies are underwritten
+400 
+
+Look at this Scenario 
+
+Manish aged 48 years, working as a software engineer, decided to take a health 
+insurance policy for himself. He went to an insurance company, where they 
+gave him a proposal form in which he was required to answer a number of 
+questions related to his physical build and health, mental health, pre-existing 
+illnesses, his family health history, habits and so on. 
+
+On receipt of his proposal form, he was also required to submit many 
+documents such as identity and age proof, proof of address and previous 
+medical records. Then they told him to undergo a health check-up and some 
+medical tests which frustrated him. 
+
+Manish, who considered himself a healthy person and with a good income level, 
+started wondering why such a lengthy process was being followed by the 
+insurance company in his case. Even after going through all this, the insurance 
+company told him that high cholesterol and high BP had been diagnosed in his 
+medical tests, which increased the chances of heart diseases later. Though they 
+offered him a policy, the premium was much higher than what his friend had 
+paid and so he refused to take the policy. 
+
+Here, the insurance company was following all these steps as part of their 
+underwriting process. While providing risk coverage, an insurer needs to 
+evaluate risks properly and also to make reasonable profit. If the risk is not 
+assessed properly and there is a claim, it will result in a loss. Moreover, insurers 
+collect premiums on behalf of all insuring persons and have to handle these 
+moneys like a trust.
+401 
+A. What is underwriting? 
+
+1. Underwriting 
+
+Insurance companies try to insure people who are expected to pay adequate 
+premium in proportion to the risk they bring to the insurance pool. This process 
+of collecting and analyzing information from a proposer for the risk selection is 
+known as underwriting. On the basis of information collected through this 
+process, they decide whether they want to insure a proposer. If they decide to 
+do so, then at what premium, terms and conditions so as to make a reasonable 
+profit from taking such risk. 
+
+Health insurance is based on the concept of morbidity. Here morbidity is 
+defined as the likelihood and risk of a person becoming ill or sick thereby 
+requiring treatment or hospitalization. To a large extent, morbidity is 
+influenced by age (generally being higher in senior citizens than in young adults) 
+and also increases due to various other adverse factors, such as being 
+overweight or underweight, personal history of certain past and present 
+diseases or ailments, personal habits like smoking, current health status and 
+also occupation of the proposer if it is deemed to be hazardous. Conversely, 
+morbidity also decreases due to certain favourable factors like lower age, a 
+healthy lifestyle etc. 
+
+Definition 
+
+Underwriting is the process of assessing the risk appropriately and deciding the 
+terms on which the insurance cover is to be granted. Thus, it is a process of risk 
+selection and risk pricing. 
+
+2. Need for underwriting 
+
+Underwriting is the backbone of an insurance company as acceptance of the risk 
+carelessly or for insufficient premiums will lead to insurer‟s insolvency. On the 
+other hand, being too selective or careful will prevent the insurance company 
+from creating a big pool so as to spread the risk uniformly. It is therefore 
+critical to strike the correct balance between risk and business, thereby being 
+competitive and yet profitable for the organization. 
+
+This process of balancing is done by the underwriter, in accordance with the 
+philosophy, policies and risk hunger of the insurance company concerned. The 
+job of the underwriter is to classify the risk and decide the terms of acceptance 
+at a proper price. It is important to note that acceptance of risk is like giving a 
+promise of future claim settlement to the insured.
+402 
+3. Underwriting – risk assessment 
+
+Underwriting is a process of risk selection which is based upon the 
+characteristics of a group or individual. Here based on the degree of the risk, 
+the underwriter decides whether to accept the risk and at what price. Under 
+any circumstances, the process of acceptance has to be done with fairness and 
+on an equitable basis i.e. every similar risk should be classified equally without 
+any prejudice. This classification is normally done through standard acceptance 
+charts whereby every represented risk is quantified and premiums are 
+calculated accordingly. 
+
+Although age affects the chance of sickness as well as death, it must be 
+remembered that sickness usually comes much before death and could be 
+frequent. Hence, it is quite logical that the underwriting norms and guidelines 
+are much tighter for health coverage than death coverage. 
+
+Example 
+
+An individual who is diabetic has a far higher chance of developing a cardiac or 
+kidney complication requiring hospitalization than of death, and also health 
+episodes can happen multiple times during the course of insurance coverage. A 
+life insurance underwriting guideline might rate this individual as an average 
+risk. However, for medical underwriting, he would be rated as a higher risk. 
+
+In health insurance, there is a higher focus on medical or health findings than 
+financial or income based underwriting. However, the latter cannot be ignored 
+as there has to be an insurable interest and financial underwriting is important 
+to rule out any adverse selection and ensure continuity in health insurance. 
+
+4. Factors which affect chance of illness 
+
+The factors which affect morbidity (risk of falling ill) should be considered 
+carefully while assessing risk are as follows: 
+
+a) Age: Premiums are charged corresponding with age and the degree of 
+risk. For e.g. the morbidity premiums for infants and children are higher 
+than young adults due to increased risk of infections and accidents. 
+Similarly, for adults beyond the age of 45 years, the premiums are 
+higher, as the probability of an individual suffering from a chronic 
+ailment like diabetes, a sudden heart ailment or other such morbidity is 
+much higher. 
+
+b) Gender: Women are exposed to additional risk of morbidity during child 
+bearing period. However, men are more likely to get affected by heart 
+attacks than women or suffer job related accidents than women as they 
+may be more involved in hazardous employment. 
+
+c) Habits: Consumption of tobacco, alcohol or narcotics in any form has a 
+direct bearing on the morbidity risk.
+403 
+
+d) Occupation: Extra risk to accidents is possible in certain occupations, 
+e.g. driver, blaster, aviator etc. Likewise, certain occupations may have 
+higher health risks, like an X-Ray machine operator, asbestos industry 
+workers, miners etc. 
+
+e) Family history: This has greater relevance, as genetic factors influence 
+diseases like asthma, diabetes and certain cancers. This does impact the 
+morbidity and should be taken into consideration while accepting risk. 
+
+f) Build: Stout, thin or average build may also be linked to morbidity in 
+certain groups. 
+
+g) Past illness or surgery: It has to be ascertained whether the past illness 
+has any possibility of causing increased physical weakness or even recur 
+and accordingly the policy terms should be decided. For e.g. kidney 
+stones are known to recur and similarly, cataract in one eye increases 
+possibility of cataract in the other eye. 
+
+h) Current health status and other factors or complaints: This is 
+important to ascertain the degree of risk and insurability and can be 
+established by proper disclosure and medical examination. 
+
+i) Environment and residence: These also have a bearing on morbidity 
+rates. 
+
+Test Yourself 1 
+
+Underwriting is the process of ___________. 
+
+I. Marketing insurance products 
+II. Collecting premiums from customers 
+III. Risk selection and risk pricing 
+IV. Selling various insurance products
+404 
+B. Underwriting – Basic concepts 
+
+1. Underwriting purpose 
+
+We begin with examining the purpose of underwriting. There are two purposes 
+
+i. To prevent anti-selection that is selection against the insurer 
+ii. To classify risks and ensure equity among risks 
+
+Definition 
+
+The term selection of risks refers to the process of evaluating each proposal for 
+health insurance in terms of the degree of risk it represents and then deciding 
+whether or not to grant insurance and on what terms. 
+
+Anti-selection (or adverse selection) is the tendency of people, who suspect or 
+know that their chance of experiencing a loss is high, to seek out insurance 
+eagerly and to gain in the process. 
+
+Example 
+
+If insurers were not selective about whom and how they offered insurance, 
+there is a chance that people with serious ailments like diabetes, high BP, heart 
+problems or cancer, who knew that they would soon require hospitalization, 
+would seek to buy health insurance, create losses for the insurer. 
+
+In other words, if an insurer did not exercise selection it would be selected 
+against and suffer losses in the process. 
+
+2. Equity among risks 
+
+Let us now consider equity among risks. The term “Equity” means that 
+applicants who are exposed to similar degrees of risk must be placed in the 
+same premium class. Insurers would like to have some type of standardization 
+to determine the premiums to be charged. Thus people posing average risks 
+should pay similar premium while people who pose higher risks should pay 
+higher premium. They would like standardization to apply to the vast majority 
+of individuals who pose average risks while they could devote more time to 
+decide upon and rate risks which are more risky. 
+
+a) Risk classification 
+
+To usher equity, the underwriter engages in a process known as risk 
+classification i.e. individuals are categorized and assigned to different risk 
+classes depending on the degree of risks they pose. There are four such risk 
+classes.
+405 
+i. 
+Standard risks 
+
+These consist of those people whose anticipated morbidity (chance of falling 
+ill) is average. 
+
+ii. Preferred risks 
+
+These are the ones whose anticipated morbidity is significantly lower than 
+average and hence could be charged a lower premium. 
+
+iii. Substandard risks 
+
+These are the ones whose anticipated morbidity is higher than the average, 
+but are still considered to be insurable. They may be accepted for insurance 
+with higher (or extra) premiums or subjected to certain restrictions. 
+
+iv. Declined risks 
+
+These are the ones whose impairments and anticipated extra morbidity are 
+so great that they could not be provided insurance coverage at an affordable 
+cost. Sometimes an individual‟s proposal may also be temporarily declined if 
+he or she has been exposed to a recent medical event, like an operation. 
+
+3. Selection process 
+
+Underwriting or the selection process may be said to take place at two levels: 
+
+ At field level 
+ At underwriting department level 
+
+Diagram 7: Underwriting or the selection process 
+
+c) Field or Primary level 
+
+Field level underwriting may also be known as primary underwriting. It 
+includes information gathering by an agent or company representative to 
+decide whether an applicant is suitable for granting insurance coverage. The
+406 
+agent plays a critical role as primary underwriter. He is in the best position 
+to know the prospective client to be insured. 
+
+ A few insurance companies may require that agents complete a statement or 
+a confidential report, asking for specific information, opinion and 
+recommendations to be provided by the agent with respect to the proposer. 
+
+A similar kind of report, which has been called as Moral Hazard report, may 
+also be sought from an official of the insurance company. These reports 
+typically cover the occupation, income and financial standing and reputation 
+of the proposed life. 
+
+What is Moral Hazard? 
+
+While factors like age, gender, habits etc. refer to the physical hazard of a 
+health risk, there is something else that needs to be closely watched. This is 
+the moral hazard of the client which can prove very costly to the insurance 
+company. 
+
+An extreme example of bad moral hazard is that of an insured taking health 
+insurance knowing that he will undergo a surgical operation within a short 
+time but not disclosing this to the insurer. There is thus a deliberate 
+intention of taking insurance just to collect a claim. 
+
+Indifference towards loss is another example. Because of the existence of 
+insurance, the insured may be tempted to adopt a careless attitude towards 
+his health knowing that any hospitalization would be paid by his insurer. 
+
+Another type of hazard called „morale hazard‟ is also worthy of mention. 
+Here the insured would not commit any fraud but, knowing that he has a 
+large sum insured, he would prefer to take the most expensive treatment, 
+staying in the most expensive hospital room etc. which he would not have 
+done had he not been insured. 
+
+Fraud monitoring and role of agent as primary underwriter 
+
+Much of the decision with regard to selection of a risk depends on the facts 
+that have been disclosed by the proposer in the proposal form. It may be 
+difficult for an underwriter who is sitting in the underwriting department to 
+know whether these facts are untrue and have been fraudulently 
+misrepresented with deliberate intent to deceive. 
+
+The agent plays a significant role here. He or she is in the best position to 
+ascertain that the facts that have been represented are true, since the agent 
+has direct and personal contact with the proposer and can thus monitor if 
+any willful non-disclosure or misrepresentation has been made with an intent 
+to mislead.
+407 
+d) Underwriting department level 
+
+The second level of underwriting is at the department or office level. It 
+involves specialists and persons who are proficient in such work and who 
+consider all the relevant data on the case to decide whether to accept a 
+proposal for insurance and on what terms.
+408 
+C. File and Use guidelines 
+
+It must be remembered that every insurer has to create it products before 
+marketing them and this is also one of the functions of the underwriting 
+department. The IRDAI has issued guidelines for this which are summarized 
+below: 
+
+Every company designs its products keeping in mind the target customers‟ 
+needs, wants and affordability, underwriting considerations, actuarial pricing, 
+competitive conditions in the market etc. Thus we see high number of options 
+for different categories of customers to choose from even though at the base 
+level, hospitalization expense indemnity products dominate the Indian market. 
+
+Every new product needs approval of IRDA before introduction. The product 
+needs to be filed with the Regulator under „File and Use‟ provisions as 
+mentioned below. Once introduced, product withdrawal also needs to follow 
+guidelines. Students are advised to familiarize themselves with all provisions, 
+forms, returns etc. related to File and Use guidelines. 
+
+File and use procedure for health insurance products as per IRDA guidelines: 
+
+a) No health insurance product shall be marketed by any insurer unless it 
+has the prior clearance of the Authority accorded as per the File and Use 
+Procedure. 
+
+b) Any subsequent revision or modification of any approved health 
+insurance product shall also require the prior clearance of the Authority 
+as per the guidelines issued from time to time. 
+
+1. Any revision or modification in a policy which is approved by the 
+Authority shall be notified to each policy holder at least three 
+months prior to the date when such revision or modification comes 
+into effect. The notice shall set out the reasons for such revision or 
+modification, in particular the reason for an increase in premium 
+and the quantum of such increase. 
+
+2. The possibility of a revision or modification of the terms of the 
+policy including the premium must be disclosed in the prospectus. 
+
+c) The File and Use application form has been standardized by IRDAI and 
+has to be sent along with many annexures including the Database sheet 
+and the Customer Information Sheet. 
+
+The Customer Information Sheet which is to be given to every insured 
+along with the prospectus and the policy contains details of the cover, 
+the exclusions, waiting period if any before claim becomes payable, 
+whether the payout will be on reimbursement basis or a fixed amount, 
+renewal conditions and benefits, details of co-pay or deductible and 
+cancellation conditions etc.
+409 
+
+The File and Use application for the prior approval of the Authority shall 
+be certified by the Appointed Actuary and the CEO of the insurance 
+company and shall be in such formats and accompanied by such 
+documentation as may be stipulated by the Authority from time to time. 
+
+d) Withdrawal of health insurance product 
+
+1. To withdraw a health insurance product, the insurer shall take 
+prior approval of the Authority by giving reasons for withdrawal 
+and complete details of the treatment to the existing -
+policyholders. 
+
+2. The policy document shall clearly indicate the possibility of 
+withdrawal of the products in the future and the options that 
+would be available to the policyholder on withdrawal of the 
+products. 
+
+3. If the existing customer does not respond to the insurer‟s 
+intimation, the policy shall be withdrawn on the renewal date and 
+the insured shall have to take a new policy available with the 
+insurer, subject to portability conditions. 
+
+4. The withdrawn product shall not be offered to the prospective 
+customers. 
+
+e) All particulars of any product shall after introduction be reviewed by the 
+Appointed Actuary at least once a year. If the product is found to be 
+financially unviable, or is deficient in any particular the Appointed 
+Actuary may revise the product appropriately and apply for revision 
+under File and Use procedure. 
+
+f) Five years after a product has been accorded File and Use approval, the 
+Appointed Actuary shall review the performance of the product in terms 
+of morbidity, lapse, interest rates, inflation, expenses and other 
+relevant particulars as compared to the original assumptions made while 
+designing such product and seek fresh approval with suitable 
+justifications or modifications of the earlier assumptions made.
+410 
+D. Other Health Insurance regulations of IRDAI 
+
+In addition to the File and Use guidelines, the Health Insurance regulations also 
+require the following: 
+
+a. All Insurance Company‟s shall evolve a Health Insurance Underwriting 
+Policy which shall be approved by the Board of the Company. The policy 
+should among other matters prescribe the proposal form in which 
+prospects may apply for purchasing a Health Policy. Such form should 
+capture all the information necessary to underwrite a proposal in 
+accordance with the stated Policy of the Company. 
+b. The Underwriting Policy shall be filed with the Authority. The Company 
+retains the right to modify the Policy as it deems necessary, but every 
+modification shall also be filed with the Authority. 
+c. Any proposal for health insurance may be accepted or denied wholly 
+based on the Board approved underwriting policy. A denial of a proposal 
+shall be communicated to the prospect in writing, recording the reasons 
+for denial. 
+d. The insured shall be informed of any underwriting loading charged over 
+and above the premium and the specific consent of the policyholder for 
+such loadings shall be obtained before issuance of a policy. 
+e. If an insurance company requires any further information, such as 
+change of occupation, at any subsequent stage of a policy or at the time 
+of its renewal, it shall prescribe standard forms to be filled up by the 
+insured and shall make these forms part of the policy document, clearly 
+state the events which will require the submission of such information 
+and the conditions applicable in such event. 
+f. Insurers may devise mechanisms or incentives to reward policyholders for 
+early entry, continued renewals, favourable claims experience etc. with 
+the same insurer and disclose upfront such mechanism or incentives in 
+the prospectus and the policy document, as approved under File and Use 
+guidelines. 
+
+Guidelines regarding portability of health policies 
+
+IRDAI has brought out very clear guidelines regarding portability of life and 
+health insurance policies. These are enumerated below: 
+
+1. Portability shall be allowed in the following cases: 
+a. All individual health insurance policies issued by non-life insurance 
+companies including family floater policies 
+b. Individual members, including the family members covered under any 
+group health insurance policy of a non-life insurance company shall 
+have the right to migrate from such a group policy to an individual 
+health insurance policy or a family floater policy with the same insurer. 
+Thereafter, he/she shall be accorded the right for portability at next 
+renewal.
+411 
+2. Portability can be opted by the policyholder only at renewal and not during 
+currency of the policy. 
+
+3. A policyholder wanting to port his policy to another insurance company has 
+to apply to such insurance company, to port the entire policy along with all 
+the members of the family, if any, at least 45 days before the premium 
+renewal date of the existing policy. 
+
+4. The new insurer may or may not offer portability if policyholder fails to 
+make an application in the IRDAI-prescribed form at least 45 days before 
+the premium renewal date. 
+
+5. On receipt of such intimation, the insurance company shall furnish the 
+applicant, the Portability Form as set out in Annexure 'I' to the IRDAI 
+guidelines together with a proposal form and relevant product literature on 
+the various health insurance products which could be offered. 
+
+6. The policyholder shall fill in the portability form along with proposal form 
+and submit the same to the insurance company. 
+
+7. On receipt of the Portability Form, the insurance company shall address the 
+existing insurance company seeking necessary details of medical history and 
+claim history of the concerned policyholder. This shall be done through the 
+web portal of the IRDA. 
+
+8. The insurance company receiving such a request on portability shall furnish 
+the requisite data in the data format for porting insurance policies 
+prescribed in the web portal of IRDA within 7 working days of the receipt of 
+the request. 
+
+9. In case the existing insurer fails to provide the requisite data in the data 
+format to the new insurance company within the specified time frame, it 
+shall be viewed as violation of directions issued by the IRDA and the insurer 
+shall be subject to penal provisions under the Insurance Act, 1938. 
+
+10. On receipt of the data from the existing insurance company, the new 
+insurance company may underwrite the proposal and convey its decision to 
+the policyholder in accordance with the Regulation 4 (6) of the IRDA 
+(Protection of Policyholders' interest) Regulations, 2002. 
+
+11. If on receipt of data within the above time frame, the insurance company 
+does not communicate its decision to the requesting policyholder within 15 
+days in accordance with its underwriting policy as filed by the company 
+with the Authority, then the insurance company shall not retain the right to 
+reject such proposal and shall have to accept the proposal. 
+
+12. Where the outcome of acceptance of portability is still awaited from the 
+new insurer on the date of renewal
+412 
+a. the existing policy shall be allowed to be extended, if requested by the
+policyholder, for the short period by accepting a pro- rate premium for such
+short period, which shall be of at least one month and 
+b. the existing policy shall not be cancelled until such time a confirmed policy
+from new insurer is received or at the specific written request of the insured 
+c. the new insurer, in all such cases, shall reckon the date of the
+commencement of risk to match with date of expiry of the short period,
+wherever relevant. 
+d. if for any reason the insured intends to continue the policy further with the
+existing insurer, it shall be allowed to continue by charging a regular
+premium and without imposing any new condition. 
+13. In case the policyholder has opted short period extension as stated above 
+and there is a claim, then existing insurer may charge the balance premium 
+for remaining part of the policy year provided the claims is accepted by the 
+existing insurer. In such cases, policyholder shall be liable to pay the 
+premium for the balance period and continue with existing insurer for that 
+policy year. 
+
+14. In order to accept a policy which is porting-in, insurer shall not levy any 
+additional loading or charges exclusively for the purpose of porting. 
+
+15. No commission shall be payable to any intermediary on the acceptance of a 
+ported policy. 
+
+16. For any health insurance policy, waiting period already elapsed under the 
+existing policy with respect to pre-existing diseases and time bound 
+exclusions shall be taken into account and reduced to that extent under the 
+newly ported policy. 
+Note 1: In case the waiting period for a certain disease or treatment in the 
+new policy is longer than that in the earlier policy for the same 
+disease or treatment, the additional waiting period should be 
+clearly explained to the incoming policy holder in the portability 
+form to be submitted by the porting policyholder. 
+Note 2: For group health insurance policies, the individual member's shall 
+be given credit as stated above based on the number of years of 
+continuous insurance cover, irrespective of, whether the previous 
+policy had any pre-existing disease exclusion/time bound 
+exclusions. 
+17. The portability shall be applicable to the sum insured under the previous 
+policy and also to an enhanced sum insured, if requested by the insured, to 
+the extent of cumulative bonus acquired from the previous insurer(s) under 
+the previous policies.
+413 
+For e.g. - If a person had a SI of Rs. 2 lakhs and accrued bonus of Rs. 50,000 
+with insurer A; when he shifts to insurer B and the proposal is accepted, 
+insurer B has to offer him SI of Rs. 2.50 lakhs by charging the premium 
+applicable for Rs. 2.50 lakhs. If insurer B has no product for Rs. 2.50 lakhs, 
+insurer B would offer the nearest higher slab say Rs. 3 lakhs to insured by 
+charging premium applicable for Rs. 3 lakhs SI. However, portability would 
+be available only up to Rs 2.50 lakhs. 
+18. Insurers shall clearly draw the attention of the policyholder in the policy 
+contract and the promotional material like prospectus, sales literature or 
+any other documents in any form whatsoever, that: 
+a. all health insurance policies are portable; 
+b. policyholder should initiate action to approach another insurer, to 
+take advantage of portability, well before the renewal date to 
+avoid any break in the policy coverage due to delays in acceptance 
+of the proposal by the other insurer.
+414 
+E. Basic principles of insurance and tools for underwriting 
+
+1. Basic principles relevant to underwriting 
+
+In any form of insurance, whether it is life insurance or general insurance, there 
+are certain legal principles which operate along with acceptance of risks. Health 
+insurance is equally governed by these principles and any violation of the 
+principles results in the insurer deciding to avoid the liability, much to the 
+dissatisfaction and frustration of the policyholders. These core principles are: 
+
+1. Utmost good faith (Uberrima fides) and the insurable interest 
+
+2. Tools for underwriting 
+
+These are the sources of information for the underwriter and the basis on which 
+the risk classification is done and premiums finally decided. The following are 
+the key tools for underwriting: 
+a) Proposal form 
+
+This document is the base of the contract where all the critical information 
+pertaining to the health and personal details of the proposer (i.e. age, 
+occupation, build, habits, health status, income, premium payment details 
+etc.) are collected. This could range from a set of simple questions to a fully 
+detailed questionnaire according to product and the needs/policy of the 
+company, so as to ensure that all material facts are disclosed and the 
+coverage is given accordingly. Any breach or concealment of information by 
+the insured shall render the policy void. 
+
+b) Age proof 
+
+Premiums are determined on the basis of the age of the insured. Hence it is 
+imperative that the age disclosed at the time of enrollment is verified 
+through submission of an age proof. 
+
+Example 
+
+In India, there are many documents which can be considered as age proof but 
+all of them are not legally acceptable. Mostly valid documents are divided into 
+two broad categories. They are as follows: 
+
+a) Standard age proof: Some of these include school certificate, passport, 
+domicile certificate, PAN card etc. 
+b) Non-standard age proof: Some of these include ration card, voter ID, 
+elder‟s declaration, gram panchayat certificate etc.
+415 
+c) Financial documents 
+
+Knowing the financial status of the proposer is particularly relevant for 
+benefit products and to reduce the moral hazard. However, normally the 
+financial documents are only asked for in cases of 
+a) Personal accident covers or 
+b) high sum assured coverage or 
+c) when the stated income and occupation as compared to the coverage 
+sought, show a mismatch. 
+
+d) Medical reports 
+
+Requirement of medical reports is based on the norms of the insurer, and 
+usually depends upon the age of the insured and sometimes on the amount 
+of cover opted. Some replies in the proposal form may also contain some 
+information that leads to medical reports being asked for. 
+
+e) Reports of sales personnel 
+
+Sales personnel can also be seen as grassroots level underwriters for the 
+company and the information given by them in their report could form an 
+important consideration. However, as the sales personnel have an incentive 
+to generate more business, there is a conflict of interest which has to be 
+watched out for. 
+
+Test Yourself 2 
+
+The principle of utmost good faith in underwriting is required to be followed by 
+___________. 
+
+I. The insurer 
+II. The insured 
+III. Both the insurer and the insured 
+IV. The medical examiners 
+
+Test Yourself 3 
+
+Insurable interest refers to ____________. 
+
+I. Financial interest of the person in the asset to be insured 
+II. The asset which is already insured 
+III. Each insurer‟s share of loss when more than one company covers the same 
+loss 
+IV. The amount of the loss that can be recovered from the insurer
+416 
+F. Underwriting process 
+
+Once the required information is received, the underwriter decides the terms of 
+the policy. The common forms used for underwriting health insurance business 
+are as below: 
+
+1. Medical underwriting 
+
+Medical underwriting is a process in which medical reports are called for from 
+the proposer to determine the health status of an individual applying for health 
+insurance policy. The health information collected is then evaluated by the 
+insurers to determine whether to offer coverage, up to what limit and on what 
+conditions and exclusions. Thus medical underwriting can determine the 
+acceptance or declining of a risk and also the terms of cover. 
+
+However, medical underwriting involves high costs in terms of receiving and 
+examining medical reports. Also, when insurers use a high degree of medical 
+underwriting, they are blamed for „cream-skimming‟ (accepting only the best 
+kind of risk and denying others). It also causes frustration among prospective 
+clients and reduces the number of people willing to insure with those insurers as 
+they do not want to provide the requisite information and detail and to undergo 
+the required tests. 
+
+Health status and age are important underwriting considerations for individual 
+health insurance. Also current health status, personal and family medical 
+history enable an underwriter to determine presence of any pre-existing 
+diseases or conditions and eventually the probability of future health problems 
+that may require hospitalization or surgical intervention. 
+
+Further proposal forms are designed in a manner to elicit information about 
+past treatments taken, hospitalizations and surgeries undergone. This helps an 
+underwriter to evaluate the possibility of recurrence of an earlier ailment, its 
+impact on current or future health status or future complications. Some 
+diseases for which the proposer is taking medicines only may soon require 
+hospitalization any time soon or recur. 
+
+Example 
+
+Medical conditions like hypertension, overweight/obesity and raised sugar levels 
+have a high probability of future hospitalization for diseases of the heart, 
+kidney and the nervous system. So, these conditions should be carefully 
+considered while assessing the risk for medical underwriting. 
+
+Since adverse changes in health status generally occur post 40 years, mainly due 
+to normal ageing process, insurers do not require any medical examination or 
+tests of the proposer earlier than the age of 45 years (some insurers could raise 
+this requirement to 50 or 55 years too). Medical underwriting guidelines may 
+also require a signed declaration of the proposer‟s health status by his/her 
+family physician.
+417 
+
+In the Indian health insurance market, the key medical underwriting factor for 
+individual health insurance is the age of the person. Persons above the age of 
+45-50 years, enrolling for the first time are normally required to undergo 
+specified pathological investigations to assess health risk profile and to obtain 
+information on their current health status. Such investigations also provide an 
+indication of prevalence of any pre-existing medical conditions or diseases. 
+
+Example 
+
+Drugs, alcohol and tobacco consumption may be difficult to detect and seldom 
+declared by the proposer in the proposal form. Non-disclosure of these poses a 
+major challenge in underwriting of health insurance. Obesity is another problem 
+which threatens to become a major public health problem and underwriters 
+need to develop underwriting tools to be able to adequately price the 
+complications arising out of the same. 
+
+2. Non-medical underwriting 
+
+Most of the proposers which apply for health insurance do not need medical 
+examination. If it could be known with a fair degree of accuracy that only one-
+tenth or less of such cases will bring the adverse results during medical 
+examination, insurers could dispense with medical examination in majority of 
+the cases. 
+
+Even, if the proposer were to disclose all material facts completely and 
+truthfully and the same were checked by agent carefully, then also the need for 
+medical examination could have been much less. In fact, a slight increase in the 
+claims ratio can be accepted if there is savings in the costs of medical checkup 
+and other expenses and also as it will reduce the inconvenience to the proposer. 
+
+Therefore, insurance companies are coming up with some medical policies 
+where the proposer is not required to undergo any medical examination. In such 
+cases, companies usually create a „medical grid‟ to indicate at what age and 
+stage should a medical underwriting be done, and therefore these non- medical 
+limits are carefully designed so as to strike a proper balance between business 
+and risk. 
+
+Example

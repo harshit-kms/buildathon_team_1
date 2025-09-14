@@ -1,0 +1,24 @@
+
+            Health Insurance Overview:
+            Health insurance covers medical expenses and healthcare costs.
+            Types include HMO, PPO, EPO, and High-Deductible Health Plans.
+
+            Key components:
+            - Premium: Monthly payment for coverage
+            - Deductible: Amount paid before insurance kicks in
+            - Copayment: Fixed amount for doctor visits
+            - Coinsurance: Percentage of costs after deductible
+            - Out-of-pocket maximum: Yearly limit on your expenses
+
+            Essential benefits covered:
+            - Ambulatory patient services
+            - Emergency services
+            - Hospitalization
+            - Maternity and newborn care
+            - Mental health and substance abuse
+            - Prescription drugs
+            - Rehabilitative services
+            - Laboratory services
+            - Preventive care
+            - Pediatric services
+            

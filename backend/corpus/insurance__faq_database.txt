@@ -1,0 +1,57 @@
+        INSURANCE FAQ DATABASE
+
+        LIFE INSURANCE FAQs:
+
+        Q: How much life insurance do I need?
+        A: A general rule is 10-12 times your annual income, but consider debts, future expenses, and existing assets.
+
+        Q: What's the difference between term and whole life insurance?
+        A: Term provides temporary coverage at lower cost. Whole life is permanent with cash value but higher premiums.
+
+        Q: Can I change my life insurance policy?
+        A: Many policies allow changes to coverage amount, beneficiaries, and payment options. Check with your insurer.
+
+        Q: When should I buy life insurance?
+        A: The younger and healthier you are, the lower your premiums. Don't wait if you have financial dependents.
+
+        AUTO INSURANCE FAQs:
+
+        Q: What happens if I'm in an accident with an uninsured driver?
+        A: Uninsured motorist coverage protects you. Otherwise, you may need to sue the driver personally.
+
+        Q: Does auto insurance follow the car or the driver?
+        A: It primarily follows the car, but coverage may extend to permissive users depending on your policy.
+
+        Q: How does a DUI affect my insurance?
+        A: Expect significant rate increases (50-100% or more) and possible policy cancellation. SR-22 may be required.
+
+        Q: What factors affect my auto insurance rates?
+        A: Age, driving record, location, vehicle type, credit score, coverage limits, and deductibles.
+
+        HOME INSURANCE FAQs:
+
+        Q: Does homeowners insurance cover flood damage?
+        A: No, standard policies exclude flood. You need separate flood insurance through NFIP or private insurers.
+
+        Q: What's the difference between replacement cost and actual cash value?
+        A: Replacement cost pays to rebuild/replace without depreciation. ACV deducts depreciation from payouts.
+
+        Q: Does homeowners insurance cover home-based businesses?
+        A: Limited or no coverage. You may need a business policy or endorsement for adequate protection.
+
+        Q: How often should I review my homeowners coverage?
+        A: Annually or after major changes (renovations, purchases, life events).
+
+        HEALTH INSURANCE FAQs:
+
+        Q: What's the difference between HMO and PPO?
+        A: HMO requires primary care physician and referrals, lower costs. PPO offers more flexibility, higher costs.
+
+        Q: What is a health savings account (HSA)?
+        A: Tax-advantaged account for medical expenses, available with high-deductible health plans.
+
+        Q: Can I keep my doctor if I change insurance?
+        A: Only if they're in your new plan's network. Check provider directories before switching.
+
+        Q: What happens if I lose my job and health insurance?
+        A: COBRA continuation coverage, marketplace plans, or Medicaid may be options.

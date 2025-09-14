@@ -1,0 +1,820 @@
+I. Offer and acceptance 
+II. Consideration 
+III. Free consent 
+IV. Capacity of parties to contract 
+
+Question 2 
+
+_____________ relates to inaccurate statements, which are made without any 
+fraudulent intention. 
+
+I. Misrepresentation 
+II. Contribution 
+III. Offer 
+IV. Representation 
+
+Question 3 
+
+________________ involves pressure applied through criminal means. 
+
+I. Fraud 
+II. Undue influence 
+III. Coercion 
+IV. Mistake 
+
+Question 4 
+
+Which among the following is true regarding life insurance contracts?
+97 
+I. They are verbal contracts not legally enforceable 
+II. They are verbal which are legally enforceable 
+III. They are contracts between two parties (insurer and insured) as per 
+requirements of Indian Contract Act, 1872 
+IV. They are similar to wager contracts 
+
+Question 5 
+
+Which of the below is not a valid consideration for a contract? 
+
+I. Money 
+II. Property 
+III. Bribe 
+IV. Jewellery 
+
+Question 6 
+
+Which of the below party is not eligible to enter into a life insurance contract? 
+
+I. Business owner 
+II. Minor 
+III. House wife 
+IV. Government employee 
+
+Question 7 
+
+Which of the below action showcases the principle of “Uberrima Fides”? 
+
+I. Lying about known medical conditions on an insurance proposal form 
+II. Not revealing known material facts on an insurance proposal form 
+III. Disclosing known material facts on an insurance proposal form 
+IV. Paying premium on time 
+
+Question 8 
+
+Which of the below is not correct with regards to insurable interest? 
+
+I. Father taking out insurance policy on his son 
+II. Spouses taking out insurance on one another 
+III. Friends taking out insurance on one another 
+IV. Employer taking out insurance on employees 
+
+Question 9 
+
+When is it essential for insurable interest to be present in case of life insurance? 
+
+I. At the time of taking out insurance 
+II. At the time of claim 
+III. Insurable interest is not required in case of life insurance 
+IV. Either at time of policy purchase or at the time of claim
+98 
+Question 10 
+
+Find out the proximate cause for death in the following scenario? 
+
+Ajay falls off a horse and breaks his back. He lies there in a pool of water and 
+contracts pneumonia. He is admitted to the hospital and dies because of 
+pneumonia. 
+
+I. Pneumonia 
+II. Broken back 
+III. Falling off a horse 
+IV. Surgery 
+
+Answers to Self-Examination Questions 
+
+Answer 1 
+
+The correct option is II. 
+
+The element of a valid contract deals with premium is consideration. 
+
+Answer 2 
+
+The correct option is I. 
+
+Misrepresentation relates to inaccurate statements, which are made without 
+any fraudulent intention. 
+
+Answer 3 
+
+The correct option is III. 
+
+Coercion involves pressure applied through criminal means. 
+
+Answer 4 
+
+The correct option is III. 
+
+Life insurance contracts are contracts between two parties (insurer and insured) 
+as per requirements of Indian Contract Act, 1872. 
+
+Answer 5 
+
+The correct option is III. 
+
+Bribe is not a valid consideration for a contract.
+99 
+Answer 6 
+
+The correct option is II. 
+
+Minors are not eligible to contract a life insurance contract. 
+
+Answer 7 
+
+The correct option is III. 
+
+Disclosing known material facts on an insurance proposal form is in tune with 
+the principle of “Uberrima Fides”. 
+
+Answer 8 
+
+The correct option is III. 
+
+Friends cannot take out insurance on one another as there is no insurable 
+interest present. 
+
+Answer 9 
+
+The correct option is I. 
+
+In case of life insurance insurable interest needs to be present at the time of 
+taking out insurance. 
+
+Answer 10 
+
+The correct option is III. 
+
+Falling off the horse is the proximate cause for Ajay‟s death.
+100 
+
+SECTION 2 
+
+LIFE SECTION
+101 
+CHAPTER 6 
+
+WHAT LIFE INSURANCE INVOLVES 
+
+Chapter Introduction 
+
+Insurance involves four aspects 
+
+ An asset 
+ The risk insured against 
+ The principle of pooling 
+ The contract 
+
+Let us now examine the features of life insurance. This chapter will take a brief 
+look at the various components of life insurance mentioned above. 
+
+Learning Outcomes 
+
+A. Life insurance business – Components, human life value, mutuality
+102 
+
+A. Life insurance business – Components, human life value, mutuality 
+
+1. The Asset – Human Life Value(HLV) 
+
+We have already seen that an asset is a kind of property that yields value or a 
+return. For most kinds of property the value is measured in precise monetary 
+terms. Similarly the amount of loss of value can also be measured. 
+
+Example 
+
+When a car meets with an accident, the amount of damage can be estimated to 
+be Rs. 50,000.The insurer will compensate the owner for this loss. 
+
+How do we estimate the amount of loss when a person dies? 
+
+Is he worth Rs. 50,000 or Rs. 5,00,000? 
+
+The above question has to be answered by an agent whenever he or she meets a 
+customer. Based on this the agent can determine how much insurance to 
+recommend to the customer. It is in fact the first lesson a life insurance agent 
+must learn. 
+
+Luckily we have a measure, developed almost seventy years ago by Prof. 
+Hubener. The measure, known as Human Life Value (HLV) is used worldwide. 
+
+The HLV concept considers human life as a kind of property or asset that earns 
+an income. It thus measures the value of human life based on an individual‟s 
+expected net future earnings. Net earnings means income a person expects to 
+earn each year in the future, less the amount he would spend on self. It thus 
+indicates the economic loss a family would suffer if the wage earner were to die 
+prematurely. These earnings are capitalised, using an appropriate interest rate 
+to discount them. 
+
+There is a simple thumb rule or way to measure HLV. This is to divide the 
+annual income a family would like to have, even if the bread earner was no 
+longer alive, with the rate of interest that can be earned. 
+
+Example 
+
+Mr. Rajan earns Rs. 1,20,000 a year and spends Rs. 24,000 on himself. 
+
+The net earnings his family would lose, were he to die prematurely, would be 
+Rs. 96,000 per year. 
+
+Suppose the rate of interest is 8% (expressed as 0.08). 
+Human-Life-Value (H.L.V.) = Annual Contribution for Dependents ÷ Rate-
+of-Interest.
+103 
+
+HLV = 96000 / 0.08 = Rs. 12,00,000 
+
+HLV helps to determine how much insurance one should have for full protection. 
+It also tells us the upper limit beyond which life insurance would be speculative. 
+
+In general, we can say that amount of insurance should be around 10 to 15 
+times one‟s annual income. In the above example, one should grow suspicious if 
+Mr. Rajan was to ask insurance of Rs. 2 crores, while earning only Rs. 1.2 lakhs a 
+year. The actual amount of insurance purchased would of course depend on 
+factors like how much insurance one can afford and would like to buy. 
+
+2. The Risk 
+
+As we have seen above, life insurance provides protection against those risk 
+events that can destroy or diminish the value of human life as an asset. There 
+are three kinds of situations where such loss can occur. They are typical 
+concerns which ordinary people face. 
+
+Diagram 1: Typical concerns faced by ordinary people 
+
+General insurance on the other hand typically deals with those risks that affect 
+property – like fire, loss of cargo while at sea, theft and burglary and motor 
+accidents. They also cover events that can result in loss of name and goodwill. 
+These are covered by a class of insurance called liability insurance. 
+
+Finally there are risks that can affect the person. Termed as personal risks, 
+these may also be covered by general insurance. 
+
+Example 
+
+Accident insurance which protects against losses suffered due to an accident. 
+
+a) How exactly does life insurance differ from general insurance?
+104 
+General Insurance 
+Life Insurance 
+Indemnity: 
+General 
+insurance 
+policies, with the exception of 
+Personal Accident Insurance, are 
+usually contracts of indemnity 
+Life insurance policies are contracts 
+of assurance. 
+
+Indemnity means that after the 
+occurrence of an event like fire, the 
+insurer can assess the exact amount 
+of loss that has occurred and pays 
+compensation only to the amount of 
+loss – no more, no less. 
+
+This is not possible in life insurance. 
+The amount of benefit to be paid in 
+the event of death has to be fixed at 
+the beginning itself, at the time of 
+writing the contract. Life insurance 
+policies are thus often known as life 
+assurance contracts. An assured sum 
+is 
+paid 
+to 
+the 
+nominees 
+or 
+beneficiaries of the insured when he 
+dies. 
+
+Uncertainty: In general insurance 
+contracts, the risk event protected 
+against is uncertain. No one can 
+say with certainty whether a house 
+would be gutted by fire or whether 
+a car would meet an accident. 
+In the case of life insurance, there is 
+no question whether the event death 
+would occur or not. Death is certain 
+once a person is born. What is 
+uncertain is the time of death. Life 
+insurance thus provides protection 
+against the risk of premature death. 
+
+Increase in probability: In general 
+insurance, in case of perils like fire 
+or earthquake, the probability of 
+the happening of the event does 
+not increase with time. 
+In 
+case 
+of 
+life 
+insurance 
+the 
+probability of death increases with 
+age. 
+
+b) Nature of life insurance risk 
+
+Since mortality is related to age it means lower premiums are charged for 
+those who are young and higher premiums for older people. One result was 
+that individuals who were old but otherwise in good health, tended to 
+withdraw while unhealthy members remained in the scheme. Insurance 
+companies faced serious problems as a result. They sought to develop 
+contracts whose premiums could be afforded and hence paid by individuals 
+throughout their life. This led to the development of level premiums.
+105 
+3. Level premiums 
+
+Important 
+
+The level premium is a premium fixed such that it does not increase with age 
+but remains constant throughout the contract period. 
+
+This means that premiums collected in early years would be more than the 
+amount needed to cover death claims of those dying at these ages, while 
+premiums collected in later years would be less than what is needed to meet 
+claims of those dying at the higher ages. The level premium is an average of 
+both. This means that the excess premiums of earlier ages compensate for the 
+deficit of premiums in later ages. 
+
+The level premium feature is illustrated below. 
+
+Diagram 2: Level Premium 
+
+Level premiums also mean, life insurance contracts are typically long term 
+insurance contracts that run for 10, 20 or many more years. On the other hand 
+general insurance is typically short term and expires every year. 
+
+Important 
+
+Premiums collected in early years of the contract are held in trust by the 
+insurance company for the benefit of its policyholders. The amount so collected 
+is called a “Reserve”. An insurance company keeps this reserve to meet the 
+future obligations of the insurer. The excess amount also creates a fund known 
+as the “Life Fund”. Life insurers invest this fund and earn an interest.
+106 
+a) Components of level premium 
+
+The level premium has two components. 
+
+i. The first is known as the term or protection component, consisting of 
+that portion of premium actually needed to pay the cost of the risk. 
+
+ii. The second is known as the cash value element. It is made up of 
+accumulated excess payments of the policyholder. It constitutes the 
+savings component. 
+
+This means that almost all life insurance policies contain a mix of protection 
+and savings. The more the cash value element in the premium, the more it is 
+considered as a savings oriented insurance policy. 
+
+4. The Principle of Risk Pooling 
+
+Life insurance companies have been classified as contractual financial 
+institutions. This means that the benefits payable to policyholders have often 
+taken the form of contractual guarantees. Life insurance and pensions have 
+traditionally been purchased, above all things, for the sense of financial 
+security they provide. This security arises as a result of the way the contracts 
+are structured and certain safeguards are built to ensure that insurers are in a 
+position to pay. The structure arises from the application of the mutuality or 
+pooling principle. 
+
+Mutuality is one of the important ways to reduce risk in financial markets, the 
+other being diversification. The two are fundamentally different. 
+
+Diversification 
+Mutuality 
+Under diversification the funds are 
+spread out among 
+various assets 
+(placing the eggs in different baskets). 
+Under mutuality or pooling, the funds 
+of various individuals are combined 
+(placing all eggs in one basket). 
+Under diversification we have funds 
+flowing from one source to many 
+destinations 
+Under mutuality we have funds flow 
+from many sources to one 
+
+Diagram 3: Mutuality 
+
+Mutuality (Funds flow from many sources to one)
+107 
+
+Mutuality or the pooling principle plays two specific kinds of roles in life 
+insurance. 
+
+i. The first is its role in providing protection against the economic loss 
+arising as a result of one‘s untimely death. This loss is shouldered and 
+addressed through having a fund that pools the contributions of many 
+who have entered into the life insurance contract. 
+
+ii. The principle of risk pooling however goes beyond mortality risk. It can 
+involve the pooling and evening out of financial risk as well. This is 
+achieved by pooling the premiums, the funds and consequently the 
+attendant risks of various kinds of contracts taken by individuals at 
+different points of time. It is thus a case of pooling among different 
+generations of policyholders. The outcome of this pooling is to try and 
+ensure that in good as well as bad times the life insurer is able to pay a 
+uniform rate of return (a uniform bonus) through smoothing out the 
+returns across time.
+108 
+5. The Life Insurance Contract 
+
+Diagram 4: Life insurance contract 
+
+The final aspect of life insurance is the contract. Its significance comes from 
+the term sum assured. This amount is contractually guaranteed, making life 
+insurance a vehicle of financial security. The element of guarantee also 
+implies that life insurance is subject to stringent regulation and strict 
+supervision. 
+
+Life insurers are required to maintain statutory reserves as a condition for 
+writing the business. They may have stipulations governing investment of their 
+funds, they have to ensure that their premiums are adequate and they may be 
+subject to rules governing how they can spend policyholders‟ money. 
+
+A key question, often debated is whether the benefits provided to 
+policyholders are adequate, compared to other financial instruments. Life 
+insurance contracts, we must remember, involve both risk cover and a savings 
+element. This makes it a financial product like other products in the financial 
+market. Life insurance in fact has been less a protection product and more a 
+way of holding wealth. 
+
+It is necessary to make a distinction here between pure term insurance, which 
+provides only a death benefit and savings plans which have a large cash value or 
+savings component. While the former has a low premium, the latter can be 
+quite large and form a significant part of an individual‟s savings. This also 
+means that the cash value has a large opportunity cost. The term „opportunity 
+cost‟ refers to the cost that one has to bear in terms of opportunities one 
+forgoes by not placing one‟s money elsewhere. 
+
+In fact one of the major challenges facing conventional life insurance savings 
+contracts came as a result of an argument termed as “Buy Term and invest the 
+difference elsewhere”. Essentially it was argued that one would be better off 
+buying only term insurance from an insurance company and investing the 
+balance premiums in instruments that could yield a high return.
+109 
+It would be relevant to consider here the arguments that have been advanced 
+for and against traditional cash value insurance contracts. 
+
+a) Advantages 
+
+i. 
+It has historically proved to be a safe and secure investment. Its cash 
+values guarantee a minimum rate of return, which may increase with 
+contract duration. 
+
+ii. 
+Regularity of premium payments calls for compulsory planning of one‟s 
+savings and provides the discipline that savers require. 
+
+iii. Insurer takes care of investment management and frees the individual 
+of this responsibility 
+
+iv. It provides liquidity. The insured can take a loan on or surrender the 
+policy and thus convert it into cash. 
+
+v. 
+Both cash value type life insurance and annuities may enjoy some 
+income tax advantages. 
+
+vi. It may be safe from creditors‘ claims, generally in the event of the 
+insured‟s bankruptcy or death. 
+
+b) Disadvantages 
+
+i. 
+As an instrument with relatively stable returns it is subjected to the 
+corroding effect of inflation on all fixed income investments. 
+
+ii. 
+The high marketing and other initial costs of life insurance policies, 
+reduces the amount of money accumulated in earlier years. 
+
+iii. The yield, while guaranteed, may be less than that on other financial 
+market instruments. Lower yield is the result of a trade-off, which also 
+reduces the risk. 
+
+Test Yourself 3 
+
+How does diversification reduce risks in financial markets? 
+
+I. Collecting funds from multiple sources and investing them in one place 
+II. Investing funds across various asset classes 
+III. Maintaining time difference between investments 
+IV. Investing in safe assets
+110 
+
+Summary 
+
+a) Asset is a kind of property that yields value or a return. 
+
+b) The HLV concept considers human life as a kind of property or asset that 
+earns an income. It thus measures the value of human life based on an 
+individual‟s expected net future earnings. 
+
+c) The level premium is a premium fixed such that it does not increase with 
+age but remains constant throughout the contract period. 
+
+d) Mutuality is one of the important ways to reduce risk in financial markets, 
+the other being diversification. 
+
+e) The element of guarantee in a life insurance contract implies that life 
+insurance is subject to stringent regulation and strict supervision. 
+
+Key Terms 
+
+1. Asset 
+2. Human Life Value 
+3. Level premium 
+4. Mutuality 
+5. Diversification
+111 
+Answers to Test Yourself 
+
+Answer 1 
+
+The correct answer is II. 
+
+Diversification aims to reduce risks in financial markets by spreading 
+investments across various asset classes. 
+
+Self-Examination Questions 
+
+Question 1 
+
+Which of the below is not an element of the life insurance business? 
+
+I. Asset 
+II. Risk 
+III. Principle of mutuality 
+IV. Subsidy 
+
+Question 2 
+
+Who devised the concept of HLV? 
+
+I. Dr. Martin Luther King 
+II. Warren Buffet 
+III. Prof. Hubener 
+IV. George Soros 
+
+Question 3 
+
+Which of the below mentioned insurance plans has the least or no amount of 
+savings element? 
+
+I. Term insurance plan 
+II. Endowment plan 
+III. Whole life plan 
+IV. Money back plan 
+
+Question 4 
+
+Which among the following cannot be termed as an asset? 
+
+I. Car 
+II. Human Life 
+III. Air 
+IV. House
+112 
+Question 5 
+
+Which of the below cannot be categorised under risks? 
+
+I. Dying too young 
+II. Dying too early 
+III. Natural wear and tear 
+IV. Living with disability 
+
+Question 6 
+
+I. Life insurance policies are contracts of indemnity while general insurance 
+policies are contracts of assurance 
+II. Life insurance policies are contracts of assurance while general insurance 
+policies are contracts of indemnity 
+III. In case of general insurance the risk event protected against is certain 
+IV. The certainty of risk event in case of general insurance increases with time 
+
+Question 7 
+
+Which among the following methods is a traditional method that can help 
+determine the insurance needed by an individual? 
+
+I. Human Economic Value 
+II. Life Term Proposition 
+III. Human Life Value 
+IV. Future Life Value 
+
+Question 8 
+
+Which of the below is the most appropriate explanation for the fact that young 
+people are charged lesser life insurance premium as compared to old people? 
+
+I. Young people are mostly dependant 
+II. Old people can afford to pay more 
+III. Mortality is related to age 
+IV. Mortality is inversely related to age 
+
+Question 9 
+
+Which of the below is not an advantage of cash value insurance contracts? 
+
+I. Safe and secure investment 
+II. Inculcates saving discipline 
+III. Lower yields 
+IV. Income tax advantages 
+
+Question 10
+113 
+Which of the below is an advantage of cash value insurance contracts? 
+
+I. Returns subject to corroding effect of inflation 
+II. Low accumulation in earlier years 
+III. Lower yields 
+IV. Secure investment 
+
+Answers to Self-Examination Questions 
+
+Answer 1 
+
+The correct option is IV. 
+
+The elements of life insurance business include asset, risk, principle of 
+mutuality and the life insurance contract. 
+Subsidy is not an element of life insurance business. 
+
+Answer 2 
+
+The correct option is III. 
+
+Prof. Hubener devised the concept of Human Life Value (HLV). 
+
+Answer 3 
+
+The correct option is I. 
+
+Term insurance does not have a savings element associated with it. 
+
+Answer 4 
+
+The correct option is III. 
+
+Air cannot be termed / categorised as an asset. 
+
+Answer 5 
+
+The correct option is III. 
+
+Natural wear and tear is a phenomenon and not a risk. 
+
+Answer 6 
+
+The correct option is II. 
+
+Life insurance policies are contracts of assurance while general insurance 
+policies are contracts of indemnity.
+114 
+
+Answer 7 
+
+The correct option is III. 
+
+Human Life Value is a method to calculate the amount of insurance needed by 
+an individual. 
+
+Answer 8 
+
+The correct option is III. 
+
+Mortality is related to age and hence young people who are less likely to die are 
+charged lower premiums as compared to old people. 
+
+Answer 9 
+
+The correct option is III. 
+
+Lower yield is one of the disadvantages of cash value insurance contracts. 
+
+Answer 10 
+
+The correct option is IV. 
+
+Secure investment is one of the advantages of cash value insurance contracts.
+115 
+
+CHAPTER 7 
+
+FINANCIAL PLANNING 
+Chapter Introduction 
+
+In previous chapters we discussed what life insurance involves and its role in 
+providing financial protection. Security is but one of the concerns of individuals 
+who seek to allocate their income and wealth to meet various needs of the 
+present and the future. Life insurance must thus be understood in the wider 
+context of “Personal Financial Planning”. The purpose of this chapter is to 
+introduce the subject of financial planning. 
+
+Learning Outcomes 
+
+A. Financial planning and the individual life cycle 
+B. Role of financial planning 
+C. Financial planning - Types
+116 
+
+A. Financial planning and the individual life cycle 
+
+1. What is financial planning? 
+
+Most of us spend a major part of our lives working to make money. Isn‟t it time 
+we began to consider that money can be put to work for us? Financial planning 
+is a smart way to achieve this objective. Let us examine some definitions: 
+
+Definition 
+
+i. Financial planning is a process of identifying one‟s life‟s goals, translating 
+these identified goals into financial goals and managing one‟s finances in 
+ways that will help one to achieve those goals. 
+
+ii. Financial planning is a process through which one can chart a roadmap to 
+meet expected and unforeseen needs in one‟s life. It involves assessing 
+one‟s net worth, estimating future financial needs, and working towards 
+meeting those needs through proper management of finances. 
+
+iii. Financial planning is taking action to turn one‟s goals and desires into 
+reality. 
+
+iv. Financial planning takes into account one‟s current and future needs, one‟s 
+individual risk profile and one‟s income to chart out a roadmap to meet 
+these anticipated needs. 
+
+Financial planning plays a crucial role in building a life with less worry. Careful 
+planning can help you set your priorities and work steadily to achieve your 
+various goals. 
+
+Diagram 1: Types of Goals 
+
+i. These goals may be short term: Buying an LCD TV set or a family 
+vacation
+117 
+ii. They could be medium term: Buying a house or a vacation abroad 
+iii. The long term goals may include: Education or marriage of one‟s child or 
+post retirement provision 
+
+2. Individual‘s life cycle 
+
+It was William Shakespeare who said that the world was a stage. From the day a 
+person is born till the day of his / her death, he / she goes through various 
+stages in life, during which he / she is expected to play a series of roles – as 
+learner, earner, partner, parent, as provider, as empty nester and the final 
+retirement years. 
+
+These stages are illustrated in the diagram given below. 
+
+Diagram 2: The Economic Life Cycle 
+
+Life Stages and Priorities 
+
+a) Learner (till say age 20 -25) : a stage when one is preparing to be a 
+productive citizen through enhancing his or her knowledge and skills. 
+Focus is on raising value of one‟s human capital. Funds are required for 
+financing one‟s education , For instance, meeting the high cost of fees 
+for an MBA in a prestiegus management institution. 
+
+b) Earner (from 25 onwards): the stage when one has found employment 
+and perhaps earns enough to meet his or her needs and has some surplus 
+to spare. The individual at this stage may have family responsibilities 
+and may also engage in safvings and investment towards asset creation 
+with a view to meet the needs that may arise in the immediate future. 
+For instance, a young man in a Multinational job takes a housing loan and 
+invests in a house. 
+
+c) Partner (on getting marriage at say 28 - 30): this is the stage when 
+one has got married and now has a family of one‟s own. This stage 
+brings into immediate focus a host of concerns associated with building a
+118 
+family and the liabilities that come in its wake – like having a house of 
+one‟s own, perhaps a car, consumer durables, planning for children‟s 
+future etc. 
+
+d) Parent (say 28 to 35): these are the years when one has become the 
+proud parent of one or more children. These are typcal; years when one 
+has to worry about their health and education - getting them into good 
+schools etc.

@@ -155,42 +155,50 @@ const LearningPage = () => {
     return () => clearInterval(interval);
   }, [dailyTips.length]);
 
-  const handleSendMessage = () => {
+  const handleSendMessage = async () => {
     if (!newMessage.trim()) return;
 
     const userMessage = {
-      id: chatMessages.length + 1,
-      type: 'user',
-      message: newMessage,
-      timestamp: new Date()
+        id: chatMessages.length + 1,
+        type: 'user',
+        message: newMessage,
+        timestamp: new Date()
     };
 
     setChatMessages(prev => [...prev, userMessage]);
+    setNewMessage('');
 
-    // Simulate bot response
-    setTimeout(() => {
-      const botResponses = [
-        "Great question! Let me help you with that. You can continue your current course by clicking 'Continue Learning' on any course card.",
-        "I'd recommend focusing on 'Advanced Objection Handling' since you're 90% complete. Finishing it will unlock your Silver certification!",
-        "Your conversion rate has improved by 23%! This is likely due to applying the techniques from your completed lessons. Keep it up!",
-        "For WhatsApp campaigns, check out the 'Digital Selling Mastery' course. It covers social selling strategies specifically for health insurance.",
-        "Based on your progress, I suggest scheduling a 1:1 session with Rajesh Kumar. He specializes in sales strategy and has excellent reviews."
-      ];
-      
-      const randomResponse = botResponses[Math.floor(Math.random() * botResponses.length)];
-      
-      const botMessage = {
+    let answerLearning = "Sorry, I couldn't get an answer.";
+
+    try {
+        const response = await fetch('http://localhost:8000/ask', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ question: newMessage })
+});
+
+        const data = await response.json();
+
+        if (data.answer) {
+            // Remove "Answer:" if present at start
+            answerLearning = data.answer.includes("Answer:") 
+                ? data.answer.split("Answer:")[1].trim() 
+                : data.answer;
+        }
+
+    } catch (error) {
+        console.error("Error fetching bot response:", error);
+    }
+
+    const botMessage = {
         id: chatMessages.length + 2,
         type: 'bot',
-        message: randomResponse,
+        message: answerLearning,
         timestamp: new Date()
-      };
+    };
 
-      setChatMessages(prev => [...prev, botMessage]);
-    }, 1000);
-
-    setNewMessage('');
-  };
+    setChatMessages(prev => [...prev, botMessage]);
+};
 
   const handleKeyPress = (e) => {
     if (e.key === 'Enter' && !e.shiftKey) {

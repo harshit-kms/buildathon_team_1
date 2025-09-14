@@ -1,0 +1,21 @@
+
+            Life Insurance Basics:
+            Life insurance provides financial protection for your family after your death. 
+            Term life insurance is temporary coverage for specific periods (10, 20, 30 years).
+            Whole life insurance provides permanent coverage with cash value component.
+            Universal life insurance offers flexible premiums and death benefits.
+
+            Key benefits of life insurance:
+            - Income replacement for dependents
+            - Debt coverage including mortgages
+            - Final expense coverage
+            - Estate planning tool
+            - Business protection for key employees
+
+            Factors affecting premiums:
+            - Age and health status
+            - Lifestyle habits (smoking, drinking)
+            - Occupation and hobbies
+            - Coverage amount and type
+            - Medical exam results
+            

@@ -1,0 +1,960 @@
+A maturity or death claim or a surrender leads to termination of the insurance 
+cover under the contract and no further insurance cover is available. This is 
+irrespective of whether the claim is actually paid or not. Non-payment of a 
+claim does not assure the continuity of insurance cover under the contract.
+292 
+3. Types of claims 
+
+The following payments may occur during the policy term: 
+
+a) Survival Benefit Payments 
+
+Periodical payments are made by the insurer to the insured at 
+specified times during the term of the policy. The policy bond is 
+returned to the policyholder bearing an endorsement of payments 
+made after each survival benefit instalment. 
+
+b) Surrender of Policy 
+
+The policyholder opts for a premature closure of his policy. This is a 
+voluntary termination of the policy contract. A policy can be surrendered 
+only if it has acquired paid-up value. The amount payable to the 
+insured is the surrender value which is usually a percentage of the 
+premiums paid. There is also a minimum guaranteed surrender value 
+(GSV), but the actual surrender value paid to the insured is more 
+than the GSV. 
+
+c) Rider Benefit 
+
+A payment under a rider is made by an insurance company on the 
+occurrence of a specified event according to the terms and 
+conditions. 
+
+Under a critical illness rider, in the event of diagnosis of a critical 
+illness, a specified amount is paid as per terms. The illness should 
+have been covered in the list of critical illnesses specified by the 
+insurance company. 
+
+Under hospital care rider, the insurer pays the treatment costs in the event 
+of hospitalisation of the insured, subject to terms and conditions. 
+
+The policy contract continues even after the rider payments are made. 
+
+The following claim payments are made at the end of the policy term 
+specified in the insurance contract. 
+
+d) Maturity Claim 
+
+In such claims, the insurer promises to pay the insured a specified amount at 
+the end of the term, if the insured survives the plan‟s entire term. This is 
+known as a maturity claim. 
+
+i. Participating Plan: The amount payable under a maturity claim, if 
+participating, is the sum assured plus accumulated bonuses less dues 
+such as outstanding premium and policy loans and interests thereon.
+293 
+ii. Return of Premium (ROP) Plan: In some cases premiums paid over 
+the term period are returned when the policy matures. 
+
+iii. Unit Linked Insurance Plan (ULIP): In case of ULIPs, the insurer pays 
+the fund value as the maturity claim. 
+
+iv. Money-back Plan: In case of money-back policy, the insurer pays 
+the maturity claim minus the survival benefits received during the 
+term of the policy. 
+
+The insurance contact terminates after the claim is paid. 
+
+e) Death Claim 
+
+If the insured expires during the term of his / her policy, accidentally 
+or otherwise, the insurer pays the sum assured plus accumulated 
+bonuses, if participating, less dues like outstanding policy loan and 
+premia plus interest there on respectively. This is the death claim, 
+which is paid to the nominee or assignee or legal whatever the 
+situation may be. A death claim marks the end of the contract as a result 
+of death. 
+
+A death claim may be: 
+
+ Early (less than three years policy duration) or 
+ Non-early (more than three years) 
+
+The nominee or assignee or legal heir has to intimate the insurer of 
+the cause, date and place of death. 
+
+i. Forms to be submitted for death claim 
+
+The following forms are to be submitted by the beneficiary with the 
+insurer to facilitate processing of the claim: 
+
+ Claim form by nominee 
+
+ Certificate of burial or cremation
+294 
+
+ Treating physician‟s certificate 
+
+ Hospital‟s certificate 
+
+ Employer‟s certificate 
+
+ Certified court copies of police reports like First Information 
+Report (FIR), Inquest Report, Post-Mortem Report, Final Report 
+which are required in case of death by accident. 
+
+ Death certificate issued by municipal authorities etc as proof of 
+death 
+
+Diagram 3: Forms to be submitted for Death Claim 
+
+ii. Repudiation of death claim 
+
+The death claim may be paid or repudiated. While processing the claim, if it 
+is detected by the insurer that the proposer had made any incorrect 
+statements or had suppressed material facts relevant to the policy, the 
+contract becomes void. All benefits under the policy are forfeited. 
+iii. Section 45: Indisputability Clause 
+
+However this penalty is subject to Section 45 of the Insurance Act, 
+1938.
+295 
+Important 
+
+Section 45 states: 
+
+ No policy of life insurance shall be called in question on any ground 
+whatsoever after the expiry of three years from the date of the 
+policy, i.e from the date of issuance of the policy or the date of 
+commencement of risk or the date of revival of the policy or the 
+date of the rider to the policy, whichever is later. 
+
+iv. Presumption of Death 
+
+Sometimes a person is reported missing without any information 
+about his whereabouts. The Indian Evidence Act provides for 
+presumption of death in such cases, if he has not been heard of 
+for seven years. If the nominee or heirs claim that the life 
+insured is missing and must be presumed to be dead, insurers 
+insist on a decree from a competent court. It is necessary that 
+premiums should be paid till the court decrees presumption of 
+death. Insurers may, as a matter of concession, waive the premiums 
+during the seven year period. 
+
+4. Claim Procedure for Life Insurance Policy 
+
+The IRDAI (Protection of Policyholders Interests) Regulations, 2002 provides as 
+follows: 
+
+Regulation 8: Claims procedure in respect of a life insurance policy 
+
+i. A life insurance policy shall state the primary documents which are 
+normally required to be submitted by a claimant in support of a claim. 
+
+ii. A life insurance company, upon receiving a claim, shall process the 
+claim without delay. Any queries or requirement of additional 
+documents, to the extent possible, shall be raised all at once and not in 
+a piece-meal manner, within a period of 15 days of the receipt of the 
+claim. 
+
+iii. A claim under a life policy shall be paid or be disputed giving all the 
+relevant reasons, within 30 days from the date of receipt of all relevant 
+papers and clarifications required. However, where the circumstances of 
+a claim warrant an investigation in the opinion of the insurance 
+company, it shall initiate and complete such investigation at the 
+earliest. Where in the opinion of the insurance company the 
+circumstances of a claim warrant an investigation, it shall initiate and 
+complete such investigation at the earliest, in any case not later than 6 
+months from the time of lodging the claim.
+296 
+
+iv. Subject to the provisions of Section 47 of the Act, where a claim is ready 
+for payment but the payment cannot be made due to any reasons of a 
+proper identification of the payee, the life insurer shall hold the amount 
+for the benefit of the payee and such an amount shall earn interest at 
+the rate applicable to a savings bank account with a scheduled bank 
+(effective from 30 days following the submission of all papers and 
+information). 
+
+v. Where there is a delay on the part of the insurer in processing a claim 
+for a reason other than the one covered by sub-regulation (iv), the life 
+insurance company shall pay interest on the claim amount at a rate 
+which is 2% above the bank rate prevalent at the beginning of the 
+financial year in which the claim is reviewed by it. 
+
+5. Role of an agent 
+
+An agent shall render all possible service to the nominee/legal heir or the 
+beneficiary in filling up of claim forms accurately and assisting in submission of 
+these at the insurer‟s office. 
+
+Apart from discharging obligations, goodwill is generated from such a situation 
+whereby there exists ample opportunity for the agent to procure business or 
+referrals in future from the family of the deceased. 
+
+Test Yourself 1 
+
+Which of the below statement best describes the concept of claim? Choose the 
+most appropriate option. 
+
+I. A claim is a request that the insurer should make good the promise specified 
+in the contract 
+II. A claim is a demand that the insurer should make good the promise specified 
+in the contract 
+III. A claim is a demand that the insured should make good the commitment 
+specified in the agreement 
+IV. A claim is a request that the insured should make good the promise specified 
+in the agreement
+297 
+Summary 
+
+ 
+A claim is a demand that the insurer should make good the promise specified 
+in the contract. 
+
+ 
+A claim can be survival claim or death claim. While a death claim arises only 
+upon the death of the life assured, survival claims can be caused by one or 
+more events 
+
+ 
+For payment of a survival claim, the insurer has to ascertain that the event 
+has occurred as per the conditions stipulated in the policy. 
+
+ 
+The following payments may occur during the policy term: 
+
+ Survival Benefit Payments 
+ Surrender of Policy 
+ Rider Benefit 
+ Maturity Claim 
+ Death Claim 
+
+ 
+Section 45 (Indisputability Clause) of the Insurance Act offers protection 
+against rejection of claim by the insurer on flimsy grounds provided and 
+sets a time limit of 3 years for the Insurer for calling a policy into question. 
+
+ 
+Under the IRDAI (Protection of Policyholders Interests) Regulations, 2002, 
+the IRDAI has laid down regulations to safeguard / protect the insured or 
+beneficiary in case of claims.
+298 
+
+Answers to Test Yourself 
+
+Answer 1 
+
+The correct option is II. 
+
+A claim is a demand that the insurer should make good the promise specified in 
+the contract. 
+
+Self-Examination Questions 
+
+Question 1 
+
+Given below is a list of policies. Identify under which type of policy, the claim 
+payment is made in the form of periodic payments? 
+
+I. Money-back policy 
+II. Unit linked insurance policy 
+III. Return of premium policy 
+IV. Term insurance policy 
+
+Question 2 
+
+Mahesh has bought a life insurance policy with a critical illness rider. He has 
+made absolute assignment of the policy in favour of Karan. Mahesh suffers a 
+heart attack and there is a claim of Rs. 50,000 under the critical illness rider. 
+To whom will the payment be made in this case? 
+
+I. Mahesh 
+II. Karan 
+III. The payment will be shared equally by Mahesh and Karan 
+IV. Neither of the two because Mahesh has suffered the heart attack but the 
+policy is assigned in favour of Karan. 
+
+Question 3 
+
+Praveen died in a car accident. The beneficiary submits documents for death 
+claim. Which of the below document is an additional document required to be 
+submitted in case of accidental death as compared to natural death. 
+
+I. Certificate of burial or cremation 
+II. Treating physician‟s certificate 
+III. Employer‟s certificate 
+IV. Inquest Report
+299 
+
+Question 4 
+
+Which of the below death claim will be treated as an early death claim? 
+
+I. If the insured dies within three years of policy duration 
+II. If the insured dies within five years of policy duration 
+III. If the insured dies within seven years of policy duration 
+IV. If the insured dies within ten years of policy duration 
+
+Question 5 
+
+Given below are some events that will trigger survival claims. Identify which of 
+the below statement is incorrect? 
+
+I. Claim paid on maturity of a term insurance policy 
+II. An instalment payable upon reaching the milestone under a money-back 
+policy 
+III. Claim paid for critical illnesses covered under the policy as a rider benefit 
+IV. Surrender value paid on surrender of an endowment policy by the 
+policyholder 
+
+Question 6 
+
+A payment made under a money-back policy upon reaching a milestone will be 
+classified under which type of claim? 
+
+I. Death claim 
+II. Maturity claim 
+III. Periodical survival claim 
+IV. Surrender claim 
+
+Question 7 
+
+Shankar bought a 10 year Unit Linked Insurance Plan. If he dies before the 
+maturity of the policy which of the below will be paid? 
+
+I. Lower of sum assured or fund value 
+II. Higher of sum assured or fund value 
+III. Premiums paid will be returned with 2% higher interest rate as compared to 
+a bank‟s savings deposit 
+IV. Surrender value 
+
+Question 8 
+
+Based on classification of claims (early or non-early), pick the odd one out? 
+
+I. Ramya dies after 6 months of buying a term insurance plan 
+II. Manoj dies after one and half years of buying a term insurance plan 
+III. David dies after two and half years of buying a term insurance plan 
+IV. Pravin dies after five and half years of buying a term insurance plan
+300 
+Question 9 
+
+Given below is a list of documents to be submitted for a normal death claim by 
+all beneficiaries in the event of death of life insured. Pick the odd one out 
+which is additionally required to be submitted only in case of death by accident. 
+
+I. Inquest report 
+II. Claim form 
+III. Certificate of burial or cremation 
+IV. Hospital‟s certificate 
+
+Question 10 
+
+As per IRDAI (Protection of Policyholders Interests) Regulations, 2002, a claim 
+under a life policy shall be paid or be disputed, within 30 days from the date of 
+receipt of all relevant papers and clarifications required. 
+
+I. 7 days 
+II. 15 days 
+III. 30 days 
+IV. 45 days 
+
+Answers to Self-Examination Questions 
+
+Answer 1 
+
+The correct option is I 
+
+In case of a money-back policy the claim payment is made in the form of 
+periodic payments. 
+
+Answer 2 
+
+The correct option is II 
+
+In this case the entire payment of Rs. 50,000 will be made to Karan as the 
+policy has been assigned in favour of Karan on an absolute basis. 
+
+Answer 3 
+
+The correct option is IV 
+
+Documents like claim form by nominee, Certificate of burial or cremation, 
+Treating physician‟s certificate, Hospital‟s certificate, Employer‟s certificate 
+etc. are required to be submitted in case of natural death as well as accidental 
+death. 
+
+First Information Report (FIR), Inquest Report, Post-Mortem Report, Final Report 
+etc. are additional documents required to be submitted in case of accidental 
+death as compared to natural death.
+301 
+Answer 4 
+
+The correct option is I 
+
+If the insured dies within three years of policy duration, the death claim will be 
+treated as early death claim. 
+
+Answer 5 
+
+The correct option is I 
+
+Option I is incorrect. There is no claim paid on maturity of a term insurance 
+policy. 
+
+Answer 6 
+
+The correct option is III 
+
+A payment made under a money-back policy upon reaching a milestone will be 
+classified under periodic survival claim. 
+
+Answer 7 
+
+The correct option is II 
+
+If Shankar dies before the maturity of the ULIP policy, higher of sum assured or 
+fund value will be paid. 
+
+Answer 8 
+
+The correct option is IV 
+
+Option IV is the odd one out because it will be treated as a non-early claim. 
+Option I, II and III will be treated as early claims. 
+
+Answer 9 
+
+The correct option is I 
+
+Inquest report is additionally required to be submitted in case of death by 
+accident. The other documents like claim form, certificate of burial or 
+cremation, hospital‟s certificate are required to be submitted by all 
+beneficiaries in the event of death of life insured 
+
+Answer 10 
+
+The correct option is III 
+
+As per IRDAI (Protection of Policyholders Interests) Regulations, 2002, a claim 
+under a life policy shall be paid or be disputed, within 30 days from the date of 
+receipt of all relevant papers and clarifications required.
+302 
+
+SECTION 3 
+
+HEALTH SECTION
+303 
+ CHAPTER 17 
+
+INTRODUCTION TO HEALTH INSURANCE 
+Chapter Introduction 
+
+This chapter will tell you about how insurance evolved over time. It will also 
+explain what healthcare is, levels of healthcare and types of healthcare. You 
+will also learn about the healthcare system in India and factors affecting it. 
+Finally, it will explain how health insurance evolved in India and also the various 
+players in the health insurance market in India. 
+
+Learning Outcomes 
+
+A. What is Healthcare 
+B. Levels of Healthcare 
+C. Types of Healthcare 
+D. Factors affecting health systems in India 
+E. Evolution of Health Insurance in India 
+F. Health Insurance Market 
+
+After studying this chapter, you should be able to: 
+
+1. Understand how insurance evolved. 
+2. Explain the concept of healthcare and the types and levels of healthcare. 
+3. Appreciate the factors affecting healthcare in India and the progress made 
+since independence. 
+4. Discuss the evolution of health insurance in India. 
+5. Know the health insurance market in India.
+304 
+A. What is Healthcare 
+
+You have heard of the saying “Health is Wealth”. Have you ever tried to know 
+what Health actually means? The word „Health‟ was derived from the word 
+„hoelth‟, which means „soundness of the body‟. 
+
+In olden days, health was considered to be a „Divine Gift‟ and illness was 
+believed to have been caused due to the sins committed by the concerned 
+person. It was Hippocrates (460 to 370 BC) who came up with the reasons 
+behind illness. According to him, illness is caused due to various factors relating 
+to environment, sanitation, personal hygiene and diets. 
+
+The Indian system of Ayurveda which existed many centuries before 
+Hippocrates, considered health as a delicate balance of four fluids: blood, 
+yellow bile, black bile and phlegm and an imbalance of these fluids causes ill 
+health. Susruta, the Father of Indian medicine is even credited with complex 
+surgeries unknown to the West in those times. 
+
+Over a period of time, modern medicine has evolved into a complex science and 
+the goal of modern medicine is no longer mere treatment of sickness but 
+includes prevention of disease and promotion of quality of life. A widely 
+accepted definition of health is the one given by World Health Organisation in 
+1948; it states that “Health is a state of complete physical, mental and social 
+wellbeing and not merely the absence of disease”. It is to be noted that Indian 
+system of medicine like Ayurveda incorporated such a complete view of health 
+from times immemorial. 
+
+Definition 
+
+World Health Organisation (WHO): Health is a state of complete physical, 
+mental and social wellbeing and not merely the absence of disease. 
+
+Determinants of health 
+
+It is generally believed that the following factors determine the health of any 
+individual: 
+
+a) Lifestyle factors 
+
+Lifestyle factors are those which are mostly in the control of the individual 
+concerned e.g. exercising and eating within limits, avoiding worry and the 
+like leading to good health; and bad lifestyles and habits such as smoking, 
+drug abuse, unprotected sex and sedentary life style (with no exercise) etc. 
+leading to diseases such as cancer, aids, hypertension and diabetes, to name 
+a few. 
+
+Though the Government plays a critical role in controlling / influencing such 
+behaviour (e.g. punishing people with non-bailable imprisonment who abuse 
+drugs, imposing high taxes on tobacco products etc.), the personal
+305 
+responsibility of an individual plays a deciding role in controlling diseases 
+due to life style factors. 
+
+b) Environmental factors 
+
+Safe drinking water, sanitation and nutrition are crucial to health, lack of 
+which leads to serious health issues as seen all over the world, especially in 
+developing countries. Communicable diseases like Influenza and Chickenpox 
+etc. are spread due to bad hygiene, diseases like Malaria and Dengue are 
+spread due to bad environmental sanitation, while certain diseases are also 
+caused due to environmental factors e.g. people working in certain 
+manufacturing industries are prone to diseases related to occupational 
+hazards such as Asbestos in workers in asbestos manufacture and also 
+diseases of the lungs in coal miners. 
+
+c) Genetic factors 
+
+Diseases may be passed on from parents to children through genes. Such 
+genetic factors result in differing health trends amongst the population 
+spread across the globe based on race, geographical location and even 
+communities. 
+
+It is quite obvious that a country‟s social and economic progress depends on the 
+health of its people. A healthy population not only provides productive 
+workforce for economic activity but also frees precious resources which is all 
+the more crucial for a developing country like India. At an individual level, ill 
+health can cause loss of livelihood, inability to perform daily essential activities 
+and push people to poverty and even commit suicide. 
+
+Thus the world over, governments take measures to provide for health and 
+wellbeing of their people and ensuring access and affordability of healthcare for 
+all citizens. Thus „spend‟ on healthcare usually forms a significant part of every 
+country‟s GDP. 
+
+This poses a question as to whether different types of healthcare are required 
+for different situations.
+306 
+B. Levels of healthcare 
+
+Healthcare is nothing but a set of services provided by various agencies and 
+providers including the government, to promote, maintain, monitor or restore 
+health of people. Health care to be effective must be: 
+ 
+Appropriate to the needs of the people 
+ 
+Comprehensive 
+ 
+Adequate 
+ 
+Easily available 
+ 
+Affordable 
+
+Health status of a person varies from person to person. It is neither feasible nor 
+necessary to make the infrastructure available at same level for all types of 
+health problems. The health care facilities should be based upon the probability 
+of the incidence of disease for the population. For example, a person may get 
+fever, cold, cough, skin allergies etc. many times a year, but the probability of 
+him/her suffering from Hepatitis B is less as compared to cold and cough. 
+
+Similarly, the probability of the same person suffering from a critical illness 
+such as heart disease or Cancer is less as compared to Hepatitis B. Hence, the 
+need to set up the healthcare facilities in any area whether a village or a 
+district or a state will be based upon the various health care factors called 
+indicators of that area such as: 
+
+ Size of population 
+ Death rate 
+ Sickness rate 
+ Disability rate 
+ Social and mental health of the people 
+ General nutritional status of the people 
+ Environmental factors such as if it is a mining area or an industrial area 
+ The possible health care provider system e.g. heart doctors may not be 
+readily available in a village but may be in a district town 
+ How much of the health care system is likely to be used 
+ Socio-economic factors such as affordability 
+
+Based on the above factors, the government decides upon setting up of centres 
+for primary, secondary and tertiary health care and takes other measures to 
+make appropriate healthcare affordable and accessible to the population.
+307 
+C. Types of Healthcare 
+
+Healthcare is broadly categorized as follows: 
+
+1. Primary healthcare 
+
+Primary health care refers to the services offered by the doctors, nurses and 
+other small clinics which are contacted first by the patient for any sickness, 
+that is to say that primary healthcare provider is the first point of contact for 
+all patients within a health system. 
+
+In developed countries, more attention is paid to primary health care so as to 
+deal with health issues before the same become widespread, complicated and 
+chronic or severe. Primary health care establishments also focus on preventive 
+health care, vaccinations, awareness, medical counselling etc. and refer the 
+patient to the next level of specialists when required. 
+
+For example, if a person visits a doctor for fever and the first diagnosis is 
+indicative of Dengue fever, the primary health care provider will prescribe some 
+medicines but also direct the patient to get admitted in a hospital for 
+specialized treatment. For most of the primary care cases, the doctor acts like 
+a „Family Doctor‟ where all the members of the family visit the doctor for any 
+minor sickness. 
+
+This method also helps the medical practitioner in prescribing for symptoms 
+based on genetic factors and give medical advice appropriately. For example, 
+the doctor will advise a patient with parental diabetic history to be watchful of 
+the lifestyle from young age to avoid diabetes to the extent possible. 
+
+At a country level, Primary Health care centres are set up both by Government 
+and private players. Government primary health care centres are established 
+depending upon the population size and are present right up to the village level 
+in some form or the other. 
+
+2. Secondary healthcare 
+
+Secondary health care refers to the healthcare services provided by medical 
+specialists and other health professionals who generally do not have first 
+contact with patient. It includes acute care requiring treatment for a short 
+period for a serious illness, often (but not necessarily) as an in-patient, 
+including Intensive Care services, ambulance facilities, pathology, diagnostic 
+and other relevant medical services. 
+
+Most of the times, the patients are referred to the secondary care by primary 
+health care providers / primary physician. In some instances, the secondary 
+care providers also run an „In-house‟ Primary healthcare facility in order to 
+provide integrated services.
+308 
+Mostly, the secondary health care providers are present at the Taluk / Block 
+level depending upon the population size. 
+
+3. Tertiary healthcare 
+
+Tertiary Health care is specialized consultative healthcare, usually for 
+inpatients and on referral from primary/secondary care providers. The tertiary 
+care providers are present mostly in the state capitals and a few at the district 
+headquarters. 
+
+Examples of Tertiary Health care providers are those who have advanced 
+medical facilities and medical professionals, beyond the scope of secondary 
+health care providers e.g. Oncology (cancer treatment), Organ Transplant 
+facilities, High risk pregnancy specialists etc. 
+
+It is to be noted that as the level of care increases, the expenses associated 
+with the care also increase. While people may find it relatively easy to pay for 
+the primary care, it becomes difficult for them to spend when it comes to 
+secondary care and much more difficult when it comes to tertiary care. The 
+infrastructure for different levels of care also varies from country to country, 
+rural-urban areas, while socio-economic factors also influence the same.
+309 
+D. Factors affecting the health systems in India 
+
+The Indian health system has had and continues to face many problems and 
+challenges. These, in turn, affect the nature and extent of the healthcare 
+system and the requirement at the individual level and healthcare organization 
+at the structural level. These are discussed below: 
+
+1. Demographic or Population related trends 
+
+a) 
+India is second largest populated country in the world. 
+
+b) 
+This exposes us to the problems associated with population growth. 
+
+c) 
+The level of poverty has also had its effect on the people‟s ability to pay 
+for medical care. 
+
+2. Social trends 
+
+a) 
+Increase in urbanization or people moving from rural to urban areas has 
+posed challenges in providing healthcare. 
+
+b) 
+Health issues in rural areas also remain, mainly due to lack of availability 
+and accessibility to medical facilities as well as affordability. 
+
+c) 
+The move to a more sedentary lifestyle with reduced need to exercise 
+oneself has led to newer types of diseases like diabetes and high blood 
+pressure. 
+
+3. Life expectancy 
+
+a) 
+Life expectancy refers to the expected number of years that a child born 
+today will survive. 
+
+b) 
+Life expectancy has increased from 30 years at the time of 
+independence to over 60 years today but does not address the issues 
+related to quality of that longer lifespan. 
+
+c) 
+This leads to a new concept of „healthy life expectancy‟. 
+
+d) 
+This also requires the creation of infrastructure for „Geriatric‟ (old age 
+related) diseases.
+310 
+E. Evolution of Health Insurance in India 
+
+While the government had been busy with its policy decisions on 
+healthcare, it also put in place health insurance schemes. Insurance 
+companies came with their health insurance policies only later. Here is how 
+health insurance developed in India: 
+
+a) Employees‘ State Insurance Scheme 
+
+Health Insurance in India formally began with the beginning of the 
+Employees‟ State Insurance Scheme, introduced vide the ESI Act, 1948, 
+shortly after the country‟s independence in 1947. This scheme was 
+introduced for blue-collar workers employed in the formal private sector 
+and provides comprehensive health services through a network of its own 
+dispensaries and hospitals. 
+
+ESIC (Employees State Insurance Corporation) is the implementing agency 
+which runs its own hospitals and dispensaries and also contracts 
+public/private providers wherever its own facilities are inadequate. 
+
+All workers earning wages up to Rs. 15,000 are covered under the 
+contributory scheme wherein employee and employer contribute 1.75% and 
+4.75% of pay roll respectively; state governments contribute 12.5% of the 
+medical expenses. 
+
+The benefits covered include: 
+
+a) Free comprehensive healthcare at ESIS facilities 
+
+b) Maternity benefit 
+
+c) Disability benefit 
+
+d) Cash compensation for loss of wages due to sickness and survivorship 
+and 
+
+e) Funeral expenses in case of death of worker 
+
+It is also supplemented by services purchased from authorized medical 
+attendants and private hospitals. The ESIS covers over 65.5 million 
+beneficiaries as of March 2012. 
+
+b) Central Government Health Scheme 
+
+The ESIS was soon followed by the Central Government Health Scheme 
+(CGHS), which was introduced in 1954 for the central government employees 
+including pensioners and their family members working in civilian jobs. It 
+aims to provide comprehensive medical care to employees and their families
+311 
+and is partly funded by the employees and largely by the employer (central 
+government). 
+
+The services are provided through CGHS‟s own dispensaries, polyclinics and 
+empanelled private hospitals. 
+
+It covers all systems of medicine, emergency services in allopathic system, 
+free drugs, pathology and radiology, domiciliary visits to seriously ill 
+patients, specialist consultations etc. 
+
+The contribution from employees is quite nominal though progressively 
+linked to salary scale – Rs.15 per month to Rs.150 per month. 
+
+In 2010, CGHS had a membership base of over 800,000 families representing 
+over 3 million beneficiaries. 
+
+c) Commercial health insurance 
+
+Commercial health insurance was offered by some of the non-life insurers 
+before as well as after nationalisation of insurance industry. But, as it was 
+mostly loss making for the insurers, in the beginning, it was largely available 
+for corporate clients only and that too for a limited extent. 
+
+In 1986, the first standardised health insurance product for individuals and 
+their families was launched in the Indian market by all the four nationalized 
+non-life insurance companies (these were then the subsidiaries of the 
+General Insurance Corporation of India). This product, Mediclaim was 
+introduced to provide coverage for the hospitalisation expenses up to a 
+certain annual limit of indemnity with certain exclusions such as maternity, 
+pre-existing diseases etc. It underwent several rounds of revisions as the 
+market evolved, the last being in 2012. 
+
+However, even after undergoing several revisions, the hospitalization 
+indemnity-based annual contract continues to be the most popular form of 
+private health insurance in India today, led by the current versions of 
+Mediclaim. So popular is this product that private health insurance products 
+are often termed by many people as „Mediclaim covers‟ considering it as a 
+product category rather than a specific product offered by the insurers. 
+
+With private players coming into the insurance sector in 2001, health 
+insurance has grown tremendously but there is a large untapped market 
+even today. Considerable variations in covers, exclusions and newer add-on 
+covers have been introduced which will be discussed in later chapters. 
+
+Today, more than 300 health insurance products are available in the Indian 
+market.
+312 
+F. Health Insurance Market 
+
+The health insurance market today consists of a number of players some 
+providing the health care facilities called providers, others the insurance 
+services and also various intermediaries. Some form the basic infrastructure 
+while others provide support facilities. Some are in the government sector while 
+others are in the private sector. These are briefly described below: 
+
+A. INFRASTRUCTURE: 
+
+1. Public health sector 
+
+The Public health system operates at the national level, state level, district 
+level and to a limited extent at the village level where, to implement the 
+national health policies in villages, community volunteers have been involved to 
+serve as links between the village community and government infrastructure. 
+These include: 
+
+a) The Anganwadi workers (1 for every 1,000 population) who are enrolled 
+under the nutrition supplementation programme and the Integrated 
+Child Development Service scheme (ICDS) of Ministry of Human Resource 
+Development. 
+
+b) The Trained Birth Attendants (TBA) and the Village Health guides (an 
+earlier scheme of health departments in states). 
+
+c) ASHA (Accredited Social Health Activist) volunteers, selected by the 
+community under the NRHM (National Rural Health Mission) programme, 
+who are new, village-level, voluntary health workers trained to serve as 
+health sector‟s links in the rural areas. 
+
+Sub-centres have been established for every 5,000 population (3,000 in hilly, 
+tribal and backward areas) and are manned by a female health worker, also 
+called the Auxiliary Nurse Mid-wife (ANM) and a male health worker. 
+
+Primary Health Centres which are referral units for about six sub-centres have 
+been established for every 30,000 population (20,000 in hilly, tribal and 
+backward areas). All PHCs provide outpatient services, and the majority also 
+have four to six in-patient beds. Their staff comprises of one medical officer 
+and 14 para-medical workers (which includes a male and a female health 
+assistant, a nurse-midwife, a laboratory technician, a pharmacist and other 
+supporting staff). 
+
+Community Health Centres are the first referral units for four PHCs and also 
+provides specialist care. According to the norms each CHC (for every 1 lakh 
+population) should have at least 30 beds, one operation theatre, X-ray machine, 
+labour room and laboratory facilities and should be staffed by at least four 
+specialists i.e. a surgeon, a physician, a gynaecologist and a paediatrician 
+supported by 21 para-medical and other staff.
+313 
+
+Rural hospitals have also been set up and these includes the sub-district 
+hospitals called as the sub-divisional / Taluk hospitals / specialty hospitals 
+(estimated to be about 2000 in the country); 
+
+Speciality and teaching hospitals are fewer and these include the medical 
+colleges (about 300 in number presently) and other tertiary referral centres. 
+These are mostly in district towns and urban areas but some of them provide 
+very specialized and advanced medical services. 
+
+Other agencies belonging to the government, such as hospitals and dispensaries 
+of railways, defence and similar large departments (Ports/ Mines etc.) also play 
+a role in providing health services. However, their services are often restricted 
+to the employees of the concerned organizations and their dependents. 
+
+2. Private sector providers 
+
+India has a very large private health sector providing all three types of 
+healthcare services - primary, secondary as well as tertiary. These range from 
+voluntary, not-for-profit organisations and individuals to for-profit corporate, 
+trusts, 
+solo 
+practitioners, 
+stand-alone 
+specialist 
+services, 
+diagnostic 
+laboratories, pharmacy shops, and also the unqualified providers (quacks). In 
+India nearly 77% of the allopathic (MBBS and above) doctors are practicing in the 
+private sector. Private health expenditure accounts for more than 75% of all 
+health spending in India. The private sector accounts for 82% of all outpatient 
+visits and 52% of hospitalization at the all India level2. 
+
+India also has the largest number of qualified practitioners in other systems of 
+Medicine (Ayurveda/ Siddha/ Unani/ Homeopathy) which is over 7 lakh 
+practitioners. These are located in the public as well as the private sector. 
+
+Apart from the for-profit private providers of health care, the NGOs and the 
+voluntary sector have also been engaged in providing health care services to the 
+community. 
+
+It is estimated that more than 7,000 voluntary agencies are involved in health-
+related activities. A large number of secondary and tertiary hospitals are also 
+registered as non-profit societies or trusts, and contribute significantly to 
+provision of inpatient services to insured persons. 
+
+3. Pharmaceutical industry 
+
+Coming to provider of medicines and health related products, India has a large 
+pharmaceutical industry, which has grown from a Rs 10 crore industry in 1950 to 
+a Rs 55,000 crore business today (including exports). It employs about 5 million 
+people, with manufacturing taking place in over 6000 units. 
+The central level price regulator for the industry is the National 
+Pharmaceuticals Pricing Authority (NPPA), while the pharma sector is under
+314 
+the Ministry of Chemicals. Only a small number of drugs (76 out of the 500 or so 
+bulk drugs) are under price control, while the remaining drugs and manufacture 
+are under the free-pricing regime, carefully watched by the price regulator. 
+The Drug Controllers of the States manage the field force which oversees 
+quality and pricing of drugs and formulations in their respective areas. 
+
+B. INSURANCE PROVIDERS: 
+
+Insurance Companies especially in the general insurance sector provide the 
+bulk of the health insurance services. These have been listed earlier. What is 
+most encouraging is the presence of stand-alone health insurance companies - 
+five as on date - with likelihood of a few more coming in to increase the health 
+insurance provider network. 
+
+C. INTERMEDIARIES: 
+
+A number of people and organizations providing services as part of the 
+insurance industry also form part of the health insurance market. All such 
+intermediaries are governed by IRDA. These include: 
+
+1. Insurance Brokers who may be individuals or corporates and work 
+independently of insurance companies. They represent the people who 
+want insurance and connect them to insurance companies obtaining best 
+possible insurance covers at best possible premium rates. They also assist 
+the insuring people during times of loss and making insurance claims. 
+Brokers may place insurance business with any insurance company handling 
+such business. They are remunerated by insurance companies by way of 
+insurance commission.

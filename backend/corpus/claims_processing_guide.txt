@@ -1,0 +1,27 @@
+
+            INSURANCE CLAIMS PROCESSING GUIDE
+
+            Claims Process Overview:
+            1. First Notice of Loss (FNOL)
+            2. Initial claim review and assignment
+            3. Investigation and documentation
+            4. Coverage determination
+            5. Damage assessment and evaluation
+            6. Settlement negotiation
+            7. Payment or denial
+            8. File closure
+
+            Best Practices for Agents:
+            - Report claims promptly (within 24 hours)
+            - Gather complete information at FNOL
+            - Document everything thoroughly
+            - Communicate regularly with clients
+            - Advocate for fair settlement
+            - Follow up until resolution
+
+            Common Claim Types and Handling:
+            Auto: Photos, police reports, repair estimates
+            Home: Damage photos, repair estimates, receipts
+            Life: Death certificate, beneficiary identification
+            Health: Medical records, provider bills, EOBs
+            

@@ -1,0 +1,1025 @@
+i 
+IC-38 
+INSURANCE AGENTS 
+LIFE 
+
+ACKNOWLEDGEMENT 
+
+This course is based on revised syllabus prepared by Insurance Institute of 
+India, Mumbai 
+
+G – Block, Plot No. C-46, 
+Bandra Kurla Complex, Bandra (E), Mumbai – 400 051.
+ii 
+INSURANCE AGENTS - LIFE 
+IC-38 
+
+Year of Edition: 2016 
+
+This course is the copyright of the Insurance Institute of India, Mumbai. In no 
+circumstances may any part of the course be reproduced. 
+This course is purely meant for the purpose of study of the subject by 
+student appearing for the examination of Insurance Institute of India & is 
+based on prevailing best industry practices. It is not intended to give 
+interpretation or solution in case of dispute or matters involving legal 
+argument. 
+This is only an indicative study material. Please note that the questions 
+in the examination shall not be confined to this study material. 
+
+Published by: P. Venugopal, Secretary-General, Insurance Institute of India, G- 
+Block, Plot C-46, Bandra Kurla Complex, Bandra (E) Mumbai – 400 051.
+iii 
+
+PREFACE 
+
+The Institute has developed the course material for Insurance Agents Life 
+Branch in consultation with the industry. The course material is prepared based 
+on the syllabus approved by IRDAI. 
+
+The study course, thus, provides basic knowledge of Life, General and Health 
+insurance that enables agents to understand and appreciate their professional 
+career in the right perspective. Needless to say, insurance business operates in 
+a dynamic environment the agents will have to keep abreast of changes in law 
+and practice, through personal study and participation in in-house training given 
+by insurers. 
+
+We thank IRDAI for entrusting this work to III. The Institute wishes all those who 
+study this course and pass the examination. 
+
+Insurance Institute of India
+iv 
+CONTENTS 
+
+Chapter no. 
+Title 
+Page no. 
+SECTION 1 
+COMMON CHAPTERS 
+1 
+Introduction to Insurance 
+2 
+2 
+Customer Service 
+27 
+3 
+Grievance Redressal Mechanism 
+59 
+4 
+Regulatory aspects of Insurance Agents 
+70 
+5 
+Legal Principle of an Insurance Contract 
+79 
+SECTION 2 
+LIFE INSURANCE 
+6 
+What Life Insurance Involves 
+101 
+7 
+Financial Planning 
+115 
+8 
+Life Insurance Products – I 
+136 
+9 
+Life Insurance Products – II 
+156 
+10 
+Applications of Life Insurance 
+172 
+11 
+Pricing and Valuation in Life Insurance 
+182 
+12 
+Documentation – Proposal Stage 
+205 
+13 
+Documentation – Policy Condition - I 
+237 
+14 
+Documentation - Policy Condition - II 
+246 
+15 
+Underwriting 
+267 
+16 
+Payments Under a Life Insurance Policy 
+289 
+SECTION 3 
+HEALTH INSURANCE 
+17 
+Introduction to Health Insurance 
+303 
+18 
+Insurance Documentation 
+319 
+19 
+Health Insurance Products 
+344 
+20 
+Health Insurance Underwriting 
+399 
+21 
+Health Insurance Claims 
+436
+1 
+
+SECTION 1 
+
+COMMON CHAPTERS
+2 
+CHAPTER 1 
+
+INTRODUCTION TO INSURANCE 
+
+Chapter Introduction 
+
+This chapter aims to introduce the basics of insurance, trace its evolution and 
+how it works. You will also learn how insurance provides protection against 
+economic losses arising as a result of unforeseen events and serves as an 
+instrument of risk transfer. 
+
+Learning Outcomes 
+
+A. Life insurance – History and evolution 
+B. How insurance works 
+C. Risk management techniques 
+D. Insurance as a tool for managing risk 
+E. Role of insurance in society
+3 
+A. Life insurance – History and evolution 
+
+We live in a world of uncertainty. We hear about: 
+
+ trains colliding; 
+ floods destroying entire communities; 
+ earthquakes that bring grief; 
+ young people dying suddenly pre-maturely 
+
+Diagram 1: Events happening around us 
+
+Why do these events make us anxious and afraid? 
+
+The reason is simple. 
+
+i. 
+Firstly these events are unpredictable. If we can anticipate and predict 
+an event, we can prepare for it. 
+
+ii. Secondly, such unpredictable and untoward events are often a cause of 
+economic loss and grief. 
+
+A community can come to the aid of individuals who are affected by such 
+events, by having a system of sharing and mutual support.
+4 
+The idea of insurance took birth thousands of years ago. Yet, the business of 
+insurance, as we know it today, goes back to just two or three centuries. 
+
+1. History of insurance 
+
+Insurance has been known to exist in some form or other since 3000 BC. Various 
+civilisations, over the years, have practiced the concept of pooling and sharing 
+among themselves, all the losses suffered by some members of the community. 
+Let us take a look at some of the ways in which this concept was applied. 
+
+2. Insurance through the ages 
+
+Babylonian Traders 
+The Babylonian traders had agreements where they 
+would pay additional sums to lenders, as a price for 
+writing off of their loans, in case a shipment was lost or 
+stolen. These were called „bottomry loans‟. Under these 
+agreements, the loan taken against the security of the 
+ship or its goods had to be repaid only if and when the 
+ship arrived safely, after the voyage, at its destination. 
+Traders 
+from 
+Bharuch and Surat 
+Practices similar to Babylonian traders were prevalent 
+among traders from Bharuch and Surat, sailing in Indian 
+ships to Sri Lanka, Egypt and Greece. 
+Greeks 
+The Greeks had started benevolent societies in the late 
+7th century AD, to take care of the funeral – and families 
+– of members who died. The Friendly Societies of 
+England were similarly constituted. 
+Inhabitants 
+of 
+Rhodes 
+The inhabitants of Rhodes adopted a practice whereby, 
+if some goods were lost due to jettisoning1 during 
+distress, the owners of goods (even those who lost 
+nothing) would bear the losses in some proportion. 
+Chinese Traders 
+Chinese traders in ancient days would keep their goods 
+in different boats or ships sailing over the treacherous 
+rivers. They assumed that even if any of the boats 
+suffered such a fate, the loss of goods would be only 
+partial and not total. The loss could be distributed and 
+thereby reduced. 
+
+3. Modern concepts of insurance 
+
+In India the principle of life insurance was reflected in the institution of the 
+joint-family system in India, which was one of the best forms of life insurance 
+down the ages. Sorrows and losses were shared by various family members in 
+the event of the unfortunate demise of a member, as a result of which each 
+member of the family continued to feel secure. 
+
+The break-up of the joint family system and emergence of the nuclear 
+family in the modern era, coupled with the stress of daily life has made it 
+
+1Jettisoning means throwing away some of the cargo to reduce weight of the ship and restore balance
+5 
+necessary to evolve alternative systems for security. This highlights the 
+importance of life insurance to an individual. 
+
+i. 
+Lloyds: The origins of modern commercial insurance business as 
+practiced today can be traced to Lloyd‟s Coffee House in London. 
+Traders, who used to gather there, would agree to share the losses, to 
+their goods being carried by ships, due to perils of the sea. Such losses 
+used to occur because of maritime perils, such as pirates robbing on the 
+high seas, or bad sea weather spoiling the goods or sinking of the ship 
+due to perils of the sea. 
+ii. Amicable Society for a Perpetual Assurance founded in 1706 in London 
+is considered to be the first life insurance company in the world. 
+
+4. History of insurance in India 
+
+a) India: Modern insurance in India began in early 1800 or thereabouts, with 
+agencies of foreign insurers starting marine insurance business. 
+
+The 
+Oriental 
+Life 
+Insurance Co. Ltd 
+The first life insurance company to be set up 
+in India was an English company 
+Triton Insurance Co. Ltd. 
+The first non-life insurer to be established in 
+India 
+Bombay Mutual Assurance 
+Society Ltd. 
+The first Indian insurance company. It was 
+formed in 1870 in Mumbai 
+National 
+Insurance 
+Company Ltd. 
+The oldest insurance company in India. It was 
+founded in 1906 and it is still in business. 
+
+Many other Indian companies were set up subsequently as a result of the 
+Swadeshi movement at the turn of the century. 
+
+Important 
+
+In 1912, the Life Insurance Companies Act and the Provident Fund Act were 
+passed to regulate the insurance business. The Life Insurance Companies Act, 
+1912 made it compulsory that premium-rate tables and periodical valuation of 
+companies be certified by an actuary. However, the disparity and discrimination 
+between Indian and foreign companies continued. 
+
+The Insurance Act 1938 was the first legislation enacted to regulate the 
+conduct of insurance companies in India. This Act, as amended from time 
+to time continues to be in force. The Controller of Insurance was 
+appointed by the Government under the provisions of the Insurance Act. 
+
+b) Nationalisation of life insurance: Life insurance business was nationalised 
+on 1st September 1956 and the Life Insurance Corporation of India (LIC) 
+was formed. There were 170 companies and 75 provident fund societies 
+doing life insurance business in India at that time. From 1956 to 1999, the 
+LIC held exclusive rights to do life insurance business in India.
+6 
+c) Nationalisation of non-life insurance: With the enactment of General 
+Insurance Business Nationalisation Act (GIBNA) in 1972, the non-life 
+insurance business was also nationalised and the General Insurance 
+Corporation of India (GIC) and its four subsidiaries were set up. At that 
+point of time, 106 insurers in India doing non-life insurance business were 
+amalgamated with the formation of four subsidiaries of the GIC of India. 
+
+d) Malhotra Committee and IRDAI: In 1993, the Malhotra Committee was setup 
+to explore and recommend changes for development of the industry 
+including the reintroduction of an element of competition. The Committee 
+submitted its report in 1994.In 1997 the Insurance Regulatory Authority (IRA) 
+was established. The passing of the Insurance Regulatory& Development Act, 
+1999(IRDAI) led to the formation of Insurance Regulatory and Development 
+Authority of India (IRDAI) in April 2000 as a statutory regulatory body both 
+for life, non-life and health insurance industry. IRDA has been 
+subsequently renamed as IRDAI in 2014. 
+
+Amending the Insurance Act in 2015, certain stipulations have been 
+added governing the definition and formation of insurance companies 
+in India. 
+
+An Indian Insurance company includes a company „in which the 
+aggregate holdings of equity shares by foreign investors, 
+including portfolio investors, do not exceed forty-nine percent of 
+the paid up equity capital of such Indian insurance company, 
+which is Indian owned and controlled, in such manner as may be 
+prescribed‟. 
+
+Amendment to the Insurance Act also stipulates about foreign 
+companies in India, A foreign insurance company can engage in 
+reinsurance through a branch established in India. The term "re-
+insurance" means the „insurance of part of one insurer's risk by 
+another insurer who accepts the risk for a mutually acceptable 
+premium‟ 
+
+5. Life insurance industry today 
+
+Currently, there are 24 life insurance companies operating in India as detailed 
+hereunder: 
+
+a) Life Insurance Corporation (LIC) of India is a public sector company 
+b) There are 23 life insurance companies in the private sector
+7 
+Alphabetical List of 23 Life-Assurance Companies, in the Private-Sector, is as 
+follows: 
+
+S.No. Company 
+1 AEGON Life Insurance Company Limited 
+2 Aviva Life Insurance Company India Limited 
+3 Bajaj Allianz Life Insurance Company Limited 
+4 Bharti AXA Life Insurance Company Limited 
+5 Birla Sun Life Insurance Company Limited 
+6 
+Canara H.S.B.C. Oriental Bank of Commerce Life Insurance Company 
+Limited 
+7 D.H.F.L. Pramerica Life Insurance Company Limited 
+8 Edelweiss Tokio Life Insurance Company Limited 
+9 Exide Life Insurance Company Limited 
+10 Future Generali India Life Insurance Company Limited 
+11 H.D.F.C. Standard Life Insurance Company Limited 
+12 I.C.I.C.I. Prudential Life Insurance Company Limited 
+13 I.D.B.I. Federal Life Insurance Company Limited 
+14 IndiaFirst Life Insurance Company Limited 
+15 Kotak Mahindra Old Mutual Life Insurance Company Limited 
+16 Max Life Insurance Company Limited 
+17 P.N.B. Metlife India Insurance Company Limited 
+18 Reliance Nippon Life Insurance Company Limited 
+19 Sahara India Life Insurance Company Limited
+8 
+20 S.B.I. Life Insurance Company Limited 
+21 Shriram Life Insurance Company Limited 
+22 Star Union Dai-ichi Life Insurance Company Limited 
+23 Tata A.I.A. Life Insurance Company Limited 
+
+c) The postal department, under the Government of India, also transacts 
+life insurance business via Postal Life Insurance, but is exempt from the 
+purview of the regulator 
+
+Test Yourself 1 
+
+Which among the following is the regulator for the insurance industry in India? 
+
+I. Insurance Authority of India 
+II. Insurance Regulatory and Development Authority of India 
+III. Life Insurance Corporation of India 
+IV. General Insurance Corporation of India
+9 
+B. How insurance works 
+
+Modern commerce was founded on the principle of ownership of property. When 
+an asset loses value (by loss or destruction) due to a certain event, the owner of 
+the asset suffers an economic loss. However if a common fund is created, which 
+is made up of small contributions from many such owners of similar assets, this 
+amount could be used to compensate the loss suffered by the unfortunate few. 
+
+In simple words, the chance of suffering a certain economic loss and its 
+consequence could be transferred from one individual to many through the 
+mechanism of insurance. 
+
+Definition 
+
+Insurance may thus be considered as a process by which the losses of a few, 
+who are unfortunate to suffer such losses, are shared amongst those exposed to 
+similar uncertain events / situations. 
+
+Diagram 2: How insurance works 
+
+There is however a catch here. 
+
+i. 
+Would people agree to part with their hard earned money, to create 
+such a common fund? 
+
+ii. How could they trust that their contributions are actually being used for 
+the desired purpose? 
+
+iii. How would they know if they are paying too much or too little? 
+
+Obviously someone has to initiate and organise the process and bring members 
+of the community together for this purpose. That „someone‟ is known as an 
+„Insurer‟ who determines the contribution that each individual must make to 
+the pool and arranges to pay to those who suffer the loss.
+10 
+
+The insurer must also win the trust of the individuals and the community. 
+
+1. How insurance works 
+
+a) Firstly, these must be an asset which has an economic value. The ASSET: 
+i. 
+May be physical (like a car or a building) or 
+ii. May be non-physical (like name and goodwill) or 
+iii. May be personal (like one‟s eyes, limbs and other aspects of one‟s 
+body) 
+
+b) The asset may lose its value if a certain event happens. This chance of 
+loss is called as risk. The cause of the risk event is known as peril. 
+
+c) There is a principle known as pooling. This consists of collecting 
+numerous individual contributions (known as premiums) from various 
+persons. These persons have similar assets which are exposed to similar 
+risks. 
+
+d) This pool of funds is used to compensate the few who might suffer the 
+losses as caused by a peril. 
+
+e) This process of pooling funds and compensating the unlucky few is 
+carried out through an institution known as the insurer. 
+
+f) The insurer enters into an insurance contract with each person who 
+seeks to participate in the scheme. Such a participant is known as 
+insured. 
+
+2. Insurance reduces burdens 
+
+Burden of risk refers to the costs, losses and disabilities one has to bear as a 
+result of being exposed to a given loss situation/event. 
+
+Diagram 3: Risk burdens that one carries 
+
+There are two types of risk burdens that one carries – primary and secondary. 
+
+a) Primary burden of risk 
+
+The primary burden of risk consists of losses that are actually suffered by 
+households (and business units), as a result of pure risk events. These losses 
+are often direct and measurable and can be easily compensated for by 
+insurance.
+11 
+
+Example 
+
+When a factory gets destroyed by fire, the actual value of goods damaged or 
+destroyed can be estimated and the compensation can be paid to the one 
+who suffers such loss. 
+
+If an individual undergoes a heart surgery, the medical cost of the same is 
+known and compensated. 
+
+In addition there may be some indirect losses. 
+
+Example 
+
+A fire may interrupt business operations and lead to loss of profits which 
+also can be estimated and the compensation can be paid to the one who 
+suffers such a loss. 
+
+b) Secondary burden of risk 
+
+Suppose no such event occurs and there is no loss. Does it mean that those 
+who are exposed to the peril carry no burden? The answer is that apart from 
+the primary burden, one also carries a secondary burden of risk. 
+
+The secondary burden of risk consists of costs and strains that one has to 
+bear merely from the fact that one is exposed to a loss situation. Even if the 
+said event does not occur, these burdens have still to be borne. 
+
+Let us understand some of these burdens: 
+
+i. 
+Firstly there is physical and mental strain caused by fear and anxiety. 
+The anxiety may vary from person to person but it is present and can 
+cause stress and affect a person‟s wellbeing. 
+
+ii. Secondly when one is uncertain about whether a loss would occur or 
+not, the prudent thing to do would be to set aside a reserve fund to 
+meet such an eventuality. There is a cost involved in keeping such a 
+fund. For instance, such funds may be held in a liquid form and yield low 
+returns. 
+
+By transferring the risk to an insurer, it becomes possible to enjoy peace of 
+mind, invest funds that would otherwise have been set aside as a reserve, and 
+plan one‟s business more effectively. It is precisely for these reasons that 
+insurance is needed.
+12 
+Test Yourself 2 
+
+Which among the following is a secondary burden of risk? 
+
+I. Business interruption cost 
+II. Goods damaged cost 
+III. Setting aside reserves as a provision for meeting potential losses in the 
+future 
+IV. Hospitalisation costs as a result of heart attack
+13 
+C. Risk management techniques 
+
+Another question one may ask is whether insurance is the right solution to all 
+kinds of risk situations. The answer is „No‟. 
+
+Insurance is only one of the methods by which individuals may seek to manage 
+their risks. Here they transfer the risks they face to an insurance company. 
+However there are some other methods of dealing with risks, which are 
+explained below: 
+
+1. Risk avoidance 
+
+Controlling risk by avoiding a loss situation is known as risk avoidance. Thus one 
+may try to avoid any property, person or activity with which an exposure may 
+be associated. 
+
+Example 
+
+i. 
+One may refuse to bear certain manufacturing risks by contracting out the 
+manufacturing to someone else. 
+
+ii. One may not venture outside the house for fear of meeting with an accident 
+or may not travel at all for fear of falling ill when abroad. 
+
+But risk avoidance is a negative way to handle risk. Individual and social 
+advancements come from activities that need some risks to be taken. By 
+avoiding such activities, individuals and society would lose the benefits that 
+such risk taking activities can provide. 
+
+2. Risk retention 
+
+One tries to manage the impact of risk and decides to bear the risk and its 
+effects by oneself. This is known as self-insurance. 
+
+Example 
+
+A business house may decide, based on experience about its capacity to bear 
+small losses up to a certain limit, to retain the risk with itself. 
+
+3. Risk reduction and control 
+
+This is a more practical and relevant approach than risk avoidance. It means 
+taking steps to lower the chance of occurrence of a loss and/or to reduce 
+severity of its impact if such loss should occur.
+14 
+Important 
+
+The measures to reduce chance of occurrence are known as „Loss Prevention‟. 
+The measures to reduce degree of loss are called „Loss Reduction‟. 
+
+Risk reduction involves reducing the frequency and/or sizes of losses through 
+one or more of: 
+
+a) Education and training, such as holding regular “fire drills” for 
+employees, or ensuring adequate training of drivers, forklift operators, 
+wearing of helmets and seat belts and so on. 
+
+One example of this can be educating school going children to avoid junk 
+food. 
+
+b) Making 
+Environmental 
+changes, 
+such 
+as 
+improving 
+“physical” 
+conditions, e.g. better locks on doors, bars or shutters on windows, 
+installing burglar or fire alarms or extinguishers. The State can take 
+measures to curb pollution and noise levels to improve the health status 
+of its people. Regular spraying of Malaria medicine helps in prevention of 
+outbreak of the disease. 
+
+c) Changes made in dangerous or hazardous operations, while using 
+machinery and equipment or in the performance of other tasks 
+
+For example leading a healthy lifestyle and eating properly at the right 
+time helps in reducing the incidence of falling ill. 
+
+d) Separation, spreading out various items of property into varied locations 
+rather than concentrating them at one location, is a method to control 
+risks. The idea is, if a mishap were to occur in one location, its impact 
+could be reduced by not keeping everything at that one place. 
+
+For instance one could reduce the loss of inventory by storing it in 
+different warehouses. Even if one of these were to be destroyed, the 
+impact would be reduced considerably. 
+
+4. Risk financing 
+
+This refers to the provision of funds to meet losses that may occur. 
+
+a) Risk retention through self-financing involves self-payment for any losses 
+as they occur. In this process the firm assumes and finances its own risk, 
+either through its own or borrowed funds, this is known as self-insurance. 
+The firm may also engage in various risk reduction methods to make the loss 
+impact small enough to be retained by the firm.
+15 
+b) Risk transfer is an alternative to risk retention. Risk transfer involves 
+transferring the responsibility for losses to another party. Here the losses 
+that may arise as a result of a fortuitous event (or peril) are transferred to 
+another entity. 
+
+Insurance is one of the major forms of risk transfer, and it permits 
+uncertainty to be replaced by certainty through insurance indemnity. 
+
+Insurance vs Assurance 
+
+Both insurance and assurance are financial products offered by companies 
+operating commercially. Of late the distinction between the two has 
+increasingly become blurred and the two are taken as somewhat similar. 
+However there are subtle differences between the two as discussed 
+hereunder. 
+
+Insurance refers to protection against an event that might happen whereas 
+assurance refers to protection against an event that will happen. Insurance 
+provides cover against a risk while assurance covers an event that is definite 
+e.g. death, which is certain, only the time of occurrence is uncertain. Assurance 
+policies are associated with life cover. 
+
+Diagram 4: How insurance indemnifies the insured
+16 
+There are other ways to transfer risk. For example when a firm is part of a 
+group, the risk may be transferred to the parent group which would then 
+finance the losses. 
+
+Thus, insurance is only one of the methods of risk transfer. 
+
+Test Yourself 3 
+
+Which among the following is a method of risk transfer? 
+
+I. Bank FD 
+II. Insurance 
+III. Equity shares 
+IV. Real estate
+17 
+D. Insurance as a tool for managing risk 
+
+When we speak about a risk, we are not referring to a loss that has actually 
+been suffered but a loss that is likely to occur. It is thus an expected loss. The 
+cost of this expected loss (which is the same as the cost of the risk) is the 
+product of two factors: 
+
+i. 
+The probability that the peril being insured against may happen, leading 
+to the loss 
+
+ii. The impact or the amount of loss that may be suffered as a result 
+
+The cost of risk would increase in direct proportion with both probability and 
+amount of loss. However, if the amount of loss is very high, and the probability 
+of its occurrence is small, the cost of the risk would be low. 
+
+Diagram 5: Considerations before opting for insurance 
+
+1. Considerations before opting for Insurance 
+
+When deciding whether to insure or not, one needs to weigh the cost of 
+transferring the risk against the cost of bearing the loss, that may arise, 
+oneself. The cost of transferring the risk is the insurance premium – it is given 
+by two factors mentioned in the previous paragraph. The best situations for 
+insurance would be where the probability is very low but the loss impact could 
+be very high. In such instances, the cost of transferring the risk through its 
+insurance (the premium) would be much lower while the cost of bearing it on 
+oneself would be very high. 
+
+a) Don‘t risk a lot for a little: A reasonable relationship must be there 
+between the cost of transferring the risk and the value derived. 
+
+Example 
+
+Would it make sense to insure an ordinary ball pen? 
+
+b) Don‘t risk more than you can afford to lose: If the loss that can arise as 
+a result of an event is so large that it can lead to a situation that is near
+18 
+bankruptcy, retention of the risk would not appear to be realistic and 
+appropriate. 
+
+Example 
+
+What would happen if a large oil refinery were to be destroyed or damaged? 
+Could a company afford to bear the loss? 
+
+c) Consider the likely outcomes of the risk carefully: It is best to insure 
+those assets for which the probability of occurrence (frequency) of a loss 
+is low but the possible severity (impact), is high. 
+
+Example 
+
+Could one afford to not insure a space satellite? 
+
+Test Yourself 4 
+
+Which among the following scenarios warrants insurance? 
+
+I. The sole bread winner of a family might die untimely 
+II. A person may lose his wallet 
+III. Stock prices may fall drastically 
+IV. A house may lose value due to natural wear and tear
+19 
+E. Role of insurance in society 
+
+Insurance companies play an important role in a country‟s economic 
+development. They are contributing in a significant sense to ensuring that the 
+wealth of the country is protected and preserved. Some of their contributions 
+are given below. 
+
+a) Their investments benefit the society at large. An insurance company‟s 
+strength lies in the fact that huge amounts are collected and pooled 
+together in the form of premiums. 
+
+b) These funds are collected and held for the benefit of the policyholders. 
+Insurance companies are required to keep this aspect in mind and make 
+all their decisions in dealing with these funds so as to be in ways that 
+benefit the community. This applies also to its investments. That is why 
+successful insurance companies would not be found investing in 
+speculative ventures i.e. stocks and shares. 
+
+c) The system of insurance provides numerous direct and indirect benefits 
+to the individual, his family, to industry and commerce and to the 
+community and the nation as a whole. The insured - both individuals and 
+enterprises - are directly benefitted because they are protected from 
+the consequences of the loss that may be caused by an accident or 
+fortuitous event. Insurance, thus, in a sense protects the capital in 
+industry and releases the capital for further expansion and development 
+of business and industry. 
+
+d) Insurance removes the fear, worry and anxiety associated with one‟s 
+future and thus encourages free investment of capital in business 
+enterprises and promotes efficient use of existing resources. Thus 
+insurance encourages commercial and industrial development along with 
+generation of employment opportunities, thereby contributing to a 
+healthy economy and increased national productivity. 
+
+e) A bank or financial institution may not advance loans on property unless 
+it is insured against loss or damage by insurable perils. Most of them 
+insist on assigning the policy as collateral security. 
+
+f) Before acceptance of a risk, insurers arrange survey and inspection of 
+the property to be insured, by qualified engineers and other experts. 
+They not only assesses the risk for rating purposes but also suggest and 
+recommend to the insured, various improvements in the risk, which will 
+attract lower rates of premium. 
+
+g) Insurance ranks with export trade, shipping and banking services as an 
+earner of foreign exchange to the country. Indian insurers operate in 
+more than 30 countries. These operations earn foreign exchange and 
+represent invisible exports.
+20 
+h) Insurers are closely associated with several agencies and institutions 
+engaged in fire loss prevention, cargo loss prevention, industrial safety 
+and road safety. 
+
+Information 
+
+Insurance and Social Security 
+
+a) It is now recognised that provision of social security is an obligation of the 
+State. Various laws, passed by the State for this purpose involve use of 
+insurance, compulsory or voluntary, as a tool of social security. Central and 
+State Governments contribute premiums under certain social security 
+schemes thus fulfilling their social commitments. The Employees State 
+Insurance Act, 1948 provides for Employees State Insurance Corporation to 
+pay for the expenses of sickness, disablement, maternity and death for the 
+benefit of industrial employees and their families, who are insured persons. 
+The scheme operates in certain industrial areas as notified by the 
+Government. 
+b) Insurers play an important role in social security schemes sponsored by the 
+Government such as 
+1. RKBY – Rashtriya Krishi Bima Yojana 
+2. RSBY – Rashtriya Swasthya Bima Yojana 
+3. PMJBY – Pradhan Mantri Jeevan Jyoti Bima Yojana 
+4. PMSBY – Pradhan Mantri Suraksha Bima Yojana 
+ All these benefit the community in general. 
+
+c) All the rural insurance schemes, operated on a commercial basis, are 
+designed ultimately to provide social security to the rural families. 
+
+d) Apart from this support to Government schemes, the insurance industry 
+itself offers on a commercial basis, insurance covers which have the 
+ultimate objective of social security. Examples are: Janata Personal 
+Accident, Jan Arogya etc. 
+
+Test Yourself 5 
+
+Which of the below insurance scheme is run by an insurer and not sponsored by 
+the Government? 
+
+I. Employees State Insurance Corporation 
+II. Crop Insurance Scheme 
+III. Jan Arogya 
+IV. All of the above
+21 
+
+Summary 
+
+ 
+Insurance is risk transfer through risk pooling. 
+
+ 
+The origin of commercial insurance business as practiced today is traced to 
+the Lloyd‟s Coffee House in London. 
+
+ 
+An insurance arrangement involves the following entities like: 
+
+ Asset, 
+ Risk, 
+ Peril, 
+ Contract, 
+ Insurer and 
+ Insured 
+
+ 
+When persons having similar assets exposed to similar risks contribute into a 
+common pool of funds it is known as pooling. 
+
+ 
+Apart from insurance, other risk management techniques include: 
+
+ Risk avoidance, 
+ Risk control, 
+ Risk retention, 
+ Risk financing and 
+ Risk transfer 
+
+ 
+The thumb rules of insurance are: 
+
+ Don‟t risk more than you can afford to lose, 
+ Consider the likely outcomes of the risk carefully and 
+ Don‟t risk a lot for a little 
+
+Key Terms 
+
+1. Risk 
+2. Pooling 
+3. Asset 
+4. Burden of risk 
+5. Risk avoidance 
+6. Risk control 
+7. Risk retention 
+8. Risk financing 
+9. Risk transfer
+22 
+Answers to Test Yourself 
+
+Answer 1 
+
+The correct option is II. 
+
+Insurance Regulatory and Development Authority of India is the regulator for the 
+insurance industry in India. 
+
+Answer 2 
+
+The correct option is III. 
+
+The need for setting aside reserves as a provision for potential losses in the 
+future is a secondary burden of risk. 
+
+Answer 3 
+
+The correct option is II. 
+
+Insurance is a method of risk transfer. 
+
+Answer 4 
+
+The correct option is I. 
+
+The bread winner of a family might die untimely leaving the entire family to 
+fend for itself, such a scenario warrants purchasing of life insurance. 
+
+Answer 5 
+
+The correct option is III. 
+
+The Jan Arogya insurance scheme is run by an insurer and not sponsored by the 
+Government. 
+
+Self-Examination Questions 
+
+Question 1 
+
+Risk transfer through risk pooling is called ________. 
+
+I. Savings 
+II. Investments 
+III. Insurance 
+IV. Risk mitigation
+23 
+Question 2 
+
+The measures to reduce chances of occurrence of risk are known as _____. 
+
+I. Risk retention 
+II. Loss prevention 
+III. Risk transfer 
+IV. Risk avoidance 
+
+Question 3 
+
+By transferring risk to insurer, it becomes possible ___________. 
+
+I. To become careless about our assets 
+II. To make money from insurance in the event of a loss 
+III. To ignore the potential risks facing our assets 
+IV. To enjoy peace of mind and plan one‟s business more effectively 
+
+Question 4 
+
+Origins of modern insurance business can be traced to __________. 
+
+I. Bottomry 
+II. Lloyds 
+III. Rhodes 
+IV. Malhotra Committee 
+
+Question 5 
+
+In insurance context „risk retention‟ indicates a situation where _____. 
+
+I. Possibility of loss or damage is not there 
+II. Loss producing event has no value 
+III. Property is covered by insurance 
+IV. One decides to bear the risk and its effects 
+
+Question 6 
+
+Which of the following statement is true? 
+
+I. Insurance protects the asset 
+II. Insurance prevents its loss 
+III. Insurance reduces possibilities of loss 
+IV. Insurance pays when there is loss of asset
+24 
+Question 7 
+
+Out of 400 houses, each valued at Rs. 20,000, on an average 4 houses get burnt 
+every year resulting in a combined loss of Rs. 80,000. What should be the annual 
+contribution of each house owner to make good this loss? 
+
+I. Rs.100/- 
+II. Rs.200/- 
+III. Rs.80/- 
+IV. Rs.400/- 
+
+Question 8 
+
+Which of the following statements is true? 
+
+I. Insurance is a method of sharing the losses of a „few‟ by „many‟ 
+II. Insurance is a method of transferring the risk of an individual to another 
+individual 
+III. Insurance is a method of sharing the losses of a „many‟ by a few 
+IV. Insurance is a method of transferring the gains of a few to the many 
+
+Question 9 
+
+Why do insurers arrange for survey and inspection of the property before 
+acceptance of a risk? 
+
+I. To assess the risk for rating purposes 
+II. To find out how the insured purchased the property 
+III. To find out whether other insurers have also inspected the property 
+IV. To find out whether neighbouring property also can be insured 
+
+Question 10 
+
+Which of the below option best describes the process of insurance? 
+
+I. Sharing the losses of many by a few 
+II. Sharing the losses of few by many 
+III. One sharing the losses of few 
+IV. Sharing of losses through subsidy 
+
+Answers to Self-Examination Questions 
+
+Answer 1 
+
+The correct option is III. 
+
+Risk transfer through risk pooling is called insurance.
+25 
+Answer 2 
+
+The correct option is II. 
+
+The measures to reduce chances of occurrence of risk are known as loss 
+prevention measures. 
+
+Answer 3 
+
+The correct option is IV. 
+
+By transferring risk to insurer, it becomes possible to enjoy peace of mind and 
+plan one‟s business more effectively. 
+
+Answer 4 
+
+The correct option is II. 
+
+Origins of modern insurance business can be traced to Lloyd‟s.
