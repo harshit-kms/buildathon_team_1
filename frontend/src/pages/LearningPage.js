@@ -36,7 +36,8 @@ const LearningPage = () => {
       duration: "4.5h",
       lessons: 12,
       icon: "📊",
-      color: "from-teal-500 to-teal-600"
+      color: "from-teal-500 to-teal-600",
+      link : "https://youtu.be/3Iwba9DC70Q?feature=shared"
     },
     {
       id: 2,
@@ -46,7 +47,9 @@ const LearningPage = () => {
       duration: "3.2h",
       lessons: 8,
       icon: "📱",
-      color: "from-teal-400 to-cyan-500"
+      color: "from-teal-400 to-cyan-500",
+      link : "https://youtu.be/3Iwba9DC70Q?feature=shared"
+
     },
     {
       id: 3,
@@ -56,7 +59,8 @@ const LearningPage = () => {
       duration: "2.8h",
       lessons: 10,
       icon: "🎯",
-      color: "from-slate-600 to-slate-700"
+      color: "from-slate-600 to-slate-700",
+      link : "https://youtu.be/3Iwba9DC70Q?feature=shared"
     }
   ]);
 
@@ -199,7 +203,7 @@ const LearningPage = () => {
     <Layout title = "Learning">
     <div>
       <div className="max-w-7xl mx-auto px-6 py-8">
-        {/* Welcome Section */}
+        {/* Welcome Section
         <div className="mb-8">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-4">
@@ -220,7 +224,7 @@ const LearningPage = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* Daily Tip Banner */}
         <div className="bg-gradient-to-r from-teal-500 to-teal-600 rounded-xl p-6 mb-8 text-white">
@@ -249,9 +253,9 @@ const LearningPage = () => {
         <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 mb-8">
           <div className="flex items-center justify-between mb-4">
             <h2 className="text-xl font-bold text-gray-900 dark:text-white">Learning Snapshot</h2>
-            <button className="bg-teal-500 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-teal-600 transition-colors">
+            {/* <button className="bg-teal-500 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-teal-600 transition-colors">
               Unlock Premium
-            </button>
+            </button> */}
           </div>
           <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
             <div className="text-center p-4 bg-gradient-to-br from-teal-50 to-teal-100 dark:from-teal-900/20 dark:to-teal-800/20 rounded-lg">
@@ -292,9 +296,9 @@ const LearningPage = () => {
                   <div className={`w-12 h-12 bg-gradient-to-r ${course.color} rounded-lg flex items-center justify-center text-2xl`}>
                     {course.icon}
                   </div>
-                  <button className="p-2 bg-teal-100 dark:bg-teal-900/30 rounded-full hover:bg-teal-200 dark:hover:bg-teal-900/50 transition-colors">
+                  {/* <button className="p-2 bg-teal-100 dark:bg-teal-900/30 rounded-full hover:bg-teal-200 dark:hover:bg-teal-900/50 transition-colors">
                     <Play className="w-4 h-4 text-teal-600 dark:text-teal-400" />
-                  </button>
+                  </button> */}
                 </div>
                 <h3 className="font-semibold text-gray-900 dark:text-white mb-2">{course.title}</h3>
                 <p className="text-sm text-gray-600 dark:text-gray-400 mb-4">{course.subtitle}</p>
@@ -310,13 +314,116 @@ const LearningPage = () => {
                     />
                   </div>
                 </div>
+                <a href = {`${course.link}%`}>
                 <button className="w-full bg-slate-800 text-white py-2 px-4 rounded-lg text-sm font-medium hover:bg-slate-700 transition-colors">
                   Continue Learning
                 </button>
+                </a>
               </div>
             ))}
           </div>
         </div>
+{/* Success Stories Section */}
+        <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 mb-8">
+          <div className="flex items-center justify-between mb-6">
+            <h2 className="text-xl font-bold text-gray-900 dark:text-white">Success Stories</h2>
+            <a href="#" className="text-teal-600 font-medium flex items-center hover:text-teal-700">
+              View All <ChevronRight className="w-4 h-4 ml-1" />
+            </a>
+          </div>
+          <div className="space-y-4">
+            <div className="flex items-start p-4 bg-gray-50 dark:bg-gray-700 rounded-lg hover:bg-teal-50 hover:border-teal-200 dark:hover:bg-gray-600 transition-colors cursor-pointer border border-transparent">
+              <div className="w-12 h-12 bg-gradient-to-r from-blue-500 to-blue-600 rounded-lg flex items-center justify-center text-2xl flex-shrink-0">
+                🏠
+              </div>
+              <div className="ml-4 flex-1">
+                <div className="flex items-center justify-between mb-2">
+                  <h3 className="font-semibold text-gray-900 dark:text-white">Converting a Price-Focused Shopper</h3>
+                  <div className="bg-blue-100 dark:bg-blue-900/50 px-2 py-1 rounded-full">
+                    <span className="text-xs font-medium text-blue-700 dark:text-blue-300">home</span>
+                  </div>
+                </div>
+                <p className="text-sm text-gray-600 dark:text-gray-400 mb-2">
+                  Used comparison charts to demonstrate value over price when customer focused only on cost
+                </p>
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center space-x-4">
+                    <span className="text-xs text-gray-500">Mike D.</span>
+                    <span className="text-xs text-gray-500">5 years experience</span>
+                    <div className="flex items-center">
+                      <span className="text-xs text-teal-600 dark:text-teal-400 font-medium">₹800 additional premium</span>
+                    </div>
+                  </div>
+                  <div className="text-sm text-gray-500">
+                    <TrendingUp className="w-4 h-4 inline mr-1" />
+                    <span>+140%</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="flex items-start p-4 bg-gray-50 dark:bg-gray-700 rounded-lg hover:bg-teal-50 hover:border-teal-200 dark:hover:bg-gray-600 transition-colors cursor-pointer border border-transparent">
+              <div className="w-12 h-12 bg-gradient-to-r from-emerald-500 to-emerald-600 rounded-lg flex items-center justify-center text-2xl flex-shrink-0">
+                🚗
+              </div>
+              <div className="ml-4 flex-1">
+                <div className="flex items-center justify-between mb-2">
+                  <h3 className="font-semibold text-gray-900 dark:text-white">Turning Skeptical Customer into Advocate</h3>
+                  <div className="bg-emerald-100 dark:bg-emerald-900/50 px-2 py-1 rounded-full">
+                    <span className="text-xs font-medium text-emerald-700 dark:text-emerald-300">auto</span>
+                  </div>
+                </div>
+                <p className="text-sm text-gray-600 dark:text-gray-400 mb-2">
+                  Built trust through education and validation, leading to customer and 3 family referrals
+                </p>
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center space-x-4">
+                    <span className="text-xs text-gray-500">Sarah M.</span>
+                    <span className="text-xs text-gray-500">3 years experience</span>
+                    <div className="flex items-center">
+                      <span className="text-xs text-teal-600 dark:text-teal-400 font-medium">₹4,500 total business</span>
+                    </div>
+                  </div>
+                  <div className="text-sm text-gray-500">
+                    <Users className="w-4 h-4 inline mr-1" />
+                    <span>4 customers</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="flex items-start p-4 bg-gray-50 dark:bg-gray-700 rounded-lg hover:bg-teal-50 hover:border-teal-200 dark:hover:bg-gray-600 transition-colors cursor-pointer border border-transparent">
+              <div className="w-12 h-12 bg-gradient-to-r from-purple-500 to-purple-600 rounded-lg flex items-center justify-center text-2xl flex-shrink-0">
+                ❤️
+              </div>
+              <div className="ml-4 flex-1">
+                <div className="flex items-center justify-between mb-2">
+                  <h3 className="font-semibold text-gray-900 dark:text-white">Health Plan Family Upsell Success</h3>
+                  <div className="bg-purple-100 dark:bg-purple-900/50 px-2 py-1 rounded-full">
+                    <span className="text-xs font-medium text-purple-700 dark:text-purple-300">health</span>
+                  </div>
+                </div>
+                <p className="text-sm text-gray-600 dark:text-gray-400 mb-2">
+                  Identified family needs during renewal call, upgraded individual to family plan
+                </p>
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center space-x-4">
+                    <span className="text-xs text-gray-500">Amit K.</span>
+                    <span className="text-xs text-gray-500">2 years experience</span>
+                    <div className="flex items-center">
+                      <span className="text-xs text-teal-600 dark:text-teal-400 font-medium">₹12,000 upgrade</span>
+                    </div>
+                  </div>
+                  <div className="text-sm text-gray-500">
+                    <Target className="w-4 h-4 inline mr-1" />
+                    <span>300%</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           {/* Skill Tracks */}
@@ -334,7 +441,7 @@ const LearningPage = () => {
                     <div className="w-12 h-12 bg-white dark:bg-gray-800 rounded-lg flex items-center justify-center text-2xl shadow-sm border border-gray-100 dark:border-gray-600">
                       {track.icon}
                     </div>
-                    <div>
+                    <div className="text-left">
                       <h3 className="font-semibold text-gray-900 dark:text-white">{track.name}</h3>
                       <p className="text-sm text-gray-600 dark:text-gray-400">{track.description}</p>
                       <div className="flex items-center space-x-4 mt-1">
@@ -373,7 +480,7 @@ const LearningPage = () => {
                     <div className="w-12 h-12 bg-teal-500 rounded-full flex items-center justify-center text-2xl text-white">
                       {mentor.avatar}
                     </div>
-                    <div>
+                    <div className="text-left">
                       <h3 className="font-semibold text-gray-900 dark:text-white">{mentor.name}</h3>
                       <p className="text-sm text-gray-600 dark:text-gray-400">{mentor.specialties.join(", ")}</p>
                       <div className="flex items-center space-x-4 mt-1">
@@ -406,7 +513,7 @@ const LearningPage = () => {
             className="flex items-center gap-2 bg-teal-500 hover:bg-teal-600 text-white px-5 py-3 rounded-full shadow-lg transition-all hover:scale-105 animate-pulse"
           >
             <MessageCircle className="w-5 h-5" />
-            <span className="font-medium">Insu Learning</span>
+            <span className="font-medium">InsuLearn</span>
           </button>
         )}
       </div>
@@ -428,7 +535,7 @@ const LearningPage = () => {
             <div className="bg-teal-500 text-white p-4 flex items-center justify-between">
               <div className="flex items-center space-x-2">
                 <Bot className="w-5 h-5" />
-                <h3 className="font-semibold">Insu Learn</h3>
+                <h3 className="font-semibold">InsuLearn</h3>
               </div>
               <button
                 onClick={() => setIsChatOpen(false)}

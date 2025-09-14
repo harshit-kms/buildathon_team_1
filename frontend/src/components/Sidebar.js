@@ -71,9 +71,9 @@ const Sidebar = () => {
       <div className="p-6 border-b border-gray-200 dark:border-gray-700">
         <div className="flex items-center space-x-2">
           <div className="w-8 h-8 bg-gradient-to-br from-teal-500 to-emerald-600 rounded-lg flex items-center justify-center">
-            <span className="text-white font-bold text-lg">M</span>
+            <span className="text-white font-bold text-lg">I</span>
           </div>
-          <span className="text-xl font-bold text-gray-900 dark:text-white">MintPro+</span>
+          <span className="text-xl font-bold text-gray-900 dark:text-white">InsuGrow</span>
         </div>
       </div>
 

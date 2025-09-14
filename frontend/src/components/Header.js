@@ -80,7 +80,7 @@ const Header = ({ title = "Dashboard" }) => {
         {/* Right side - Search, Theme Toggle, and User Profile */}
         <div className="flex items-center space-x-3 sm:space-x-4">
           {/* Search Bar */}
-          <form onSubmit={handleSearchSubmit} className="relative">
+          {/* <form onSubmit={handleSearchSubmit} className="relative">
             <div className="relative">
               <Search 
                 className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 dark:text-gray-500" 
@@ -97,7 +97,7 @@ const Header = ({ title = "Dashboard" }) => {
                          transition-colors duration-200"
               />
             </div>
-          </form>
+          </form> */}
 
           {/* Theme Toggle */}
           <ThemeToggle />

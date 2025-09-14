@@ -1,211 +1,465 @@
-import React from 'react';
-import { ArrowRight, Plus } from 'lucide-react';
-import { useDashboard } from '../hooks/useDashboard';
+import React, { useState } from 'react';
+import { 
+  TrendingUp, 
+  Users, 
+  MessageSquare, 
+  Target,
+  HelpCircle,
+  X,
+  Trophy,
+  Phone,
+  Mail,
+  MessageCircle,
+  UserCheck,
+  Calendar,
+  Bot, 
+  User, 
+  Send 
+} from 'lucide-react';
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, BarChart, Bar, PieChart, Pie, Cell } from 'recharts';
 import Layout from '../components/Layout';
 
 const DashboardPage = () => {
-  const { dashboardData, loading, error } = useDashboard();
+  const [showTooltip, setShowTooltip] = useState(null);
 
-  if (loading) {
-    return (
-      <Layout title="Dashboard">
-        <div className="flex items-center justify-center h-full">
-          <div className="text-xl">Loading dashboard...</div>
-        </div>
-      </Layout>
-    );
-  }
+  // Core KPIs data
+  const coreKPIs = [
+    {
+      id: 'leads',
+      title: 'Leads Generated',
+      value: 47,
+      change: '+12%',
+      trend: 'up',
+      icon: Users,
+      color: 'text-teal-600',
+      bgColor: 'bg-teal-50',
+      help: 'Total number of new leads generated through all marketing channels including digital campaigns, referrals, and direct inquiries.'
+    },
+    {
+      id: 'conversion',
+      title: 'Conversion Rate',
+      value: '22%',
+      change: '+3.2%',
+      trend: 'up',
+      icon: Target,
+      color: 'text-green-600',
+      bgColor: 'bg-green-50',
+      help: 'Percentage of leads that converted into actual customers. This metric helps measure the effectiveness of your sales process.'
+    },
+    {
+      id: 'response',
+      title: 'Response Rate',
+      value: '78%',
+      change: '+4.8%',
+      trend: 'up',
+      icon: MessageSquare,
+      color: 'text-blue-600',
+      bgColor: 'bg-blue-50',
+      help: 'Percentage of customers who responded to marketing campaigns within 24 hours. Higher rates indicate better engagement.'
+    },
+    {
+      id: 'referrals',
+      title: 'Referrals Generated',
+      value: 8,
+      change: '-2.1%',
+      trend: 'down',
+      icon: UserCheck,
+      color: 'text-orange-600',
+      bgColor: 'bg-orange-50',
+      help: 'Number of new customers acquired through existing customer referrals. Word-of-mouth is a powerful growth driver.'
+    },
+    {
+      id: 'engagement',
+      title: 'Engagement Rate',
+      value: '24%',
+      change: '+1.5%',
+      trend: 'up',
+      icon: TrendingUp,
+      color: 'text-purple-600',
+      bgColor: 'bg-purple-50',
+      help: 'Average engagement rate across all digital channels including social media interactions, email opens, and campaign clicks.'
+    }
+  ];
 
-  if (error) {
-    return (
-      <Layout title="Dashboard">
-        <div className="flex items-center justify-center h-full">
-          <div className="text-red-600 text-center">
-            <h2 className="text-xl font-semibold mb-2">Error Loading Dashboard</h2>
-            <p>{error}</p>
-          </div>
-        </div>
-      </Layout>
-    );
-  }
+  // Chart data
+  const leadsConversionData = [
+    { month: 'Jul', leads: 42, conversions: 18 },
+    { month: 'Aug', leads: 48, conversions: 28 },
+    { month: 'Sep', leads: 39, conversions: 27 },
+    { month: 'Oct', leads: 52, conversions: 31 },
+    { month: 'Nov', leads: 45, conversions: 29 },
+    { month: 'Dec', leads: 55, conversions: 35 }
+  ];
 
-  const formatCurrency = (amount) => {
-    return new Intl.NumberFormat('en-IN', {
-      style: 'currency',
-      currency: 'INR',
-      minimumFractionDigits: 0,
-      maximumFractionDigits: 0,
-    }).format(amount).replace('₹', '₹ ');
+  const weeklyEngagementData = [
+    { day: 'Mon', rate: 18 },
+    { day: 'Tue', rate: 21 },
+    { day: 'Wed', rate: 25 },
+    { day: 'Thu', rate: 19 },
+    { day: 'Fri', rate: 28 },
+    { day: 'Sat', rate: 16 },
+    { day: 'Sun', rate: 14 }
+  ];
+
+  const leadSourcesData = [
+    { name: 'WhatsApp', value: 35, color: '#10B981' },
+    { name: 'Facebook', value: 28, color: '#3B82F6' },
+    { name: 'Email', value: 15, color: '#F59E0B' },
+    { name: 'Direct', value: 12, color: '#EF4444' },
+    { name: 'Referrals', value: 10, color: '#8B5CF6' }
+  ];
+
+  const leaderboardData = [
+    { rank: 1, name: 'Rajesh Kumar', location: 'Mumbai', leads: 47, badge: '👑' },
+    { rank: 2, name: 'Priya Sharma', location: 'Delhi', leads: 39, badge: '🥈' },
+    { rank: 3, name: 'Amit Patel', location: 'Bangalore', leads: 34, badge: '🥉' },
+  ];
+
+    const [isChatOpen, setIsChatOpen] = useState(false);
+    const [chatMessages, setChatMessages] = useState([
+      {
+        id: 1,
+        type: 'bot',
+        message: "Hi Priya! I'm your ai assistant. How can I help you today?",
+        timestamp: new Date(Date.now() - 60000)
+      }
+    ]);
+    const [newMessage, setNewMessage] = useState('');
+
+    const handleSendMessage = () => {
+    if (!newMessage.trim()) return;
+
+    const userMessage = {
+      id: chatMessages.length + 1,
+      type: 'user',
+      message: newMessage,
+      timestamp: new Date()
+    };
+
+    setChatMessages(prev => [...prev, userMessage]);
+
+    // Simulate bot response
+    setTimeout(() => {
+      const botResponses = [
+        "Great question! Let me help you with that.",
+        "I'd recommend focusing on 'Advanced Objection Handling' since you're 90% complete. Finishing it will unlock your Silver certification!",
+        "Your conversion rate has improved by 23%! This is likely due to applying the techniques from your completed lessons. Keep it up!",
+        "For WhatsApp campaigns, check out the 'Digital Selling Mastery' course. It covers social selling strategies specifically for health insurance.",
+        "Based on your progress, I suggest scheduling a 1:1 session with Rajesh Kumar. He specializes in sales strategy and has excellent reviews."
+      ];
+      
+      const randomResponse = botResponses[Math.floor(Math.random() * botResponses.length)];
+      
+      const botMessage = {
+        id: chatMessages.length + 2,
+        type: 'bot',
+        message: randomResponse,
+        timestamp: new Date()
+      };
+
+      setChatMessages(prev => [...prev, botMessage]);
+    }, 1000);
+
+    setNewMessage('');
   };
 
-  const formatCrores = (amount) => {
-    return `₹ ${(amount / 10000000).toFixed(0)} Cr`;
+  const handleKeyPress = (e) => {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      handleSendMessage();
+    }
+  };
+  const toggleTooltip = (kpiId) => {
+    setShowTooltip(showTooltip === kpiId ? null : kpiId);
   };
 
   return (
-    <Layout title="Dashboard">
-      <div className="p-8">
-        {/* Top Row - Revenue Chart and Premium Increase */}
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-8">
-          
-          {/* Revenue Chart Card */}
-          <div className="lg:col-span-2 bg-white rounded-xl shadow-sm p-6">
-            <div className="flex items-center justify-between mb-6">
-              <div>
-                <h3 className="text-2xl font-bold text-gray-900">
-                  {formatCrores(dashboardData?.netPremium || 0)}
-                </h3>
-                <p className="text-sm text-gray-500 flex items-center mt-1">
-                  <span className="w-2 h-2 bg-teal-500 rounded-full mr-2"></span>
-                  +{dashboardData?.premiumGrowth || 0}%
-                </p>
-              </div>
-              <div>
-                <h4 className="text-lg font-semibold text-gray-800">Net</h4>
-                <h4 className="text-lg font-semibold text-gray-800">Premium</h4>
-              </div>
-            </div>
-            
-            {/* Chart Area */}
-            <div className="h-32 flex items-end justify-between mb-4">
-              <div className="flex items-end space-x-8">
-                {dashboardData?.monthlyData?.map((item, index) => (
-                  <div 
-                    key={index} 
-                    className="w-16 border-b-2 border-teal-400 relative"
-                    style={{ height: `${(item.value / Math.max(...dashboardData.monthlyData.map(d => d.value))) * 100}px` }}
-                  >
-                    <div className="absolute -top-2 left-1/2 transform -translate-x-1/2 w-1 bg-teal-400 rounded-full h-full"></div>
-                  </div>
-                ))}
-              </div>
-            </div>
-            
-            <div className="flex justify-between text-sm text-gray-500">
-              {dashboardData?.monthlyData?.map((item, index) => (
-                <span key={index}>{item.month}</span>
-              ))}
-            </div>
-            
-            <div className="mt-4 flex justify-end">
-              <button className="w-8 h-8 bg-teal-500 text-white rounded-full flex items-center justify-center hover:bg-teal-600 transition-colors">
-                <ArrowRight size={16} />
-              </button>
-            </div>
-          </div>
+    <Layout title = "Dashboard">
+    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 p-6">
+      {/* Header */}
+      <div className="mb-8">
+        <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-2">Analytics Dashboard</h1>
+        <p className="text-gray-600 dark:text-gray-300 text-lg">Track your performance with dimensional insights and actionable data</p>
+      </div>
 
-          {/* Premium Increase Card */}
-          <div className="bg-gray-900 text-white rounded-xl p-6 relative overflow-hidden">
-            <div className="relative z-10">
-              <div className="text-4xl font-bold text-teal-400 mb-2">
-                {dashboardData?.renewalIncrease || 0}%
+      {/* Core KPIs Section */}
+      <div className="mb-8">
+        <div className="flex items-center mb-4">
+          <div className="flex items-center space-x-1">
+            <Calendar className="w-4 h-4 text-teal-600" />
+            <span className="text-sm text-teal-600 font-medium">Last 7 days</span>
+          </div>
+        </div>
+        
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6 mb-8">
+          {coreKPIs.map((kpi) => {
+            const IconComponent = kpi.icon;
+            return (
+              <div key={kpi.id} className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm border border-gray-200 dark:border-gray-700 relative">
+                <div className="flex items-center justify-between mb-4">
+                  <div className={`p-2 rounded-lg ${kpi.bgColor} dark:bg-gray-700`}>
+                    <IconComponent className={`w-6 h-6 ${kpi.color} dark:text-gray-300`} />
+                  </div>
+                  <button
+                    onClick={() => toggleTooltip(kpi.id)}
+                    className="text-gray-400 hover:text-gray-600 dark:text-gray-500 dark:hover:text-gray-300 transition-colors"
+                  >
+                    <HelpCircle className="w-4 h-4" />
+                  </button>
+                </div>
+                
+                <div className="flex items-end justify-between">
+                  <div>
+                    <h3 className="text-3xl font-bold text-gray-900 dark:text-white">{kpi.value}</h3>
+                    <p className="text-sm text-gray-600 dark:text-gray-400 mt-1">{kpi.title}</p>
+                  </div>
+                  <span className={`text-sm font-medium ${
+                    kpi.trend === 'up' ? 'text-green-600' : 'text-red-600'
+                  }`}>
+                    {kpi.change}
+                  </span>
+                </div>
+
+                {/* Tooltip */}
+                {showTooltip === kpi.id && (
+                  <div className="absolute top-0 left-0 right-0 bg-gray-900 text-white p-4 rounded-xl shadow-lg z-10 -mt-2">
+                    <div className="flex items-start justify-between mb-2">
+                      <h4 className="font-semibold text-sm">{kpi.title}</h4>
+                      <button 
+                        onClick={() => setShowTooltip(null)}
+                        className="text-gray-300 hover:text-white ml-2"
+                      >
+                        <X className="w-4 h-4" />
+                      </button>
+                    </div>
+                    <p className="text-xs text-gray-300 leading-relaxed">{kpi.help}</p>
+                  </div>
+                )}
               </div>
-              <div className="text-sm text-gray-300 mb-1">increase</div>
-              <div className="text-sm text-gray-300 mb-6">in renewals</div>
-              <button className="w-full bg-teal-500 hover:bg-teal-600 text-white py-3 rounded-lg font-medium transition-colors">
-                Get Now
-              </button>
-            </div>
-            <div className="absolute top-0 right-0 w-32 h-32 bg-teal-500 opacity-10 rounded-full -mr-16 -mt-16"></div>
+            );
+          })}
+        </div>
+      </div>
+
+      {/* Charts Section */}
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-8">
+        {/* Leads & Conversions Trend */}
+        <div className="bg-white dark:bg-gray-800 rounded-2xl p-8 shadow-sm border border-gray-200 dark:border-gray-700">
+          <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-6">Leads & Conversions Trend</h3>
+          <div className="h-80">
+            <ResponsiveContainer width="100%" height="100%">
+              <BarChart data={leadsConversionData}>
+                <CartesianGrid strokeDasharray="3 3" stroke="#E5E7EB" />
+                <XAxis dataKey="month" stroke="#6B7280" />
+                <YAxis stroke="#6B7280" />
+                <Tooltip />
+                <Bar dataKey="leads" fill="#14B8A6" name="Leads Generated" />
+                <Bar dataKey="conversions" fill="#10B981" name="Conversions" />
+              </BarChart>
+            </ResponsiveContainer>
           </div>
         </div>
 
-        {/* Bottom Row - Statistics Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          
-          {/* NCCD by Months */}
-          <div className="bg-white rounded-xl shadow-sm p-6">
-            <p className="text-sm text-gray-500 mb-2">NCCD by Months</p>
-            <div className="text-2xl font-bold text-gray-900 mb-4">
-              {formatCurrency(dashboardData?.nccdByMonths?.value || 0).replace('₹ ', '₹ ').replace(',00', 'K')}
-            </div>
-            <div className="flex items-center space-x-1 mb-4">
-              <span className="w-2 h-2 bg-teal-500 rounded-full"></span>
-              <span className="text-sm text-gray-600">
-                +{dashboardData?.nccdByMonths?.growth || 0}%
-              </span>
-            </div>
-            <div className="flex items-end space-x-2 h-12">
-              {dashboardData?.nccdByMonths?.chartData?.map((height, i) => (
+        {/* Lead Sources */}
+        <div className="bg-white dark:bg-gray-800 rounded-2xl p-8 shadow-sm border border-gray-200 dark:border-gray-700">
+          <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-6">Lead Sources</h3>
+          <div className="h-80 flex items-center justify-center">
+            <ResponsiveContainer width="100%" height="100%">
+              <PieChart>
+                <Pie
+                  data={leadSourcesData}
+                  cx="50%"
+                  cy="50%"
+                  innerRadius={60}
+                  outerRadius={120}
+                  paddingAngle={5}
+                  dataKey="value"
+                >
+                  {leadSourcesData.map((entry, index) => (
+                    <Cell key={`cell-${index}`} fill={entry.color} />
+                  ))}
+                </Pie>
+                <Tooltip />
+              </PieChart>
+            </ResponsiveContainer>
+          </div>
+          <div className="flex flex-wrap justify-center gap-4 mt-4">
+            {leadSourcesData.map((source, index) => (
+              <div key={index} className="flex items-center space-x-2">
                 <div 
-                  key={i} 
-                  className={`w-4 rounded-sm ${i === 2 ? 'bg-teal-500' : 'bg-gray-200'}`}
-                  style={{ height: `${height}%` }}
+                  className="w-3 h-3 rounded-full"
+                  style={{ backgroundColor: source.color }}
                 ></div>
+                <span className="text-sm text-gray-600 dark:text-gray-400">{source.name}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+        {/* Weekly Engagement Rate */}
+        <div className="bg-white dark:bg-gray-800 rounded-2xl p-8 shadow-sm border border-gray-200 dark:border-gray-700">
+          <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-6">Weekly Engagement Rate</h3>
+          <div className="h-80">
+            <ResponsiveContainer width="100%" height="100%">
+              <LineChart data={weeklyEngagementData}>
+                <CartesianGrid strokeDasharray="3 3" stroke="#E5E7EB" />
+                <XAxis dataKey="day" stroke="#6B7280" />
+                <YAxis stroke="#6B7280" />
+                <Tooltip />
+                <Line 
+                  type="monotone" 
+                  dataKey="rate" 
+                  stroke="#14B8A6" 
+                  strokeWidth={3}
+                  dot={{ fill: '#14B8A6', strokeWidth: 2, r: 4 }}
+                  activeDot={{ r: 6 }}
+                />
+              </LineChart>
+            </ResponsiveContainer>
+          </div>
+        </div>
+        {/* Floating Chat Button */}
+      <div className="fixed bottom-6 right-6 z-50">
+        {!isChatOpen && (
+          <button
+            onClick={() => setIsChatOpen(true)}
+            className="flex items-center gap-2 bg-teal-500 hover:bg-teal-600 text-white px-5 py-3 rounded-full shadow-lg transition-all hover:scale-105 animate-pulse"
+          >
+            <MessageCircle className="w-5 h-5" />
+            <span className="font-medium">AI Assistant</span>
+          </button>
+        )}
+      </div>
+
+      {/* Chat Sidebar */}
+      {isChatOpen && (
+        <>
+          {/* Backdrop */}
+          <div 
+            className="fixed inset-0 bg-black bg-opacity-50 z-40 transition-opacity"
+            onClick={() => setIsChatOpen(false)}
+          />
+          
+          {/* Sidebar */}
+          <div className={`fixed top-0 right-0 h-full w-96 bg-white dark:bg-gray-800 shadow-2xl z-50 transform transition-transform duration-300 ease-in-out ${
+            isChatOpen ? 'translate-x-0' : 'translate-x-full'
+          } flex flex-col`}>
+            {/* Chat Header */}
+            <div className="bg-teal-500 text-white p-4 flex items-center justify-between">
+              <div className="flex items-center space-x-2">
+                <Bot className="w-5 h-5" />
+                <h3 className="font-semibold">AI Assistant</h3>
+              </div>
+              <button
+                onClick={() => setIsChatOpen(false)}
+                className="hover:bg-teal-600 p-1 rounded-full transition-colors"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            {/* Chat Messages */}
+            <div className="flex-1 p-4 overflow-y-auto space-y-4">
+              {chatMessages.map((msg) => (
+                <div
+                  key={msg.id}
+                  className={`flex ${msg.type === 'user' ? 'justify-end' : 'justify-start'}`}
+                >
+                  <div className={`flex items-start space-x-2 max-w-[85%] ${msg.type === 'user' ? 'flex-row-reverse space-x-reverse' : ''}`}>
+                    <div className={`w-8 h-8 rounded-full flex items-center justify-center flex-shrink-0 ${
+                      msg.type === 'bot' ? 'bg-teal-100 dark:bg-teal-900/30' : 'bg-blue-100 dark:bg-blue-900/30'
+                    }`}>
+                      {msg.type === 'bot' ? (
+                        <Bot className="w-4 h-4 text-teal-600 dark:text-teal-400" />
+                      ) : (
+                        <User className="w-4 h-4 text-blue-600 dark:text-blue-400" />
+                      )}
+                    </div>
+                    <div className={`p-3 rounded-lg ${
+                      msg.type === 'bot' 
+                        ? 'bg-gray-100 dark:bg-gray-700 text-gray-800 dark:text-gray-200' 
+                        : 'bg-teal-500 text-white'
+                    }`}>
+                      <p className="text-sm">{msg.message}</p>
+                      <span className={`text-xs mt-1 block ${
+                        msg.type === 'bot' ? 'text-gray-500 dark:text-gray-400' : 'text-teal-100'
+                      }`}>
+                        {msg.timestamp.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                      </span>
+                    </div>
+                  </div>
+                </div>
               ))}
             </div>
-          </div>
 
-          {/* Premium by Insurer */}
-          <div className="bg-white rounded-xl shadow-sm p-6">
-            <p className="text-sm text-gray-500 mb-2">Premium</p>
-            <p className="text-sm text-gray-500 mb-4">by insurer</p>
-            <div className="flex items-center justify-center mb-4">
-              <div className="relative w-20 h-20">
-                <svg className="w-20 h-20 transform -rotate-90" viewBox="0 0 100 100">
-                  <circle cx="50" cy="50" r="40" stroke="#e5e7eb" strokeWidth="8" fill="none" />
-                  <circle 
-                    cx="50" 
-                    cy="50" 
-                    r="40" 
-                    stroke="#14b8a6" 
-                    strokeWidth="8" 
-                    fill="none" 
-                    strokeDasharray={`${(dashboardData?.premiumByInsurer?.percentage || 0) * 2.51} ${(100 - (dashboardData?.premiumByInsurer?.percentage || 0)) * 2.51}`} 
-                    strokeLinecap="round" 
-                  />
-                </svg>
-                <div className="absolute inset-0 flex items-center justify-center">
-                  <span className="text-lg font-bold text-gray-900">
-                    {(dashboardData?.premiumByInsurer?.value || 0) / 1000}k
-                  </span>
+            {/* Chat Input */}
+            <div className="p-4 border-t border-gray-200 dark:border-gray-700">
+              <div className="flex space-x-2">
+                <input
+                  type="text"
+                  value={newMessage}
+                  onChange={(e) => setNewMessage(e.target.value)}
+                  onKeyPress={handleKeyPress}
+                  placeholder="Ask me anything..."
+                  className="flex-1 px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-teal-500 focus:border-transparent bg-white dark:bg-gray-700 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400"
+                />
+                <button
+                  onClick={handleSendMessage}
+                  className="bg-teal-500 hover:bg-teal-600 text-white px-4 py-2 rounded-lg transition-colors"
+                >
+                  <Send className="w-4 h-4" />
+                </button>
+              </div>
+            </div>
+          </div>
+        </>
+      )}
+
+        {/* Regional Leaderboard */}
+        <div className="bg-white dark:bg-gray-800 rounded-2xl p-8 shadow-sm border border-gray-200 dark:border-gray-700">
+          <div className="flex items-center mb-6">
+            <Trophy className="w-6 h-6 text-teal-600 mr-2" />
+            <h3 className="text-xl font-bold text-gray-900 dark:text-white">Regional Leaderboard</h3>
+          </div>
+          
+          <div className="space-y-4">
+            {leaderboardData.map((agent) => (
+
+              <div key={agent.rank} className="flex text-left items-center justify-between p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                <div className="flex items-center space-x-4">
+                  <div className="flex items-center space-x-2">
+                    <span className="text-lg">{agent.badge}</span>
+                    <span className="text-sm font-medium text-gray-500 dark:text-gray-400">#{agent.rank}</span>
+                  </div>
+                  <div>
+                    <h4 className="font-semibold text-gray-900 dark:text-white">{agent.name}</h4>
+                    <p className="text-sm text-gray-600 dark:text-gray-400">{agent.location}</p>
+                  </div>
+                </div>
+                <div className="text-right">
+                  <p className="text-2xl font-bold text-teal-600">{agent.leads}</p>
+                  <p className="text-xs text-gray-500 dark:text-gray-400">leads</p>
                 </div>
               </div>
-            </div>
+            ))}
           </div>
 
-          {/* New Leads */}
-          <div className="bg-white rounded-xl shadow-sm p-6">
-            <div className="text-2xl font-bold text-gray-900 mb-2">
-              {dashboardData?.newLeads?.count || 0}
-            </div>
-            <p className="text-sm text-gray-500 mb-4">New leads</p>
-            <div className="w-full bg-gray-200 rounded-full h-2 mb-2">
-              <div 
-                className="bg-yellow-400 h-2 rounded-full" 
-                style={{ width: `${dashboardData?.newLeads?.progress || 0}%` }}
-              ></div>
-            </div>
-          </div>
-
-          {/* Active Branches */}
-          <div className="bg-teal-500 text-white rounded-xl p-6">
-            <p className="text-sm text-teal-100 mb-2">Active Branches</p>
-            <div className="text-2xl font-bold mb-4">
-              {dashboardData?.activeBranches?.count || 0}
-            </div>
-            <div className="flex items-end space-x-2 h-12 mb-4">
-              {dashboardData?.activeBranches?.chartData?.map((height, i) => (
-                <div 
-                  key={i} 
-                  className="w-3 bg-white opacity-70 rounded-sm"
-                  style={{ height: `${height}%` }}
-                ></div>
-              ))}
-            </div>
+          <div className="mt-6 p-4 bg-teal-50 dark:bg-teal-900/20 rounded-lg">
             <div className="flex items-center justify-between">
-              <div className="flex items-center justify-center w-16 h-16 bg-white bg-opacity-20 rounded-xl">
-                <span className="text-2xl font-bold">
-                  {dashboardData?.activeBranches?.percentage || 0}%
-                </span>
+              <div>
+                <p className="text-sm font-medium text-teal-800 dark:text-teal-200">You're ranked 3rd nationally</p>
+                <p className="text-xs text-teal-600 dark:text-teal-300">Keep up the great work!</p>
               </div>
-              <button className="w-8 h-8 bg-white bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-colors">
-                <Plus size={16} />
-              </button>
+              <div className="bg-teal-600 text-white px-3 py-1 rounded-full text-sm font-medium">
+                TOP 10%
+              </div>
             </div>
           </div>
         </div>
       </div>
+    </div>
     </Layout>
   );
 };
