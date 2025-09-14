@@ -444,9 +444,9 @@ const DashboardPage = () => {
             <div className="flex items-center space-x-2">
               <BarChart3 className="w-5 h-5" />
               <span className="text-lg font-semibold">Advanced Analytics</span>
-              <span className="px-2 py-1 bg-teal-100 dark:bg-teal-900/30 text-teal-700 dark:text-teal-300 text-xs rounded-full font-medium">
+              {/* <span className="px-2 py-1 bg-teal-100 dark:bg-teal-900/30 text-teal-700 dark:text-teal-300 text-xs rounded-full font-medium">
                 Tier 2
-              </span>
+              </span> */}
             </div>
             {showAdvancedAnalytics ? (
               <ChevronUp className="w-5 h-5 transition-transform group-hover:scale-110" />
