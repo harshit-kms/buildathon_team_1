@@ -1,0 +1,1016 @@
+3. Extra charges 
+
+The tabular premium is charged for a group of insured individuals who 
+are not subject to any significant factors that would pose an extra risk. 
+Such individual lives are known as standard lives and the rates charged 
+are known as ordinary rates.
+185 
+If a person proposing for insurance suffers from certain health problems 
+like heart ailments or diabetes, it can pose a hazard to his life. Such a 
+life is considered to be sub-standard, in relation to other standard lives. 
+The insurer may decide to impose an extra premium by way of a health 
+extra. Similarly an occupational extra may be imposed on those engaged 
+in a hazardous occupation, like a circus acrobat. These extras would 
+result in the premium being more than the tabular premium. 
+
+Again, an insurer may offer certain extra benefits under a policy, which 
+are available on payment of an extra premium. 
+
+Example 
+
+A life insurer may offer a double accident benefit or DAB (where double 
+the sum assured is payable as a claim if death is a result of accident). For 
+this it may charge an extra premium of one rupee per thousand sum 
+assured. 
+
+Similarly a benefit known as Permanent Disability Benefit (PDB) may be 
+availed by paying an extra per thousand sum assured. 
+
+4. Determining the premium 
+
+Let us now examine how life insurers arrive at the rates that are 
+presented in the premium tables. This task is performed by an actuary. 
+The process of setting the premium in case of traditional life insurance 
+policies like term insurance, whole life and endowment considers 
+following elements: 
+
+ Mortality 
+ Interest 
+ Expenses of management 
+ Reserves 
+ Bonus loading
+186 
+Diagram 2: Components of Premium 
+
+The first two elements give us the Net premium. By adding [also called 
+„loading‟] the other elements to the net premium we get the gross or 
+office premium 
+
+a) Mortality and Interest 
+
+Mortality is the first element in premiums. It is the chance or 
+likelihood that a person of a certain age would die during a given 
+period, of typically one year. To find out the expected Mortality of a 
+person, we use a “Mortality Table”, which gives us an estimate of the 
+rate of mortality for different ages. 
+
+Example 
+
+If the mortality rate for age 35 is 0.0035 it implies that out of every 
+1000 people who are alive as on age 35, 3.5 (or 35 out of 10,000) are 
+expected to die between age 35 and 36. 
+
+The table may be used to calculate mortality cost for different ages. 
+For example the rate of 0.0035 for age 35 implies a cost of insurance 
+of 0.0035 x 1000 (sum assured) = Rs. 3.50 per thousand sum assured.
+187 
+The above cost may be also called the “Risk Premium”. For higher 
+ages the risk premium would be higher. 
+
+Consider a person aged 35. If he wants to take life insurance cover 
+for a term of twenty years [age 35 to 55], the insurance company 
+must have sufficient money available to meet the cost of claims that 
+can arise if he dies at any time during this period. This cost can be 
+found out by summing up the individual risk premiums for different 
+ages from age 35 to 55. 
+
+The total cost of these claims, as summed up above, would give us 
+the future liabilities under a policy. In other words it tells us how 
+much money is needed by an insurer to pay claims that may arise in 
+future. 
+
+Since Life insurers collect premiums at the beginning of a given term, 
+these premiums earn interest. While estimating the amount money 
+that would be needed at hand to pay claims that may arise in future 
+[future liabilities], it is necessary to take this factor of interest into 
+account. 
+
+Interest is simply the discount rate we assume for arriving at the 
+present value of future claim payments that have to be made. 
+
+Example 
+
+If we need to have Rs. 5 per thousand to meet the cost of insurance 
+after five years and if we assume a rate of interest of 6%, the present 
+value of Rs. 5 payable after five years would be 5 x 1/ (1.06)5 = 3.74. 
+
+If instead of 6% we were to assume 10%, the present value would be 
+only 3.10. In other words the higher the rate of interest assumed, the 
+lower the present value. 
+
+From our study of mortality and interest there are two major 
+conclusions we can derive 
+
+ Higher the mortality rate in the mortality table, higher the 
+premiums would be 
+ Higher the interest rate assumed, lower the premium 
+
+Actuaries, who are responsible for arriving at these estimates, tend to 
+be prudent and a little conservative. The mortality rates they assume 
+would be typically higher than what they expect to be the actual
+188 
+experience. They would also assume a lower interest rate than what 
+they expect to earn from their investments. 
+
+Net premium 
+
+The estimates of mortality and interest give the “Net Premium” 
+which is the estimate of present value of future claim costs. 
+
+Gross premium 
+
+Diagram 3: Guiding Principles for determining Amount of Loading 
+
+Gross premium is the net premium plus an amount called loading. 
+There are three considerations or guiding principles that needs to be 
+borne in mind when determining the amount of loading: 
+
+i. Adequacy 
+
+The total loading from all policies must be sufficient to cover the 
+company‟s total operating expenses. It should also provide a margin 
+of safety and finally it should contribute to the profits or surplus of 
+the company. 
+
+ii. Equity 
+
+Expenses and safety margins etc. should be equitably apportioned 
+[divided and shared] among various kinds of policies, depending on 
+type of plan, age and term etc. The idea is that each class of policy 
+should pay for its own costs, so that to the extent possible, one class 
+of policy does not subsidise [pay for] another.
+189 
+iii. Competitiveness 
+
+The resulting gross premiums should enable the company to improve 
+its competitive position. If the loading is too high, it would make the 
+policies very costly and people would not buy. 
+
+b) Expenses and reserves 
+
+Life insurers have to incur various types of operating expenses 
+including: 
+
+ Agents training and recruitment, 
+ Commissions of agents, 
+ Staff salaries, 
+ Office accommodation, 
+ Office stationery, 
+ Electricity charges, 
+ Other miscellaneous etc. 
+
+All these have to be paid from premiums that are collected by 
+insurers. These expenses are loaded to the net premium. 
+
+A life insurer incurs two types of expenses: 
+
+i. The first, known as “New Business Expenses”, are incurred at the 
+beginning stage of the contract 
+
+ii. The second type of expenses, known as “Renewal Expenses,” is 
+incurred during subsequent years. 
+
+Initial or new business expenses can be substantial. Life insurers are 
+also required by law to hold certain margins as reserves to ensure 
+they can meet their obligations even in those situations when their 
+actual experience is worse than assumed. The initial expenses along 
+with the margins required to be maintained as reserves are typically 
+higher than the initial premiums received by the life insurer. 
+
+The company thus faces a strain, known as new business strain. The 
+initial outflow is only recovered from subsequent annual premiums. 
+An implication is that life insurers cannot afford to have large number 
+of their policies cancelled or lapsing in initial years, before the 
+expenses are recouped. Another implication of new business strain is 
+that life insurance companies begin to make profits only after a 
+gestation period of some years.
+190 
+Expenses are also determined in different ways, depending on the 
+type of expense. 
+
+i. For instance, commissions and incentives for agency managers / 
+development officers are typically decided as a percentage of the 
+premiums earned. 
+ii. On the other hand, expenses like medical examiners‟ fees and 
+policy stamps vary depending on the amount of sum assured or 
+face value of the policy and are considered in relation to the sum 
+assured. 
+
+iii. A third category of expenses is overheads like salaries and rents 
+which generally vary with the amount of activities. These in turn 
+depend on the number of policies being serviced. More the 
+number of policies, higher the overhead expenses. 
+
+All the above types of expenses are All the above types of expenses 
+are suitably loaded to the net premium. 
+
+Lapses and contingencies 
+
+Apart from expenses, the life insurer also constantly faces the risk 
+that actual experience may be different from the assumptions made 
+at the stage of designing the contract. 
+
+One source of risk is that of lapses and withdrawals. A lapse means 
+that the policyholder discontinues payment of premiums. In case of 
+withdrawals, the policyholder surrenders the policy and receives an 
+amount from the policy‟s acquired cash value. 
+
+Lapses can pose a serious problem. They usually happen within the 
+first three years with highest incidence being typically in the very first 
+year of the contract. Life insurers incorporate a loading in 
+anticipation of leakages that may arise as a result. 
+
+Life insurers must also be prepared for the eventuality that the 
+assumptions on basis of which they set their premiums differs from 
+actual experience. Towards this purpose they include a loading 
+margin in the premium, which could help to absorb any adverse loss 
+that may arise between expected and actual experience.
+191 
+c) With Profit policies and Bonus loading 
+
+During the early years of the life insurance industry, the major 
+uncertainty faced was about the rate of mortality. Life insurers solved 
+the problem by charging excessive premiums in advance. This would 
+ensure that they remained solvent even in adverse situations. When, 
+in the light of sufficient experience, it was found that the premiums 
+were higher than what was needed, life insurers would return the 
+excess or some of it to policyholders by way of bonus additions. This 
+was the origin of the traditional with profit policies we find today 
+
+Participation in profits also ushered an element called “Bonus 
+Loading” into premiums. The idea was to provide a margin for profits 
+as a loading in the premium, such that it served as an added cushion 
+against unforeseen contingencies and also paid for the policy‟s share 
+of surplus distributed (as bonus). 
+
+In sum we can say that: 
+
+Gross premium = Net premium + Loading for expenses + Loading 
+for contingencies + Bonus loading 
+
+Test Yourself 1 
+
+What does a policy lapse mean? 
+
+I. Policyholder completes premium payment for a policy 
+II. Policyholder discontinues premium payment for a policy 
+III. Policy attains maturity 
+IV. Policy is withdrawn from the market
+192 
+B. Surplus and bonus 
+
+1. Determination of surplus and bonus 
+
+Every life insurance company is expected to undertake a periodic 
+valuation of its assets and liabilities. Such a valuation has two purposes: 
+
+i. To assess the financial state of the life insurer, in other words to 
+determine if it is solvent or insolvent 
+ii. To determine the surplus available for distribution among 
+policyholders / share holders 
+
+Definition 
+
+Surplus is the excess of value of assets over value of liabilities. If it is 
+negative, it is known as a strain. 
+
+Let us now see how the concept of surplus in life insurance is different 
+from that of profit of a firm. 
+
+Firms in general look at profits in two ways. Firstly, profit is the excess 
+of income over outgo for a given accounting period, as it appears in the 
+profit and loss account. Profit also forms part of the balance sheet of a 
+firm - it may be defined as the excess of assets over liabilities. 
+
+In both instances, profits are determined at the end of the accounting 
+period. 
+
+Example 
+
+The profits of XYZ firm as on 31stMarch 2013, is given as its income less 
+expenses or its assets less liabilities as on that date. 
+
+In both instances, the profit is clearly defined and is known. 
+
+Can we apply a similar argument and specify the liabilities and assets in 
+case of a life insurance valuation? 
+
+For life insurers, as for other firms, the surplus is determined as the 
+excess of assets over liabilities. 
+
+Surplus = Assets - Liabilities
+193 
+Let us understand what the liabilities are. For a given block of life 
+insurance policies, the life insurer has to make provision for meeting 
+future claims, expenses and other expected pay-outs that may arise. The 
+insurer also expects to receive premiums for these policies. Liabilities 
+are thus determined as the present value of all payments that have to be 
+made less the present value of premiums expected to be received on 
+these policies. The present value is arrived at by applying a suitable rate 
+of discount [the interest rate] 
+
+Diagram 4: Ways of Valuing Assets 
+
+Let us now look at how assets are valued. This can be done in one of 
+three ways 
+
+i. At Book Value 
+
+This is the value at which the life insurer has purchased or acquired 
+its assets 
+
+ii. At Market Value 
+
+The worth of the life insurer‟s assets in the market place 
+
+iii. Discounted Present Value 
+
+Estimating the future income stream from various assets and 
+discounting them to the present 
+
+The problem is that one cannot place an exact value on liabilities 
+because one cannot precisely predict what will happen in the future. 
+The value of liabilities depends on assumptions about factors like 
+mortality, interest, expenses and persistency which are made while
+194 
+estimating the present value of future liabilities. It is for this reason that 
+in life insurance we use the term surplus instead of profits. 
+
+Surplus is thus a function of how assets and liabilities are valued. 
+
+i. When a life insurer is very conservative in its valuation, it would 
+result in liabilities being overvalued than otherwise while assets 
+are undervalued. As a result the surplus that is declared would be 
+reduced. This means lesser bonuses would be available for 
+distribution among current policyholders. But it would also 
+contribute to financial soundness of the insurer, since the actual 
+amount of surplus is higher than the declared surplus and so higher 
+provisions can be retained for the future. This would benefit 
+future policyholders. 
+
+ii. On the other hand, if assets and liabilities are valued liberally, it 
+has the opposite result. Current policyholders would be benefited 
+at the expense of future ones. 
+
+The life insurance company has to strike the right balance between 
+current and future policyholders. 
+
+2. Allocating the surplus 
+
+Surplus arises as a result of the life insurer‟s actual experience being 
+better than what it had assumed. Under with profit contracts, the life 
+insurer is obliged to pass on the benefits of such a favourable gap 
+(between the actual and expected results) to policyholders who have 
+agreed to participate in the profits and have purchased these with profit 
+policies. 
+
+At the same time, surplus is also a source for increasing the company‟s 
+basic capital (its equity or net worth). It contributes to the life insurer‟s 
+financial soundness. 
+
+Let us now see how the surplus that is determined would be allocated 
+
+a) Solvency requirements 
+
+Firstly, life insurers have to maintain a solvency margin which may be 
+defined as the portion of surplus assets over liabilities that are 
+specifically set aside to serve as a cushion to meet any unforeseen 
+deviations between expected and actual experience.
+195 
+b) Free assets 
+
+Another purpose for having surplus that is unallocated (for 
+distribution) is to increase the level of free assets. Free assets are 
+unencumbered. In other words they are not required for meeting any 
+specific liabilities. The life insurer is thus free to use them for various 
+purposes like business expansion. 
+
+Once the divisible surplus is declared, the next issue is to determine their 
+distribution among the life insurer‟s policyholders (after leaving a portion 
+for distribution among shareholders if any). 
+
+In India, the popular method for the purpose has been the “Bonus 
+Mechanism” where surplus is distributed in the form of a bonus. This 
+system is popular in the United Kingdom, India and many other countries. 
+
+3. Bonus 
+
+Bonus is paid as an addition to the basic benefit payable under a 
+contract. Typically it may appear as an addition to basic sum assured or 
+basic pension per annum. It is expressed, for example, as Rs. 60 per 
+thousand sum assured (or 60% of SA). 
+
+The most common form of bonus is the reversionary bonus. The 
+company is expected to declare such bonus additions each year, 
+throughout the lifetime of the contract. Once declared, they get 
+attached and cannot be taken away. They form part of the liabilities of 
+the company. They are called „Reversionary‟ bonuses because the 
+policyholder only receives them when the contract becomes a claim by 
+death or maturity. 
+
+Bonuses may also be payable on surrender. In such cases it is often 
+stipulated that the contract should have run for a certain term (say 5 
+years) to become eligible.
+196 
+Types of reversionary bonuses 
+
+Diagram 5: Types of Reversionary Bonuses 
+
+i. Simple Reversionary Bonus 
+
+This is a bonus expressed as a percentage of the basic cash benefit 
+under the contract. In India for example, it is declared as amount per 
+thousand sum assured. 
+
+ii. Compound Bonus 
+
+Here the company expresses a bonus as a percentage of basic benefit 
+and already attached bonuses. It is thus a bonus on a bonus. A way to 
+express it may be as @ 8% of basic sum assured plus attached bonus. 
+
+One may also have Super Compound bonus, where the bonus is arrived 
+at as a percentage of basic benefit and applying another percentage 
+for attached bonus. For instance it may be expressed as @8% of basic 
+sum assured and @10% of attached bonus. 
+
+iii. Terminal Bonus 
+
+As the name suggests, this bonus attaches to the contract only on its 
+contractual termination (by death or maturity). The bonus is declared 
+only for claims of the ensuing year without any commitment about 
+subsequent years (as in case of reversionary bonuses). Thus the
+197 
+terminal bonus declared for 2013 would only apply to claims that have 
+arisen during 2013-14 and not for subsequent years. 
+
+Finally, terminal bonuses depend on the time duration of the 
+contract, and increases as the duration increases. Thus the terminal 
+bonus for a contract that has run for 25 years would be higher than 
+one which has run for 15 years. 
+
+4. The Contribution Method 
+
+Another method of distribution of surplus which has been adopted in 
+North America is the “Contribution” method. Under this method, 
+consideration is given to three sources of surplus - excess interest, 
+mortality savings and savings arising with respect to expense and other 
+loadings. 
+
+The surplus is thus given by the difference between what was expected 
+to happen and what actually happened over the year with respect to 
+mortality, interest and expenses 
+
+The dividends that are declared may be used in one of the following four 
+ways 
+
+i. It may be paid in the form of dividends in cash 
+
+ii. In the form of adjustment to, and reduction in future premiums 
+
+iii. A third method is to allow purchase of non-forfeitable paid up 
+additions to the policy 
+
+iv. Finally dividends may be allowed to accumulate, with interest, to 
+the credit of the policy. It may be either withdrawn at the option 
+of policyholder or only at the end of the contract 
+
+5. Unit Linked Policies 
+
+Traditional “With Profit” policies, as discussed above, contain a linkage 
+between the bonuses they pay and the investment performance of the 
+life insurer. The linkage however is not direct. The policyholder‟s bonus 
+is determined by the surplus that is declared during the periodic 
+valuation of the insurer‟s assets and liabilities. As a result, the bonus 
+structure does not directly reflect the value of the underlying assets of 
+the insurer. 
+Again, bonuses are generally only declared once a year. They obviously 
+cannot reflect the daily fluctuations in the value of assets. Unit linked
+198 
+policies have been designed precisely to overcome some of the 
+limitations spelt out above. 
+
+They involve a different approach to the design of products and follow a 
+different set of principles. 
+
+a) Unitising 
+
+The distinctive feature of these policies is that their benefits are 
+wholly or partially determined by the value of units credited to the 
+policyholder‟s account at the date when the claim payment is due to 
+be made. A unit is created through the division of an investment fund 
+into a number of equal parts. 
+
+b) Transparent structure 
+
+The charges for insurance protection and expenses component of a 
+unit linked product are clearly specified. Once these charges are 
+deducted from the premium the balance of the account and income 
+from it is invested in units. The value of these units is fixed with 
+reference to a pre-determined index of performance. 
+
+It is defined by a rule or formula, which is outlined in advance. Two 
+independent persons, by following this formula, would arrive at the 
+same estimate of benefits. Policy holder benefits, in other words, do 
+not depend on the assumptions and discretions of the life insurance 
+company 
+
+c) Pricing 
+
+In traditional plans like endowment, the insured decides the amount 
+of sum assured to be purchased. This sum assured is guaranteed and 
+the premium is set such that, under given assumptions of mortality, 
+interest and expenses, it would be adequate to pay this amount. If 
+the actual experience is better than the assumptions made while 
+setting the premiums, the benefit is passed on in the form of a bonus. 
+
+Under unit linked policies, the insured decides what amount of 
+premium he / she can contribute at regular intervals. The premium 
+may vary, subject to a minimum that may need to be paid. The 
+insurance cover is a multiple of the premiums paid – for example it 
+may be ten times the annual premium. 
+The premium is divided into three parts
+199 
+i. Firstly there is a policy allocation charge (PAC) which is comprised 
+of agents‟ commission, policy setup costs, administrative costs and 
+statutory levies. 
+
+ii. The second component is the mortality charge which is the cost of 
+providing risk cover. 
+
+iii. The balance of premiums after meeting the above two, are 
+allocated for the purchase of units. 
+
+The PAC as a proportion of the premiums is high in the initial years, 
+both under traditional and ULIP plans. Under the former, these 
+charges are apportioned and spread out throughout the policy term. 
+In the case of ULIPs however they are deducted from the initial 
+premiums itself. This implies that in the initial stages, the charges 
+would significantly reduce the amount allocated for investment. This 
+is why the value of the benefits, vis-à-vis the premiums paid, would 
+be very low. It would in fact be less than the premiums paid in the 
+early years of the contract. 
+
+d) The bearing of investment risk 
+
+Finally, since the value of the units depends on the value of the life 
+insurer‟s investments, there is a risk that these unit values may be 
+lower than expected and result in the returns being low and even 
+negative. The life insurer, while being expected to manage these 
+investments in an efficient and prudent manner, does not give any 
+guarantee about the unit values. The investment risk, in other words, 
+is borne by the policyholder/unit holder. The life insurer may 
+however bear the mortality and expense risk. 
+
+Test Yourself 1 
+
+Who bears the investment risk in case of ULIPs? 
+
+I. Insurer 
+II. Insured 
+III. State 
+IV. IRDA
+200 
+Summary 
+
+ In ordinary language, the term premium denotes the price that is paid 
+by an insured for purchasing an insurance policy. 
+
+ The process of setting the premium for life insurance policies involves 
+consideration of mortality, interests, expense management and 
+reserves. 
+
+ Gross premium is the net premium plus an amount called loading. 
+
+ A lapse means that the policyholder discontinues payment of 
+premiums. In case of withdrawals, the policyholder surrenders the 
+policy and receives an amount from the policy‟s acquired cash value. 
+
+ Surplus arises as a result of the life insurer‟s actual experience being 
+better than what it had assumed. 
+
+ Surplus 
+allocation 
+could 
+be 
+towards 
+maintaining 
+solvency 
+requirements, increasing free assets etc. 
+
+ The most common form of bonus is the reversionary bonus. 
+
+Key Terms 
+
+1. Premium 
+2. Rebate 
+3. Bonus 
+4. Surplus 
+5. Reserve 
+6. Loading 
+7. Reversionary bonus 
+
+Answers to Test Yourself 
+
+Answer 1 
+
+The correct option is II. 
+
+Policyholder discontinuing premium payment for a policy is termed as 
+policy lapse.
+201 
+Answer 2 
+
+The correct option is II. 
+
+Insured bears the investment risk in case of ULIP. 
+
+Self-Examination Questions 
+
+Question 1 
+
+What does the term “premium” denote in relation to an insurance policy? 
+
+I. Profit earned by the insurer 
+II. Price paid by an insured for purchasing the policy 
+III. Margins of an insurer on a policy 
+IV. Expenses incurred by an insurer on a policy 
+
+Question 2 
+
+Which of the below is not a factor in determining life insurance premium? 
+
+I. Mortality 
+II. Rebate 
+III. Reserves 
+IV. Management expenses 
+
+Question 3 
+
+What is a policy withdrawal? 
+
+I. Discontinuation of premium payment by policyholder 
+II. Surrender of policy in return for acquired surrender value 
+III. Policy upgrade 
+IV. Policy downgrade 
+
+Question 4 
+
+Which of the below is one of the ways of defining surplus? 
+
+I. Excessive liabilities 
+II. Excessive turnover 
+III. Excess value of liabilities over assets 
+IV. Excess value of assets over liabilities
+202 
+Question 5 
+
+Which of the below is not a component of ULIP premiums? 
+
+I. Policy allocation charge 
+II. Investment risk premium 
+III. Mortality charge 
+IV. Social security charge 
+
+Question 6 
+
+Life insurance companies may offer rebate to the buyer on the premium 
+that is payable on the basis of ___________. 
+
+I. Sum assured chosen by the buyer 
+II. Type of policy chosen by the buyer 
+III. Term of the plan chosen by the buyer 
+IV. Mode of payment (cash, cheque, card) chosen by the buyer 
+
+Question 7 
+
+Interest rates are one of the important components used while 
+determining the premium. Which of the below statement is correct with 
+regards to interest rates? 
+
+I. Lower the interest rate assumed, lower the premium 
+II. Higher the interest rate assumed, higher the premium 
+III. Higher the interest rate assumed, lower the premium 
+IV. The interest rates don‟t affect premiums 
+
+Question 8 
+
+Which of the below statement is correct? 
+I. Business strain is the difficulty faced by the companies in securing 
+new business 
+II. Business strain arises at the end of the policy term. 
+III. Business strain arises because of excess premium 
+IV. Business strain arises because of excess expenses at the new 
+business stage . 
+
+Question 9 
+
+With regards to valuation of assets by insurance companies, __________ 
+is the value at which the life insurer has purchased or acquired its assets.
+203 
+I. Discounted future value 
+II. Discounted present value 
+III. Market value 
+IV. Book value 
+
+Question 10 
+
+In case of __________, a company expresses the bonus as a percentage of 
+basic benefit and already attached bonuses. 
+
+I. Reversionary bonus 
+II. Compound bonus 
+III. Terminal bonus 
+IV. Persistency bonus 
+
+Answers to Self-Examination Questions 
+
+Answer 1 
+
+The correct option is II. 
+
+Price paid by an insured for purchasing the policy is termed as premium. 
+
+Answer 2 
+
+The correct option is II. 
+
+Rebate is not a factor in determining life insurance premium. 
+
+Answer 3 
+
+The correct option is II. 
+
+Surrender of policy in return for acquired surrender value is termed as 
+policy withdrawal. 
+
+Answer 4 
+
+The correct option is IV. 
+
+Excess value of assets over liabilities is one way of defining surplus.
+204 
+Answer 5 
+
+The correct option is IV. 
+
+ULIP premium comprises of policy allocation charge, investment risk 
+premium and mortality charge. 
+
+Answer 6 
+
+The correct option is I. 
+
+Life insurance companies may offer rebate to the buyer on the premium 
+that is payable on the basis of sum assured chosen by the buyer. 
+
+Answer 7 
+
+The correct option is III. 
+
+Higher the interest rate assumed, lower the premium 
+
+Answer 8 
+
+The correct option is IV 
+
+Business strain arises because of excess expenses at new business stage. 
+
+Answer 9 
+
+The correct option is IV. 
+
+With regards to valuation of assets by insurance companies, book value is 
+the value at which the life insurer has purchased or acquired its assets. 
+
+Answer 10 
+
+The correct option is II. 
+
+In case of compound bonus, a company expresses the bonus as a 
+percentage of basic benefit and already attached bonuses.
+205 
+CHAPTER 12 
+
+DOCUMENTATION – PROPOSAL STAGE 
+
+Chapter Introduction 
+
+In the life insurance industry we deal with a large number of forms and 
+documents. These are required for the purpose of bringing clarity in the 
+relationship between the insured and the insurer. In this chapter, we shall deal 
+with the various documents that are involved at the proposal stage and their 
+significance. The documents we shall consider include 
+
+i. Prospectus 
+ii. Proposal form 
+iii. Agent‟s report 
+iv. Medical examiner‟s report 
+v. Moral hazard report 
+vi. Age proof 
+vii. Know Your Customer (KYC) documents 
+
+Learning Outcomes 
+
+A. Life insurance – Proposal stage documentation
+206 
+
+A. Life insurance – Proposal stage documentation 
+
+1. Prospectus 
+
+Definition 
+
+A prospectus is a formal legal document used by insurance companies that 
+provides details about the product. 
+
+A prospectus should contain all facts that are necessary for a prospective 
+policyholder to make an informed decision regarding purchase of a policy. 
+
+The prospectus used by a life insurance company should state the following, 
+under each of its plans of insurance: 
+
+i. The terms and conditions 
+
+ii. Scope of benefits – guaranteed and non-guaranteed 
+
+iii. The entitlements 
+
+iv. The exceptions 
+
+v. Whether the plan is participative or non-participative 
+
+The prospectus is like an introductory document which helps the prospective 
+policyholder to get familiar with the company‟s products. 
+
+2. Proposal form 
+
+The insurance policy is a legal contract between insurer and the policyholder. 
+As is required for any contract, it has a proposal and its acceptance. The 
+application document used for making the proposal is commonly known as the 
+„proposal form‟. All the facts stated in the proposal form become binding on 
+both the parties and failure to appreciate its contents can lead to adverse 
+consequences in the event of claim settlement. 
+
+Definition 
+
+The proposal form has been defined under IRDAI (Protection of Policyholders‟ 
+Interests) Regulations, 2002 as: 
+
+“It means a form to be filled in by the proposer for insurance for furnishing all 
+material information required by the insurer in respect of a risk, in order to 
+enable the insurer to decide whether to accept or decline, to undertake the 
+risk, and in the event of acceptance of the risk, to determine the rates, terms 
+and conditions of a cover to be granted.”
+207 
+―Material‖ for the purpose of these regulations shall mean and include all 
+important, essential and relevant information in the context of underwriting the 
+risk to be covered by the insurer. 
+
+Insurance Regulatory and Development Authority (I.R.D.A.) (Standard Proposal-
+Form for Life-Assurance) Regulations, 2013, Notified on 16th February, 2013, 
+provides for a Standard Proposal-Form, for Individual Policies in Life-Assurance, 
+that has an In-Built Flexibility for Seeking an Additional or Specialized 
+Information, that is Product-Specific or Specific to a Particular Risk-Category, 
+with a View to ensuring that, it takes into Consideration, All Relevant 
+Questions, that are Required to Understand the Need for a Particular Product, 
+and Make a Recommendation to the Prospect, bringing in the Transparency, and 
+thereby, Protecting the Prospect‟s Interests. 
+
+While the IRDAI defined the proposal form, the design and content of the 
+form was left open to the discretion of the insurance company. 
+Annexure-A. 
+Standard Proposal-Form for Life-Assurance. 
+Affix, Latest, Pass-Port-Size Photo-Graph 
+Name of Insurance-Company: --- 
+Servicing-Branch-Name: --- 
+Complete Address of Servicing-Branch: --- 
+Agency or Broker, Name and Contact-Details: --- 
+License-Number and Validity-Details: --- 
+Name of the Product: --- 
+Sum-Assured: --- 
+Term of the Product: ---
+208 
+Premium-Paying-Term: --- 
+Premium-Payment-Mode (One-Time or Annual or Half-Yearly or Quarterly, etc.): 
+--- 
+--- 
+(Signature of Proposer.) 
+--- 
+(Signature of Agent or Broker or Bancassurance) 
+--- 
+(Signature of Insurer {At the Time of Acceptance of Proposal}) 
+Instructions for Proposer {Please Follow These, Carefully.}: 
+1. It is Necessary for the Proposer to fill-up this Proposal-Form, Him-Self or Her-
+Self, and not allow an Intermediary or Any Third-Party to do it. How-Ever, in 
+Case, the Proposer is Not in a Position to do so, or the Details are filled-in by the 
+Proposer, in Vernacular, He or She must ensure that, the Details filled-in are Read-
+Out to Him or Her and that they are Understood by Him or Her. He or She must 
+make a Declaration to this Effect, as indicated in Section-D of this Form. 
+2. Please Read All the Questions, Carefully, and Fill-Up the Details, Truthfully.
+209 
+3. Please ensure that, You affix Your Signatures in All the Places, as required. In 
+Certain Places, More Than One Signature is required. This is in Your Own 
+Interest. 
+4. Wherever the Intermediary (Agent or Broker or Bancassurance) is required to 
+sign, please ensure that, the same has been done by Him or Her. 
+5. This Form contains 4 Sections, namely: 
+Section-A contains the Details of Proposer, which is, Mandatory. 
+Section-B contains Specialized or Additional Information, which may vary, based 
+on the Product. 
+Section-C contains Suitability-Analysis, which is Highly Recommended; and 
+Section-D contains the Product-Proposed, which is, Mandatory. 
+6. For Proposer and Each Life-Assured, Separate Forms are to be Submitted. 
+7. Signature or Thumb-Impression of Life-Assured and / or Proposer, sought 
+Twice, in His or Her Interest.
+210 
+Instructions to the Intermediary (Agent or Bancassurance or Broker) {Please 
+Follow These, Carefully.}: 
+1. It is highly recommended that, the Proposer is advised by You, to give 
+Information, required for Suitability Analysis as per Section-C of the Form, in His 
+or Her Own Interest. 
+2. Please ensure that, the Product Recommended suits the Needs of the Proposer. 
+3. Do Not Fill-Up the Proposal-Form or Any Column of the Form, on Behalf of 
+the Proposer, even if requested to do so. 
+4. Please ensure that, You affix Your Signature(s), wherever required in the Form. 
+5. Please ensure that, the Proposer and Each Life-Assured, Separate Forms are 
+collected.
+211 
+Section-A: Details of Proposer and / or Life-Assured. 
+(Mandatory) 
+1. Personal Details: 
+a. Name: --- 
+b. Spouse’s Name: --- 
+c. Father’s Name: --- 
+d. Mother’s Name: --- 
+e. Gender: --- 
+f. Date-of-Birth: ----/----/-------- 
+g. Age-Proof: --- 
+h. Identification-Marks: --- 
+i. Address-for-Communication: --- 
+j. Permanent-Address: --- 
+k. Address-Proof (Electricity-Bill or Telephone-Bill or Ration-Card) {Any 
+One is to be submitted.}: --- 
+l. Telephone (Land-Line or Mobile): --- 
+m. E-Mail Id: --- 
+n. Marital-Status: --- 
+o. Nationality: --- 
+p. Educational-Qualifications: --- 
+q. Habits, impacting the Health, Adversely: 
+i. 
+Smoking or Other Tobacco-Related Habits: Yes / No.
+212 
+a) If Yes, Whether Occasionally or Frequently: --- 
+ii. 
+Consuming the Alcohol: Yes / No. 
+a) If Yes, Whether Occasionally or Frequently: --- 
+iii. 
+Drug-Abuse: Yes / No. 
+a) If Yes, Whether Occasionally or Frequently: --- 
+r. Habits, having a Positive Impact on the Health: Yes / No. 
+If Yes, Specify the Details: --- 
+2. Identification-Proof {Any One is to be submitted.}: 
+a. Permanent-Account-Number (P.A.N.): --- 
+b. AADHAAR (आधार)-Card-Number: --- 
+c. Ration-Card or Driving-License or Pass-Port Number: --- 
+3. Family-Details: 
+a. Number of Dependents: --- 1 2 3 4 5 
+b. Details of Dependents: --- 
+c. Name: --- 
+d. Male or Female: --- 
+e. Relationship: --- 
+f. Age: --- 
+g. Date-of-Birth: ----/----/-------- 
+h. Occupation: ---
+213 
+i. Whether Financially-Dependent: --- 
+4. If Employed, Employment-Details: 
+a. Occupation: --- 
+b. Nature-of-Work: --- 
+c. Length-of-Service: --- 
+d. Annual Income (Rupees): --- 
+e. Details of Income-Proof Submitted: --- 
+f. Whether Covered Under Pension-Scheme: --- 
+g. Normal Retirement-Age: --- 
+5. If Self-Employed, Details: 
+a. Occupation: 
+b. Nature-of-Work: --- 
+c. Projected Active Working-Life: --- 
+d. Annual Income (Rupees): --- 
+e. If Labour, Number of Working-Days: --- 
+6. Pension-Details, If Any, If Not Employed or Self-Employed: 
+a. Employer’s Scheme or Insurance: --- 
+b. Personal Contribution or Premium: 
+c. Retirement-Age: 
+d. Anticipated-Value:
+214 
+7. Bank-Details: 
+a. Do You Have a Bank-Account? Yes / No. 
+b. If Yes, Account-Number: --- 
+c. Account-Type: --- 
+d. Bank-Name and Branch: 
+8. Details of Nominee and Appointee {Where, Nominee is a Minor, Appointee-
+Details also have to be furnished.}: 
+Nominee 
+
+Appointee 
+a. Name:

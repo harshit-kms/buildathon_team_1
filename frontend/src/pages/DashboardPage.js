@@ -179,42 +179,58 @@ const DashboardPage = () => {
   ]);
   const [newMessage, setNewMessage] = useState('');
 
-  const handleSendMessage = () => {
-    if (!newMessage.trim()) return;
+  const handleSendMessage = async () => {
+  if (!newMessage.trim()) return
 
-    const userMessage = {
-      id: chatMessages.length + 1,
-      type: 'user',
-      message: newMessage,
-      timestamp: new Date()
-    };
+  const userMessage = {
+    id: chatMessages.length + 1,
+    type: "user",
+    message: newMessage,
+    timestamp: new Date()
+  }
 
-    setChatMessages(prev => [...prev, userMessage]);
+  setChatMessages(prev => [...prev, userMessage])
+  setNewMessage("")
 
-    // Simulate bot response
-    setTimeout(() => {
-      const botResponses = [
-        "Great question! Let me help you with that.",
-        "I'd recommend focusing on 'Advanced Objection Handling' since you're 90% complete. Finishing it will unlock your Silver certification!",
-        "Your conversion rate has improved by 23%! This is likely due to applying the techniques from your completed lessons. Keep it up!",
-        "For WhatsApp campaigns, check out the 'Digital Selling Mastery' course. It covers social selling strategies specifically for health insurance.",
-        "Based on your progress, I suggest scheduling a 1:1 session with Rajesh Kumar. He specializes in sales strategy and has excellent reviews."
-      ];
-      
-      const randomResponse = botResponses[Math.floor(Math.random() * botResponses.length)];
-      
+  try {
+    const response = await fetch("http://localhost:5000/api/business-llm", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({ question: newMessage })
+    })
+
+    const data = await response.json();
+    console.log(data)
+    if (data.success) {
       const botMessage = {
         id: chatMessages.length + 2,
-        type: 'bot',
-        message: randomResponse,
+        type: "bot",
+        message: data.answer.split('Answer:')[-1],
         timestamp: new Date()
-      };
+      }
+      setChatMessages(prev => [...prev, botMessage])
+    } else {
+      const errorMessage = {
+        id: chatMessages.length + 2,
+        type: "bot",
+        message: data.message || "An error occurred",
+        timestamp: new Date()
+      }
+      setChatMessages(prev => [...prev, errorMessage])
+    }
+  } catch (error) {
+    const errorMessage = {
+      id: chatMessages.length + 2,
+      type: "bot",
+      message: "Failed to reach server",
+      timestamp: new Date()
+    }
+    setChatMessages(prev => [...prev, errorMessage])
+  }
+}
 
-      setChatMessages(prev => [...prev, botMessage]);
-    }, 1000);
-
-    setNewMessage('');
-  };
 
   const handleKeyPress = (e) => {
     if (e.key === 'Enter' && !e.shiftKey) {

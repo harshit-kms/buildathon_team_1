@@ -1,0 +1,923 @@
+Diagram 1: Risk classification 
+
+i. 
+Standard lives 
+
+These consist of those whose anticipated mortality corresponds to the 
+standard lives represented by the mortality table. 
+
+ii. Preferred risks 
+
+These are the ones whose anticipated mortality is significantly lower than 
+standard lives and hence could be charged a lower premium. 
+
+iii. Substandard lives 
+
+These are the ones whose anticipated mortality is higher than the average 
+or standard lives, but are still considered to be insurable. They may be 
+accepted for insurance with higher (or extra) premiums or subjected to 
+certain restrictions. 
+
+iv. Declined lives 
+
+These are the ones whose impairments and anticipated extra mortality are 
+so great that they could not be provided insurance coverage at an affordable 
+cost. Sometimes an individual‟s proposal may also be temporarily declined if 
+he or she has been exposed to a recent medical event, like an operation. 
+
+3. Selection process 
+
+Underwriting or the selection process may be said to take place at two levels: 
+
+ At field level 
+ At underwriting department level
+270 
+Diagram 2: Underwriting or the selection process 
+
+a) Field or Primary level 
+
+Field level underwriting may also be known as primary underwriting. It 
+includes information gathering by an agent or company representative to 
+decide whether an applicant is suitable for granting insurance coverage. The 
+agent plays a critical role as primary underwriter. He is in the best position 
+to know the life to be insured. 
+
+Many insurance companies may require that agents complete a statement or 
+a confidential report, asking for specific information, opinion and 
+recommendations to be provided by the agent with respect to the proposed 
+life. 
+
+A similar kind of report, which has been called as Moral Hazard report, may 
+also be sought from an official of the life insurance company. These reports 
+typically cover the occupation, income and financial standing and reputation 
+of the proposed life. 
+
+Fraud monitoring and role of agent as primary underwriter 
+
+Much of the decision with regard to selection of a risk depends on the facts that 
+have been disclosed by the proposer in the proposal form. It may be difficult 
+for an underwriter who is sitting in the underwriting department to know 
+whether these facts are untrue and have been fraudulently misrepresented with 
+deliberate intent to deceive. 
+
+The agent plays a significant role here. He or she is in the best position to 
+ascertain that the facts that have been represented are true, since the agent 
+has direct and personal contact with the proposed life and can thus monitor if 
+any wilful non - disclosure or misrepresentation has been made with an intent 
+to mislead. 
+
+b) Underwriting department level 
+
+The second level of underwriting is at the department or office level. It 
+involves specialists and persons who are proficient in such work and who
+271 
+consider all the relevant data on the case to decide whether to accept a 
+proposal for life insurance and on what terms. 
+
+4. Methods of underwriting 
+Diagram 3: Methods of Underwriting 
+
+Underwriters may use two types of methods for the purpose: 
+
+Judgment Method 
+Numerical Method 
+Under this method subjective 
+judgment is used, especially when 
+deciding 
+on 
+a 
+case 
+that 
+is 
+complex. 
+Under this method underwriters 
+assign positive rating points for all 
+negative 
+or 
+adverse 
+factors 
+(negative points for any positive or 
+favourable factors). 
+Example: Deciding whether to 
+give insurance to someone who 
+has acute diabetes and on what 
+terms 
+
+In such situations, the department 
+may get the expert opinion of a 
+medical doctor who is also called 
+a medical referee. 
+The total number of points so 
+assigned will decide how much 
+Extra Mortality Rating (also called 
+EMR) it has been given. Higher the 
+EMR, more substandard the life is. If 
+the EMR is very high, insurance may 
+even be declined. 
+
+Underwriting decisions 
+Diagram 4: Underwriting decisions
+272 
+
+Let us now consider the various kinds of decisions that underwriters may take 
+with regard to a life proposed for underwriting 
+
+a) Acceptance at ordinary rates (OR) is the most common decision. This 
+rating indicates that the risk is accepted at the same rate of premium as 
+would apply to an ordinary or standard life. 
+
+b) Acceptance with an extra: This is the most common way of dealing with 
+the large majority of sub-standard risks. It involves charging an extra 
+over the tabular rate of premium. 
+
+c) Acceptance with a lien on the sum assured: A lien is a kind of hold 
+which the life insurance company can exercise (in part or whole) on the 
+amount of benefit it has to pay in the event of a claim. 
+Example: It may be imposed in case the life proposed for insurance has 
+suffered and recovered from certain disease like TB. Lien implies that if 
+the life assured dies from a specified cause (for example relapse of the 
+TB) within a given period, only a decreased amount of death benefit may 
+be payable. 
+
+d) Acceptance with a restrictive clause: For certain kinds of hazards a 
+restrictive clause may be applied which limits death benefit in the event 
+of death under certain circumstances. 
+Example is a pregnancy clause imposed on pregnant ladies that limits 
+insurance payable in the event of pregnancy related deaths occurring 
+within say three months of delivery. 
+
+e) Decline or postpone: Finally, a life insurance underwriter may decide to 
+decline or reject a proposal for insurance. This would happen when 
+there are certain health /other features which are so adverse that they 
+considerably magnify the incidence of the risk. 
+Example: An individual who suffers from cancer and has little chance of 
+remission, would be a candidate for rejection, 
+
+Similarly in some cases it may be prudent to postpone acceptance of the 
+risk until such time as the situation has improved and become more 
+favourable. 
+
+Example 
+
+A lady who has just had a hysterectomy operation may be asked to wait for 
+a few months before insurance on her life is allowed, to allow any post 
+operation complications that may have arisen to disappear.
+273 
+Test Yourself 1 
+
+Which of the following cases is likely to be declined or postponed by a life 
+insurer? 
+
+I. Healthy 18 year old 
+II. An obese person 
+III. A person suffering from AIDS 
+IV. Housewife with no income of her own
+274 
+
+B. Non-medical underwriting 
+
+1. Non-medical underwriting 
+
+A large number of life insurance proposals may typically get selected for 
+insurance without conducting a medical examination to check the insurability of 
+a life to be insured. Such cases are termed as non-medical proposals. 
+
+The case for non-medical underwriting lies in the finding that medical 
+examinations bring out adverse features only in a small proportion (say one 
+tenth) of the cases. The rest can be found out from the answers given in the 
+proposal or the proposed life‟s leave records and other documents. 
+
+Conducting a medical examination by a qualified doctor would require that fees 
+be paid to the doctor. The cost that can be saved by not conducting such 
+examination is found to be much more than the loss that the life insurer may 
+suffer on account of extra death claims arising as a result of bypassing a 
+medical test. Life insurers have hence adopted the practice of granting 
+insurance without insisting on a medical examination. 
+
+2. Conditions for non-medical underwriting 
+
+However non-medical underwriting calls for certain conditions to be followed. 
+
+i. 
+Firstly only certain categories of females, like working women, may be 
+eligible. 
+
+ii. Upper limits on sum insured may be imposed. For example, any case 
+having a sum assured beyond five lakhs may need to be subjected to a 
+medical examination. 
+
+iii. Age at entry limits may be imposed – for example, anyone above 40 or 
+45 years of age has to compulsorily get a medical examination done. 
+
+iv. Restriction being imposed with regard to certain plans of insurance – 
+term insurance for example may not be allowed under non-medical 
+category. 
+
+v. Maximum term of insurance may be limited to twenty years /up to age 
+60. 
+
+vi. Class of lives: Non-medical insurance may also be allowed to certain 
+specific categories of individuals, for instance, non-medical special is 
+provided to employees of reputed firms – having one year service. These 
+companies have proper leave records and may also have periodic medical 
+examinations so that the employee‟s medical status can be easily 
+verified.
+275 
+3. Rating factors in underwriting 
+
+Rating factors refer to various aspects related to financial situation, life style, 
+habits, family history, personal history of health and other personal 
+circumstances in the prospective insured‟s life that may pose a hazard and 
+increase the risk. Underwriting involves identifying these hazards and their 
+likely impact and classifying the risk accordingly. 
+
+Let us understand how the characteristics of an individual life have an impact 
+on the risk. Broadly these may be divided into two – those which contribute to 
+moral hazard and those which contribute to physical [medical] hazards. Life 
+insurance companies often divide their underwriting into categories accordingly. 
+Factors like income, occupation, lifestyle and habits, which contribute to moral 
+hazard, are assessed as part of financial underwriting, while medical aspects of 
+health are appraised as part of medical underwriting. 
+
+a) Female insurance 
+
+Women generally have greater longevity than men. However they may face 
+some problems with respect to moral hazard. This is because many women 
+in Indian society are still vulnerable to male domination and social 
+exploitation. Evils like dowry deaths are prevalent even today. Another 
+factor which can affect longevity of women can arise from problems 
+connected with pregnancy. 
+
+Insurability of women is governed by need for insurance and capacity to pay 
+premiums. Insurance companies may thus decide to grant full insurance only 
+to those who have earned income of their own and may impose limits on 
+other categories of women. Similarly some conditions may be levied on 
+pregnant women. 
+
+b) Minors 
+
+Minors have no contracting power of their own. Hence a proposal on the life 
+of a minor has to be submitted by another person who is related to the 
+minor in the capacity of a parent or legal guardian. It would also be 
+necessary to ascertain the need for insurance, since minors usually have no 
+earned income of their own. 
+
+Three conditions would generally be sought when considering insurance for 
+minors: 
+
+i. 
+Whether they have a properly developed physique 
+Poor growth of physique can arise as a result of malnutrition or other 
+health problems posing grave risks. 
+
+ii. Proper family history and personal history 
+If there are adverse indicators here, it may pose risks.
+276 
+iii. Whether the family is adequately insured 
+Insurance of minors is generally pursued by families having a culture of 
+insurance. One would thus need to be alert when receiving a proposal on 
+a child‟s life where the parents have not been insured. The underwriter 
+would need to ascertain why such insurance has not been taken. Amount 
+of insurance is also linked to that of parents. 
+
+c) Large sums assured 
+
+An underwriter needs to be wary when the amount of insurance is very large 
+relative to annual income of the proposed insured. Generally sum assured 
+may be assumed to be around ten to twelve times one‟s annual income. If 
+the ratio is much higher than this, it raises the possibility of selection 
+against the insurer. 
+
+Example 
+
+If an individual has an annual income of Rs. 5 lakhs and proposes for a life 
+insurance cover of Rs. 3 crores, it raises a cause for concern. 
+
+Typically concerns can arise in such instances because of the possibility that 
+such a large amount of insurance is being proposed in anticipation of suicide 
+or as a result of expected deterioration in health. A third reason for such 
+large sums could be excessive mis-selling by the sales person. 
+
+Large sums assured would also imply proportionately large premiums and 
+raise the question whether the payment of such premiums would be 
+continued. In general it would be thus prudent to limit the amount of 
+insurance so that the premium payable is a maximum of say one third of an 
+individual‟s annual income. 
+
+d) Age 
+
+As we have seen elsewhere in this course, the mortality risk is closely 
+related to age. The underwriter needs to be careful when considering 
+insurance for people who are of advanced ages. 
+
+Example 
+
+If the insurance is being proposed for the first time after age 50, there is a 
+need to suspect moral hazard and enquire about why such insurance was not 
+taken earlier. 
+
+We must also note that chances of occurrence of degenerative diseases like 
+diseases of the heart and kidney failure increase with age and become high 
+at older ages. 
+Life insurers may also seek for some special reports when proposals are 
+submitted for high sums assured / advanced ages or a combination of both.
+277 
+Example 
+
+Examples of such reports are the ECG; the EEG; X-Ray of the chest and Blood 
+Sugar test. These tests may reveal deeper insights about the health of the 
+proposed life than the answers given in the proposal or an ordinary medical 
+examination can provide. 
+
+An important part of the underwriting process is admission of age, after 
+verifying the proof of age. There are two types of age proofs 
+
+ Standard 
+ Non-standard 
+
+Standard age proofs are normally issued by a public authority. Instances are 
+
+ the birth certificate which is issued by a municipality or other 
+government body; 
+ the school leaving certificate; 
+ the passport; and 
+ the employers‟ certificate 
+
+Where such proofs are not available, the proposer may be asked to bring a 
+non-standard age proof. Examples of the latter are the horoscope; a self-
+declaration 
+
+When a standard age proof is not available, non-standard age proof should 
+not be accepted readily. Often, life insurers would impose certain 
+restrictions with respect to plan of insurance, term of assurance; maximum 
+maturity age and maximum sum assured. 
+
+e) Moral hazard 
+
+Moral hazard may be said to exist when certain circumstances or 
+characteristics of an individual‟s financial situation, lifestyle and habits, 
+reputation and mental health indicate that he or she may intentionally 
+engage in actions that increase the risk. There may be a number of factors 
+which may suggest such moral hazard. 
+
+Example 
+
+When a proposal is submitted at a branch located far away from the place of 
+residence of the proposed insured 
+A medical examination is done elsewhere even when a qualified medical 
+examiner is available near one‟s place of residence.
+278 
+A third case is when a proposal is made on the life of another without having 
+clear insurable interest, or when the nominee is not the near dependent of 
+the life proposed. 
+
+In each such case an enquiry may be made. Finally, when the agent is 
+related to the life assured a moral hazard report may be called from a 
+branch official like the agency manager / development officer. 
+
+f) Occupation 
+
+Occupational hazards can emanate from any of three sources: 
+
+ Accident 
+ Health hazard 
+ Moral hazard 
+
+Diagram 5: Sources of Occupational Hazards 
+
+i. 
+Accidental hazards arise because certain kinds of jobs expose one to 
+the risk of accident. There is any number of jobs in this category – 
+like circus artistes, scaffolding workers, demolition experts and film 
+stunt artistes. 
+
+ii. Health hazards arise when the nature of the job is such as to give 
+rise to possibility of medical impairment. There are various kinds of 
+health hazards. 
+
+ Some jobs like that of rickshaw pullers involve tremendous 
+physical strain and impact the respiratory system. 
+ The second situation is where one may be exposed to toxic 
+substances like mining dust or carcinogenic substances (that 
+cause cancer) like chemicals and nuclear radiation. 
+ A third kind of hazard is posed by high pressure environments 
+like underground tunnels or deep sea, which can cause acute 
+decompression sickness. 
+ Finally, overexposure to certain job situations (like sitting 
+cramped and glued to a computer in a KPO or working in a high 
+noise setting) can impair functioning of certain body parts in the 
+longer run.
+279 
+iii. Moral hazard can arise when a job involves proximity or can cause 
+predisposition towards criminal elements or to drugs and alcohol. An 
+example is that of a dancer in a nightclub or an enforcer in a liquor 
+bar or the „bodyguard‟ of a businessman with suspected criminal 
+links. Again the job profiles of certain individuals like superstar 
+entertainers may lead them to heady intoxicating lifestyles, which 
+sometimes come to tragic ends. 
+Wherever the occupation falls in one of the categories of jobs listed 
+hazardous, the applicant for insurance would normally be required to 
+complete an occupational questionnaire which would ask for specific details 
+of the job, duties involved and risks exposed to. A rating may also be 
+imposed for occupation in the form of a flat extra (for example Rupees two 
+per thousand sums assured.) Such extra may be reduced or removed when 
+the insured‟s occupation changes. 
+
+g) Lifestyle and habits 
+
+Lifestyle and habits are terms, which cover a wide range of individual 
+characteristics. Generally the agents‟ confidential reports and moral hazard 
+reports are expected to mention if any of these characteristics are present 
+in the individual‟s lifestyles, which suggest exposure to risk. In particular 
+three features are important: 
+
+i. 
+Smoking and tobacco use: It has now been well recognised that use of 
+tobacco is not only a risk in itself but also contributes to increasing other 
+medical risks. Companies charge differential rates today for smokers and 
+non-smokers with the former having to pay much higher premiums. 
+Other forms of tobacco usage like gutkha and paan masala may also 
+attract adverse mortality ratings. 
+
+ii. Alcohol: Drinking alcohol in modest quantities and occasionally is not a 
+hazard. It is even an accepted part of social life in many countries. 
+However when it is regularly consumed in excess for a long time it can 
+have a significant impact on mortality risk. Long term heavy drinking can 
+impair liver functioning and affect the digestive system. It can also lead 
+to mental disorders. 
+
+Alcoholism is also linked with accidents, violence and family abuse, 
+depression and suicides. Where the proposal form indicates use of 
+alcohol, the underwriter may call for further details and decide on the 
+case depending on the extent of usage and any complications that are 
+indicated to have been caused as a result. 
+
+iii. Substance abuse: Substance abuse refers to the use of various kinds of 
+substances like drugs or narcotics, sedatives and other similar 
+stimulants. Some of these are even illegal and their use indicates 
+criminal disposition and moral hazard. Where substance abuse is 
+suspected, the underwriter may need to call for a number of tests to 
+check the abuse. Insurance is often declined in such cases.
+280 
+Test Yourself 2 
+
+Which of the following is an example of moral hazard? 
+
+I. Stunt artist dies while performing a stunt 
+II. A person drinking copious amounts of alcohol because he is inured 
+III. Insured defaulting on premium payments 
+IV. Proposer lying on policy document
+281 
+
+C. Medical underwriting 
+
+1. Medical underwriting 
+
+Let us now consider some of the medical factors that would influence an 
+underwriter‟s decision. These are generally assessed through medical 
+underwriting. They may often call for a medical examiner‟s report. Let us look 
+at some of the factors that are checked. 
+
+Diagram 6: Medical Factors that influence an Underwriter‘s Decision 
+
+a) Family history 
+
+The impact of family history on mortality risk has been studied from three 
+angles. 
+
+i. 
+Heredity: Certain diseases can be transmitted from one generation to 
+another, say from parents to children. 
+ii. Average longevity of the family: When the parents have died early on 
+account of certain diseases like heart trouble or cancer, it may be a 
+pointer that the offspring may also not live long. 
+iii. Family environment: Thirdly, the environment in which the family lives 
+can cause exposure to infection and other risks. 
+
+Life insurers have thus to be careful when entertaining cases of individuals 
+with adverse family history. They may call for other reports and may impose 
+an extra mortality rating in such cases. 
+
+b) Personal history 
+
+Personal history refers to past impairments of various systems of the human 
+body which the life to be insured has suffered from. The proposal form for 
+life insurance typically contains a set of questions which enquire whether 
+the life to be insured has been under treatment for any of these.
+282 
+
+Such problems may also be indicated by the medical examiner‟s reports or 
+any special reports called for. The major kinds of ailments that are killer 
+diseases include 
+
+i. Cardiovascular diseases which affect the heart and blood system – like 
+heart attack, stroke and haemorrhage 
+
+ii. Diseases of the respiratory system like Tuberculosis 
+
+iii. Excessive production and reproduction of cells which leads to 
+malignant tumours, also known as cancer 
+
+iv. Ailments of the renal system, which includes the kidney and other 
+urinary parts, which can lead to kidney failure and death 
+
+v. Impairments of the endocrine system, the most well-known of which is 
+Diabetes. It arises from the body‟s inability to generate sufficient insulin 
+to metabolise the sugar (or glucose) in the blood stream. 
+
+vi. Diseases of the digestive system like gastric ulcers and cirrhosis of the 
+liver 
+
+vii. Diseases of the nervous system 
+
+c) Personal characteristics 
+
+These can also be significant indicators of the tendency to disease. 
+
+i. 
+Build 
+
+For instance a person‟s build consists of his height, weight, chest and girth 
+of the abdomen. For given age and height, there is a standard weight that 
+has been defined and if the weight is too high or low in relation to this 
+standard weight, we can say that the person is overweight or underweight. 
+
+Similarly, it is expected that the chest should be expanded at least by four 
+centimetres in a normal person and that the abdominal girth should not be 
+more than one‟s expanded chest. 
+
+ii. Blood pressure 
+
+Another indicator is a person‟s blood pressure. There are two measures of 
+this 
+
+ Systolic 
+ Diastolic 
+A thumb rule for arriving at normal blood pressure readings given age is 
+For Systolic: It is 115 + 2/5 of age. 
+For Diastolic: It is 75 + 1/5 of age
+283 
+Thus if age is 40 years, the normal blood pressure should be Systolic 131: 
+and Diastolic 83. 
+
+When the actual readings are much higher than the above values, we say 
+that the person has high blood pressure or hypertension. When it is too low, 
+it is termed as hypotension. The former can have serious consequences. 
+
+The pressure of blood flowing in the system can also be indicated by the 
+pulse rate. Pulse rates can vary from 50 to 90 beats per minute with an 
+average of 72. 
+
+iii. Urine – Specific gravity 
+
+Finally, a reading of the specific gravity of one‟s urine can indicate the 
+balance among various salts in the urinary system. It can indicate any 
+malfunctioning of the system. 
+
+Test Yourself 3 
+
+Why is heredity history of importance in medical underwriting? 
+
+I. Rich parents have healthy kids 
+II. Certain diseases can be passed on from parents to children 
+III. Poor parents have malnourished kids 
+IV. Family environment is a critical factor
+284 
+Summary 
+
+ 
+To usher equity, the underwriter engages in risk classification where 
+individual lives are categorised and assigned to different risk classes 
+depending on the degree of risks they pose. 
+
+ 
+Underwriting or the selection process may be said to take place at two 
+levels: 
+
+ At field level and 
+ At underwriting department level 
+
+ 
+Judgment method or numerical method of underwriting is widely used for 
+underwriting insurance proposals. 
+
+ 
+Underwriting decisions made by underwriters include acceptance of 
+standard risk at standard rates or charging extra for sub-standard risks. 
+Sometimes there is acceptance with lien on sum assured or acceptance is 
+based on restrictive clauses. Where the risk is large the proposal is declined 
+or postponed. 
+
+ 
+A large number of life insurance proposals may typically get selected for 
+insurance without conducting a medical examination to check the 
+insurability of an insurant. Such cases are termed as non-medical proposals. 
+
+ 
+Some of the rating factors for non-medical underwriting include 
+
+ Age 
+ Large sum assured 
+ Moral hazard etc. 
+
+ 
+Some of the factors considered in medical underwriting include 
+
+ Family history, 
+ Heredity and personal history etc. 
+
+Key Terms 
+
+1. Underwriting 
+2. Standard life 
+3. Non-medical underwriting 
+4. Rating factor 
+5. Medical underwriting 
+6. Anti-selection
+285 
+Answers to Test Yourself 
+
+Answer 1 
+
+The correct option is III. 
+
+A person suffering from AIDS is most likely to be declined life insurance cover. 
+
+Answer 2 
+
+The correct option is II. 
+
+A person drinking copious amounts of alcohol because he is inured is an example 
+of moral hazard. 
+
+Answer 3 
+
+The correct option is II. 
+
+Certain diseases can be passed on from parents to children and hence heredity 
+history needs to be considered in medical underwriting. 
+
+Self-Examination Questions 
+
+Question 1 
+
+Which of the following denotes the underwriter‟s role in an insurance company? 
+
+I. Process claims 
+II. Decide acceptability of risks 
+III. Product design architect 
+IV. Customer relations manager 
+
+Question 2 
+
+Which of the following is not an underwriting decision? 
+
+I. Risk acceptance at standard rates 
+II. Declinature of risk 
+III. Postponement of risk 
+IV. Claim rejection 
+
+Question 3 
+
+Which of the following is not a standard age proof? 
+
+I. Passport 
+II. School leaving certificate 
+III. Horoscope 
+IV. Birth certificate
+286 
+Question 4 
+
+Which of the following condition will affect a person‟s insurability negatively? 
+
+I. Daily jogs 
+II. Banned substance abuse 
+III. Lazy nature 
+IV. Procrastination 
+
+Question 5 
+
+Under what method of underwriting does an underwriter assign positive rating 
+points for all negative or adverse factors (negative points for any positive or 
+favourable factors)? 
+
+I. Judgment 
+II. Arbitrary 
+III. Numerical rating 
+IV. Single step 
+
+Question 6 
+
+Under risk classification, ___________ consist of those whose anticipated 
+mortality corresponds to the standard lives represented by the mortality table. 
+
+I. Standard lives 
+II. Preferred risks 
+III. Sub-standard lives 
+IV. Declined lives 
+
+Question 7 
+
+Amruta is pregnant. She has applied for a term insurance cover. Which of the 
+below option will be the best option to choose for an underwriter to offer 
+insurance to Amruta? Choose the most likely option. 
+
+I. Acceptance at ordinary rates 
+II. Acceptance with extra premium 
+III. Decline the proposal 
+IV. Acceptance with a restrictive clause 
+
+Question 8 
+
+Which of the below insurance proposal is not likely to qualify under non-medical 
+underwriting? 
+
+I. Savita, aged 26 years, working in an IT company as a software engineer 
+II. Mahesh, aged 50 years, working in a coal mine 
+III. Satish, aged 28 years, working in a bank and has applied for an insurance 
+cover of Rs. 1 crore 
+IV. Pravin, aged 30 years, working in a departmental store and has applied for 
+an endowment insurance plan for a tenure of 10 years 
+
+Question 9
+287 
+Sheena is suffering from acute diabetes. She has applied for an insurance plan. 
+In this case the underwriter is most likely to use ____________ for underwriting. 
+Choose the most appropriate option. 
+
+I. Judgment method 
+II. Numerical method 
+III. Any of the above method since an illness like diabetes does not play a major 
+role in the underwriting process 
+IV. Neither of the above method as diabetes cases are rejected outright 
+
+Question 10 
+
+Santosh has applied for a term insurance policy. His anticipated mortality is 
+significantly lower than standard lives and hence could be charged a lower 
+premium. Under risk classification, Santosh will be classified under 
+___________. 
+
+I. Standard lives 
+II. Preferred risks 
+III. Substandard lives 
+IV. Declined lives 
+
+Answers to Self-Examination Questions 
+
+Answer 1 
+
+The correct option is II. 
+
+Underwriter decides acceptability of risks. 
+
+Answer 2 
+
+The correct option is IV. 
+
+Claim rejection is not an underwriting decision. 
+
+Answer 3 
+
+The correct option is III. 
+
+Horoscope is not a standard age proof. 
+
+Answer 4 
+
+The correct option is II. 
+
+Banned substance abuse will affect a person‟s insurability negatively. 
+
+Answer 5 
+
+The correct option is III.
+288 
+Numerical rating method of underwriting assigns positive rating points for all 
+negative or adverse factors (negative points for any positive or favourable 
+factors). 
+
+Answer 6 
+
+The correct option is I. 
+
+Under risk classification, standard lives consist of those whose anticipated 
+mortality corresponds to the standard lives represented by the mortality table. 
+
+Answer 7 
+
+The correct option is IV. 
+
+In Amruta‟s case, considering her pregnancy, the best option that the 
+underwriter can choose is to offer insurance to Amruta with a restrictive clause. 
+This restrictive clause can be limiting insurance payment in the event of 
+pregnancy related death occurring within say three months of delivery. 
+
+Answer 8 
+
+The correct option is II. 
+
+Mahesh‟s insurance proposal is not likely to qualify under non-medical 
+underwriting because his age is higher (50 years) and his occupation is more 
+risky as compared to other occupations in software, banking industry etc. 
+
+Answer 9 
+
+The correct option is I. 
+
+When deciding on a complex case like that of Sheena who is suffering from 
+acute diabetes, the underwriter will use the judgment method of underwriting. 
+
+Answer 10 
+
+The correct option is II. 
+
+Under risk classification, Santosh will be classified under preferred risks.
+289 
+CHAPTER 16 
+
+PAYMENTS UNDER A LIFE INSURANCE POLICY 
+Chapter Introduction 
+
+This chapter explains the concept of claim and how claims are ascertained. The 
+chapter then explains the types of claims. In the end you will learn about the 
+forms to be submitted for a death claim and the safeguards (indisputability 
+clause and Protection of Policyholders Interests Regulations) in place to protect 
+beneficiary from claim rejection by the insurer, provided no material 
+information has been suppressed by the insured. 
+
+Learning Outcomes 
+
+A. Types of claims and claims procedure
+290 
+A. Types of claims and claims procedure 
+
+1. Concept of claims 
+
+The real test of an insurance company and an insurance policy comes when a 
+policy results into a claim. The true value of life insurance is judged by the way 
+a claim is settled and benefits are paid. 
+
+Definition 
+
+A claim is a demand that the insurer should make good the promise specified in 
+the contract. 
+
+A claim under a life insurance contract is triggered by the happening of one or 
+more of the events covered under the insurance contract. While in some claims, 
+the contract continues, in others, the contract is terminated. 
+
+Diagram 1: Risk event and claim 
+
+Claims can be of two types: 
+
+i. 
+survival claims payable even when the life assured is alive and 
+ii. death claim 
+
+Diagram 2: Types of claims 
+
+While a death claim arises only upon the death of the life assured, survival 
+claims can be caused by one or more events.
+291 
+Example 
+
+Examples of events triggering survival claims are: 
+
+i. Maturity of the policy; 
+ii. An instalment payable upon reaching the milestone under a money-back 
+policy; 
+iii. Critical illnesses covered under the policy as a rider benefit; 
+iv. Surrender of the policy either by the policyholder or assignee; 
+
+2. Ascertaining whether a claim event has occurred 
+
+i. For payment of a survival claim, the insurer has to ascertain that the 
+event has occurred as per the conditions stipulated in the policy. 
+
+ii. Maturity claims and money-back instalment claims are easily 
+established as they are based on dates which are determined at the 
+beginning of the contract itself. 
+
+For instance, the date of maturity and the dates when the instalments of 
+survival benefits may be paid under a money back policy are clearly laid 
+out at the time of preparing the contract. 
+
+iii. Surrender value payments are different from other claim payments. 
+Unlike other claims, here the event is triggered by the decision of the 
+policy holder or assignee to cancel the contract and withdraw what is 
+due to him or her under the contract. Surrender payments would 
+typically involve a penalty for premature withdrawal and hence would be 
+less than what would have been due if the full claim were to be paid. 
+
+iv. Critical illness claims are ascertained based on the medical and other 
+records provided by the policyholder in support of his claim. 
+
+The complexity arises in case of a policy that has a critical illness claim 
+rider and such policy has been assigned. The purpose of a critical illness 
+benefit is to enable a policy holder to defray his expenses in the event of 
+such an illness. If this policy where to be assigned, all benefits would be 
+payable to the assignee. Although this is legally correct, it may not meet 
+the intended purpose. In order to avoid such a situation, it is important 
+to educate policyholders about the extent of benefits that they may 
+assign, by way of a conditional assignment.

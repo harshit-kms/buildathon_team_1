@@ -1,0 +1,525 @@
+[
+  {
+    "policyId": "POL000001",
+    "policyType": "Travel Insurance",
+    "insuranceCompany": "ICICI Lombard",
+    "coverageAmount": 2000000,
+    "premiumAmount": 8000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 3,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Critical illness cover",
+      "No claim bonus",
+      "International coverage"
+    ],
+    "popularityScore": 0.74
+  },
+  {
+    "policyId": "POL000002",
+    "policyType": "Travel Insurance",
+    "insuranceCompany": "Max Bupa",
+    "coverageAmount": 500000,
+    "premiumAmount": 12000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 3,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Critical illness cover",
+      "Hospitalization cover",
+      "International coverage",
+      "No claim bonus",
+      "Cashless treatment"
+    ],
+    "popularityScore": 0.71
+  },
+  {
+    "policyId": "POL000003",
+    "policyType": "Life Insurance",
+    "insuranceCompany": "ICICI Lombard",
+    "coverageAmount": 500000,
+    "premiumAmount": 20000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 3,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "No claim bonus",
+      "Add-on riders available",
+      "Cashless treatment",
+      "Critical illness cover",
+      "International coverage"
+    ],
+    "popularityScore": 0.8
+  },
+  {
+    "policyId": "POL000004",
+    "policyType": "Health Insurance",
+    "insuranceCompany": "SBI Life",
+    "coverageAmount": 200000,
+    "premiumAmount": 10000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 5,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Accidental cover",
+      "Free annual health checkup",
+      "Hospitalization cover",
+      "Cashless treatment",
+      "International coverage"
+    ],
+    "popularityScore": 0.75
+  },
+  {
+    "policyId": "POL000005",
+    "policyType": "Car Insurance",
+    "insuranceCompany": "HDFC ERGO",
+    "coverageAmount": 1000000,
+    "premiumAmount": 20000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 10,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Critical illness cover",
+      "Free annual health checkup",
+      "Add-on riders available"
+    ],
+    "popularityScore": 0.78
+  },
+  {
+    "policyId": "POL000006",
+    "policyType": "Car Insurance",
+    "insuranceCompany": "Max Bupa",
+    "coverageAmount": 1000000,
+    "premiumAmount": 12000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 10,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "No claim bonus",
+      "Cashless treatment",
+      "Accidental cover",
+      "Add-on riders available"
+    ],
+    "popularityScore": 0.76
+  },
+  {
+    "policyId": "POL000007",
+    "policyType": "Health Insurance",
+    "insuranceCompany": "SBI Life",
+    "coverageAmount": 1000000,
+    "premiumAmount": 15000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 3,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Add-on riders available",
+      "International coverage",
+      "Critical illness cover",
+      "Free annual health checkup"
+    ],
+    "popularityScore": 0.74
+  },
+  {
+    "policyId": "POL000008",
+    "policyType": "Health Insurance",
+    "insuranceCompany": "HDFC ERGO",
+    "coverageAmount": 200000,
+    "premiumAmount": 12000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 3,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Add-on riders available",
+      "Accidental cover",
+      "International coverage",
+      "Critical illness cover"
+    ],
+    "popularityScore": 0.7
+  },
+  {
+    "policyId": "POL000009",
+    "policyType": "Car Insurance",
+    "insuranceCompany": "SBI Life",
+    "coverageAmount": 1000000,
+    "premiumAmount": 10000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 10,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Free annual health checkup",
+      "International coverage",
+      "Hospitalization cover",
+      "Accidental cover",
+      "Cashless treatment"
+    ],
+    "popularityScore": 0.77
+  },
+  {
+    "policyId": "POL000010",
+    "policyType": "Travel Insurance",
+    "insuranceCompany": "Bajaj Allianz",
+    "coverageAmount": 2000000,
+    "premiumAmount": 8000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 10,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Hospitalization cover",
+      "Add-on riders available",
+      "No claim bonus",
+      "International coverage"
+    ],
+    "popularityScore": 0.7
+  },
+  {
+    "policyId": "POL000011",
+    "policyType": "Health Insurance",
+    "insuranceCompany": "HDFC ERGO",
+    "coverageAmount": 2000000,
+    "premiumAmount": 15000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 5,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Free annual health checkup",
+      "Cashless treatment",
+      "Hospitalization cover",
+      "International coverage",
+      "Accidental cover"
+    ],
+    "popularityScore": 0.79
+  },
+  {
+    "policyId": "POL000012",
+    "policyType": "Health Insurance",
+    "insuranceCompany": "Bajaj Allianz",
+    "coverageAmount": 500000,
+    "premiumAmount": 15000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 5,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "International coverage",
+      "Accidental cover",
+      "Add-on riders available",
+      "Critical illness cover"
+    ],
+    "popularityScore": 0.77
+  },
+  {
+    "policyId": "POL000013",
+    "policyType": "Life Insurance",
+    "insuranceCompany": "ICICI Lombard",
+    "coverageAmount": 2000000,
+    "premiumAmount": 15000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 5,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Add-on riders available",
+      "No claim bonus",
+      "Accidental cover",
+      "Hospitalization cover"
+    ],
+    "popularityScore": 0.84
+  },
+  {
+    "policyId": "POL000014",
+    "policyType": "Life Insurance",
+    "insuranceCompany": "Bajaj Allianz",
+    "coverageAmount": 2000000,
+    "premiumAmount": 15000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 10,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Free annual health checkup",
+      "Accidental cover",
+      "Critical illness cover"
+    ],
+    "popularityScore": 0.74
+  },
+  {
+    "policyId": "POL000015",
+    "policyType": "Travel Insurance",
+    "insuranceCompany": "Max Bupa",
+    "coverageAmount": 1000000,
+    "premiumAmount": 15000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 5,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Accidental cover",
+      "International coverage",
+      "Add-on riders available",
+      "Cashless treatment"
+    ],
+    "popularityScore": 0.71
+  },
+  {
+    "policyId": "POL000016",
+    "policyType": "Health Insurance",
+    "insuranceCompany": "Max Bupa",
+    "coverageAmount": 2000000,
+    "premiumAmount": 10000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 3,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "International coverage",
+      "Hospitalization cover",
+      "No claim bonus"
+    ],
+    "popularityScore": 0.8
+  },
+  {
+    "policyId": "POL000017",
+    "policyType": "Life Insurance",
+    "insuranceCompany": "HDFC ERGO",
+    "coverageAmount": 200000,
+    "premiumAmount": 15000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 3,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Add-on riders available",
+      "Hospitalization cover",
+      "Critical illness cover",
+      "Accidental cover",
+      "Cashless treatment"
+    ],
+    "popularityScore": 0.74
+  },
+  {
+    "policyId": "POL000018",
+    "policyType": "Health Insurance",
+    "insuranceCompany": "SBI Life",
+    "coverageAmount": 500000,
+    "premiumAmount": 10000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 10,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "No claim bonus",
+      "Accidental cover",
+      "Cashless treatment",
+      "Free annual health checkup"
+    ],
+    "popularityScore": 0.8
+  },
+  {
+    "policyId": "POL000019",
+    "policyType": "Health Insurance",
+    "insuranceCompany": "Max Bupa",
+    "coverageAmount": 500000,
+    "premiumAmount": 12000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 10,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "Free annual health checkup",
+      "Add-on riders available",
+      "Hospitalization cover",
+      "Critical illness cover",
+      "Cashless treatment"
+    ],
+    "popularityScore": 0.71
+  },
+  {
+    "policyId": "POL000020",
+    "policyType": "Health Insurance",
+    "insuranceCompany": "HDFC ERGO",
+    "coverageAmount": 2000000,
+    "premiumAmount": 12000,
+    "paymentFrequency": "Yearly",
+    "tenureYears": 3,
+    "eligibilityCriteria": {
+      "minAge": 18,
+      "maxAge": 65,
+      "incomeBracket": [
+        "2-5 LPA",
+        "5-10 LPA",
+        "10-15 LPA",
+        "15-20 LPA"
+      ]
+    },
+    "features": [
+      "International coverage",
+      "Critical illness cover",
+      "Add-on riders available",
+      "Cashless treatment"
+    ],
+    "popularityScore": 0.78
+  }
+]

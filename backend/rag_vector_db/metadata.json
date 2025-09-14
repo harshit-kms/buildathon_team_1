@@ -1,0 +1,7 @@
+{
+  "created_at": 1757841932.285168,
+  "num_documents": 3954,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunk_size": 100,
+  "total_files": 65
+}

@@ -1,0 +1,739 @@
+{
+  "Users": [
+    {
+      "userId": "USR000001",
+      "fullName": "Vritti Mukhopadhyay",
+      "location": "Durg",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 14,
+        "ConversionRate": 14.29,
+        "RenewalRate": 50.0,
+        "Referrals": {
+          "total": 1,
+          "converted": 2
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 11,
+          "AverageResponseTimeHours": 1.13,
+          "RepeatInteractions": 12,
+          "ChurnRate": 2.79,
+          "CustomerLifetimeValue": 25574,
+          "LeaderboardRank": 26
+        }
+      }
+    },
+    {
+      "userId": "USR000002",
+      "fullName": "Deepa Deshpande",
+      "location": "Jamalpur",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 11,
+        "ConversionRate": 18.18,
+        "RenewalRate": 50.0,
+        "Referrals": {
+          "total": 5,
+          "converted": 2
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 8,
+          "AverageResponseTimeHours": 2.66,
+          "RepeatInteractions": 11,
+          "ChurnRate": 9.88,
+          "CustomerLifetimeValue": 26910,
+          "LeaderboardRank": 5
+        }
+      }
+    },
+    {
+      "userId": "USR000003",
+      "fullName": "Janaki Bath",
+      "location": "Baranagar",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 14,
+        "ConversionRate": 14.29,
+        "RenewalRate": 0.0,
+        "Referrals": {
+          "total": 0,
+          "converted": 2
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 5,
+          "AverageResponseTimeHours": 0.65,
+          "RepeatInteractions": 11,
+          "ChurnRate": 13.65,
+          "CustomerLifetimeValue": 27065,
+          "LeaderboardRank": 18
+        }
+      }
+    },
+    {
+      "userId": "USR000004",
+      "fullName": "Yadavi Mandal",
+      "location": "Bhopal",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 17,
+        "ConversionRate": 11.76,
+        "RenewalRate": 0.0,
+        "Referrals": {
+          "total": 5,
+          "converted": 2
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 13,
+          "AverageResponseTimeHours": 2.65,
+          "RepeatInteractions": 10,
+          "ChurnRate": 4.39,
+          "CustomerLifetimeValue": 13409,
+          "LeaderboardRank": 31
+        }
+      }
+    },
+    {
+      "userId": "USR000005",
+      "fullName": "Jonathan Patel",
+      "location": "Etawah",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 17,
+        "ConversionRate": 5.88,
+        "RenewalRate": 0.0,
+        "Referrals": {
+          "total": 5,
+          "converted": 1
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 16,
+          "AverageResponseTimeHours": 1.03,
+          "RepeatInteractions": 14,
+          "ChurnRate": 4.18,
+          "CustomerLifetimeValue": 11384,
+          "LeaderboardRank": 6
+        }
+      }
+    },
+    {
+      "userId": "USR000006",
+      "fullName": "Lakshit Peri",
+      "location": "Medininagar",
+      "preferredChannel": "Email",
+      "metrics": {
+        "LeadsGenerated": 15,
+        "ConversionRate": 13.33,
+        "RenewalRate": 66.67,
+        "Referrals": {
+          "total": 1,
+          "converted": 2
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 11,
+          "AverageResponseTimeHours": 3.23,
+          "RepeatInteractions": 7,
+          "ChurnRate": 6.06,
+          "CustomerLifetimeValue": 12333,
+          "LeaderboardRank": 7
+        }
+      }
+    },
+    {
+      "userId": "USR000007",
+      "fullName": "Bina Walia",
+      "location": "Malegaon",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 15,
+        "ConversionRate": 6.67,
+        "RenewalRate": 33.33,
+        "Referrals": {
+          "total": 2,
+          "converted": 1
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 18,
+          "AverageResponseTimeHours": 3.45,
+          "RepeatInteractions": 9,
+          "ChurnRate": 6.71,
+          "CustomerLifetimeValue": 22393,
+          "LeaderboardRank": 33
+        }
+      }
+    },
+    {
+      "userId": "USR000008",
+      "fullName": "George Barad",
+      "location": "Haldia",
+      "preferredChannel": "Phone",
+      "metrics": {
+        "LeadsGenerated": 8,
+        "ConversionRate": 25.0,
+        "RenewalRate": 50.0,
+        "Referrals": {
+          "total": 2,
+          "converted": 2
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 16,
+          "AverageResponseTimeHours": 1.26,
+          "RepeatInteractions": 10,
+          "ChurnRate": 1.1,
+          "CustomerLifetimeValue": 15767,
+          "LeaderboardRank": 25
+        }
+      }
+    },
+    {
+      "userId": "USR000009",
+      "fullName": "Yash Nagar",
+      "location": "Bihar Sharif",
+      "preferredChannel": "Email",
+      "metrics": {
+        "LeadsGenerated": 13,
+        "ConversionRate": 15.38,
+        "RenewalRate": 33.33,
+        "Referrals": {
+          "total": 2,
+          "converted": 2
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 14,
+          "AverageResponseTimeHours": 3.69,
+          "RepeatInteractions": 4,
+          "ChurnRate": 0.63,
+          "CustomerLifetimeValue": 15691,
+          "LeaderboardRank": 26
+        }
+      }
+    },
+    {
+      "userId": "USR000010",
+      "fullName": "Gabriel Chacko",
+      "location": "Bidhannagar",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 11,
+        "ConversionRate": 0.0,
+        "RenewalRate": 0.0,
+        "Referrals": {
+          "total": 1,
+          "converted": 0
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 12,
+          "AverageResponseTimeHours": 3.68,
+          "RepeatInteractions": 15,
+          "ChurnRate": 11.21,
+          "CustomerLifetimeValue": 14653,
+          "LeaderboardRank": 7
+        }
+      }
+    },
+    {
+      "userId": "USR000011",
+      "fullName": "Xiti Nair",
+      "location": "Meerut",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 22,
+        "ConversionRate": 4.55,
+        "RenewalRate": 50.0,
+        "Referrals": {
+          "total": 2,
+          "converted": 1
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 9,
+          "AverageResponseTimeHours": 4.93,
+          "RepeatInteractions": 7,
+          "ChurnRate": 5.35,
+          "CustomerLifetimeValue": 14268,
+          "LeaderboardRank": 40
+        }
+      }
+    },
+    {
+      "userId": "USR000012",
+      "fullName": "Alka Goyal",
+      "location": "Mango",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 18,
+        "ConversionRate": 16.67,
+        "RenewalRate": 33.33,
+        "Referrals": {
+          "total": 3,
+          "converted": 3
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 14,
+          "AverageResponseTimeHours": 3.65,
+          "RepeatInteractions": 6,
+          "ChurnRate": 13.22,
+          "CustomerLifetimeValue": 13275,
+          "LeaderboardRank": 25
+        }
+      }
+    },
+    {
+      "userId": "USR000013",
+      "fullName": "Timothy Khanna",
+      "location": "Katni",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 7,
+        "ConversionRate": 42.86,
+        "RenewalRate": 100.0,
+        "Referrals": {
+          "total": 0,
+          "converted": 3
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 20,
+          "AverageResponseTimeHours": 4.23,
+          "RepeatInteractions": 7,
+          "ChurnRate": 1.56,
+          "CustomerLifetimeValue": 26294,
+          "LeaderboardRank": 7
+        }
+      }
+    },
+    {
+      "userId": "USR000014",
+      "fullName": "Varenya Tailor",
+      "location": "Aurangabad",
+      "preferredChannel": "Email",
+      "metrics": {
+        "LeadsGenerated": 22,
+        "ConversionRate": 13.64,
+        "RenewalRate": 50.0,
+        "Referrals": {
+          "total": 2,
+          "converted": 3
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 10,
+          "AverageResponseTimeHours": 0.73,
+          "RepeatInteractions": 15,
+          "ChurnRate": 6.46,
+          "CustomerLifetimeValue": 18813,
+          "LeaderboardRank": 25
+        }
+      }
+    },
+    {
+      "userId": "USR000015",
+      "fullName": "Vamakshi Sastry",
+      "location": "Mumbai",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 16,
+        "ConversionRate": 12.5,
+        "RenewalRate": 100.0,
+        "Referrals": {
+          "total": 0,
+          "converted": 2
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 5,
+          "AverageResponseTimeHours": 1.15,
+          "RepeatInteractions": 15,
+          "ChurnRate": 7.42,
+          "CustomerLifetimeValue": 12344,
+          "LeaderboardRank": 6
+        }
+      }
+    },
+    {
+      "userId": "USR000016",
+      "fullName": "Waida Sengupta",
+      "location": "Tezpur",
+      "preferredChannel": "Phone",
+      "metrics": {
+        "LeadsGenerated": 6,
+        "ConversionRate": 0.0,
+        "RenewalRate": 0.0,
+        "Referrals": {
+          "total": 1,
+          "converted": 0
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 5,
+          "AverageResponseTimeHours": 1.36,
+          "RepeatInteractions": 7,
+          "ChurnRate": 14.93,
+          "CustomerLifetimeValue": 10199,
+          "LeaderboardRank": 17
+        }
+      }
+    },
+    {
+      "userId": "USR000017",
+      "fullName": "Ranbir Pau",
+      "location": "Silchar",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 13,
+        "ConversionRate": 15.38,
+        "RenewalRate": 50.0,
+        "Referrals": {
+          "total": 3,
+          "converted": 2
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 11,
+          "AverageResponseTimeHours": 3.32,
+          "RepeatInteractions": 4,
+          "ChurnRate": 11.25,
+          "CustomerLifetimeValue": 29605,
+          "LeaderboardRank": 15
+        }
+      }
+    },
+    {
+      "userId": "USR000018",
+      "fullName": "Agastya Narayan",
+      "location": "Delhi",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 7,
+        "ConversionRate": 28.57,
+        "RenewalRate": 0.0,
+        "Referrals": {
+          "total": 2,
+          "converted": 2
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 18,
+          "AverageResponseTimeHours": 4.38,
+          "RepeatInteractions": 7,
+          "ChurnRate": 13.63,
+          "CustomerLifetimeValue": 28273,
+          "LeaderboardRank": 14
+        }
+      }
+    },
+    {
+      "userId": "USR000019",
+      "fullName": "Aarnav Bhakta",
+      "location": "Bijapur",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 12,
+        "ConversionRate": 0.0,
+        "RenewalRate": 100.0,
+        "Referrals": {
+          "total": 0,
+          "converted": 0
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 7,
+          "AverageResponseTimeHours": 1.27,
+          "RepeatInteractions": 6,
+          "ChurnRate": 6.38,
+          "CustomerLifetimeValue": 14358,
+          "LeaderboardRank": 8
+        }
+      }
+    },
+    {
+      "userId": "USR000020",
+      "fullName": "Dalbir Kalita",
+      "location": "Shahjahanpur",
+      "preferredChannel": "Email",
+      "metrics": {
+        "LeadsGenerated": 19,
+        "ConversionRate": 5.26,
+        "RenewalRate": 100.0,
+        "Referrals": {
+          "total": 3,
+          "converted": 1
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 17,
+          "AverageResponseTimeHours": 1.54,
+          "RepeatInteractions": 6,
+          "ChurnRate": 10.35,
+          "CustomerLifetimeValue": 29658,
+          "LeaderboardRank": 32
+        }
+      }
+    },
+    {
+      "userId": "USR000021",
+      "fullName": "Pallavi Ahuja",
+      "location": "Aizawl",
+      "preferredChannel": "Email",
+      "metrics": {
+        "LeadsGenerated": 10,
+        "ConversionRate": 20.0,
+        "RenewalRate": 50.0,
+        "Referrals": {
+          "total": 3,
+          "converted": 2
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 9,
+          "AverageResponseTimeHours": 3.47,
+          "RepeatInteractions": 4,
+          "ChurnRate": 6.01,
+          "CustomerLifetimeValue": 27338,
+          "LeaderboardRank": 43
+        }
+      }
+    },
+    {
+      "userId": "USR000022",
+      "fullName": "Chaman Sinha",
+      "location": "Gandhinagar",
+      "preferredChannel": "Phone",
+      "metrics": {
+        "LeadsGenerated": 23,
+        "ConversionRate": 0.0,
+        "RenewalRate": 100.0,
+        "Referrals": {
+          "total": 3,
+          "converted": 0
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 12,
+          "AverageResponseTimeHours": 1.02,
+          "RepeatInteractions": 6,
+          "ChurnRate": 13.29,
+          "CustomerLifetimeValue": 15592,
+          "LeaderboardRank": 42
+        }
+      }
+    },
+    {
+      "userId": "USR000023",
+      "fullName": "Fiyaz Grewal",
+      "location": "Ulhasnagar",
+      "preferredChannel": "Email",
+      "metrics": {
+        "LeadsGenerated": 23,
+        "ConversionRate": 4.35,
+        "RenewalRate": 33.33,
+        "Referrals": {
+          "total": 4,
+          "converted": 1
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 7,
+          "AverageResponseTimeHours": 1.0,
+          "RepeatInteractions": 12,
+          "ChurnRate": 10.94,
+          "CustomerLifetimeValue": 19020,
+          "LeaderboardRank": 4
+        }
+      }
+    },
+    {
+      "userId": "USR000024",
+      "fullName": "Peter Shroff",
+      "location": "Sirsa",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 16,
+        "ConversionRate": 6.25,
+        "RenewalRate": 66.67,
+        "Referrals": {
+          "total": 2,
+          "converted": 1
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 5,
+          "AverageResponseTimeHours": 2.82,
+          "RepeatInteractions": 10,
+          "ChurnRate": 0.71,
+          "CustomerLifetimeValue": 17085,
+          "LeaderboardRank": 50
+        }
+      }
+    },
+    {
+      "userId": "USR000025",
+      "fullName": "Victor Ramachandran",
+      "location": "Purnia",
+      "preferredChannel": "Email",
+      "metrics": {
+        "LeadsGenerated": 19,
+        "ConversionRate": 5.26,
+        "RenewalRate": 100.0,
+        "Referrals": {
+          "total": 1,
+          "converted": 1
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 6,
+          "AverageResponseTimeHours": 4.68,
+          "RepeatInteractions": 15,
+          "ChurnRate": 9.75,
+          "CustomerLifetimeValue": 21647,
+          "LeaderboardRank": 39
+        }
+      }
+    },
+    {
+      "userId": "USR000026",
+      "fullName": "Urmi Agarwal",
+      "location": "Raiganj",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 13,
+        "ConversionRate": 15.38,
+        "RenewalRate": 0.0,
+        "Referrals": {
+          "total": 3,
+          "converted": 2
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 17,
+          "AverageResponseTimeHours": 3.01,
+          "RepeatInteractions": 13,
+          "ChurnRate": 1.95,
+          "CustomerLifetimeValue": 15580,
+          "LeaderboardRank": 8
+        }
+      }
+    },
+    {
+      "userId": "USR000027",
+      "fullName": "Balveer Om",
+      "location": "Anantapuram",
+      "preferredChannel": "Email",
+      "metrics": {
+        "LeadsGenerated": 10,
+        "ConversionRate": 30.0,
+        "RenewalRate": 50.0,
+        "Referrals": {
+          "total": 4,
+          "converted": 3
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 8,
+          "AverageResponseTimeHours": 2.75,
+          "RepeatInteractions": 11,
+          "ChurnRate": 12.07,
+          "CustomerLifetimeValue": 24903,
+          "LeaderboardRank": 32
+        }
+      }
+    },
+    {
+      "userId": "USR000028",
+      "fullName": "Balveer Ganesh",
+      "location": "Mumbai",
+      "preferredChannel": "Email",
+      "metrics": {
+        "LeadsGenerated": 15,
+        "ConversionRate": 6.67,
+        "RenewalRate": 66.67,
+        "Referrals": {
+          "total": 5,
+          "converted": 1
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 19,
+          "AverageResponseTimeHours": 1.61,
+          "RepeatInteractions": 6,
+          "ChurnRate": 11.82,
+          "CustomerLifetimeValue": 20371,
+          "LeaderboardRank": 1
+        }
+      }
+    },
+    {
+      "userId": "USR000029",
+      "fullName": "Lajita Nath",
+      "location": "Kollam",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 17,
+        "ConversionRate": 0.0,
+        "RenewalRate": 0.0,
+        "Referrals": {
+          "total": 1,
+          "converted": 0
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 19,
+          "AverageResponseTimeHours": 4.44,
+          "RepeatInteractions": 11,
+          "ChurnRate": 12.47,
+          "CustomerLifetimeValue": 21476,
+          "LeaderboardRank": 32
+        }
+      }
+    },
+    {
+      "userId": "USR000030",
+      "fullName": "Ekbal Balakrishnan",
+      "location": "Raichur",
+      "preferredChannel": "WhatsApp",
+      "metrics": {
+        "LeadsGenerated": 10,
+        "ConversionRate": 30.0,
+        "RenewalRate": 50.0,
+        "Referrals": {
+          "total": 2,
+          "converted": 3
+        },
+        "EngagementRate": 50.0,
+        "Tier2": {
+          "ActiveConversations": 8,
+          "AverageResponseTimeHours": 0.58,
+          "RepeatInteractions": 4,
+          "ChurnRate": 5.95,
+          "CustomerLifetimeValue": 19503,
+          "LeaderboardRank": 41
+        }
+      }
+    }
+  ],
+  "BusinessMetrics": {
+    "TotalLeadsGenerated": 433,
+    "TotalConversions": 47,
+    "TotalReferrals": 68,
+    "TotalReferralsConverted": 47,
+    "TotalCampaignReach": {
+      "Referral": 13,
+      "WhatsApp": 7,
+      "Email": 8,
+      "Ads": 2
+    },
+    "TotalActiveConversations": 350,
+    "TotalRepeatInteractions": 275,
+    "AggregateCustomerLifetimeValue": 584781
+  }
+}

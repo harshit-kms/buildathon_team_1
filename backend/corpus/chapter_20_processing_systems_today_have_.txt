@@ -1,0 +1,898 @@
+Processing systems today have built in capability to compute the reserves as at 
+any point of time. 
+
+Test Yourself 3 
+
+The amount of provision made for all claims in the books of the insurer based on 
+the status of the claims is known as ________. 
+
+I. Pooling 
+II. Provisioning 
+III. Reserving 
+IV. Investing
+464 
+
+E. Role of third party administrators (TPA) 
+
+1. Introduction of TPAs in India 
+
+The insurance sector was opened to private players in the year 2000. 
+Meanwhile, the demand for healthcare products was also growing with new 
+products being launched. A need was therefore felt for the introduction of a 
+channel for post-sale services in health insurance. This offered the opportunity 
+for professional Third Party Administrators to be introduced. 
+
+Seeing this, the Insurance Regulatory and Development Authority allowed TPAs 
+to be introduced into the market under license from IRDAI, provided they 
+complied with The IRDAI (Third Party Administrators – Health Insurance) 
+Regulations, 2001 notified on 17th Sept 2001. 
+
+Definition 
+
+As per Regulations, 
+
+"Third Party Administrators or TPA means any person who is licensed under the 
+IRDAI (Third Party Administrators - Health Services) Regulations, 2001 by the 
+Authority, and is engaged, for a fee or remuneration by an insurance company, 
+for the purposes of providing health services. 
+
+"Health Services by TPA" means the services rendered by a TPA to an insurer 
+under an agreement in connection with health insurance business but does not 
+include the business of an insurance company or the soliciting either directly or 
+indirectly, of health insurance business or deciding on the admissibility of a 
+claim or its rejection. 
+
+Thus the scope of TPA services starts after the sale and issue of the insurance 
+policy. In case of insurers not using TPAs, the services are performed by in-
+house team. 
+
+2. Post sale service of health insurance 
+
+a) Once the proposal (and the premium) is accepted, the coverage 
+commences. 
+
+b) If a TPA is to be used for servicing the policy, the insurer passes on the 
+information about the customer and the policy to the TPA. 
+
+c) The TPA enrolls the members (while the proposer is the person taking 
+the policy, members are those covered under the policy) and may issue a 
+membership identification in the form of a card, either physical or 
+electronic.
+465 
+d) The membership with the TPA is used for availing cashless facility as well 
+as processing of claims when the member requires the support of the 
+policy for a hospitalization or treatment that is covered. 
+
+e) TPA processes the claim or cashless request and provides the services 
+within the time agreed with the insurer. 
+
+The cut-off point from which the role of a TPA begins is the moment of 
+allocation of the policy in the name of the TPA as the servicing entity. The 
+servicing requirement continues through the policy period and through any 
+further period that is allowed under the policy for reporting a claim. 
+
+When thousands of policies are serviced, this activity is continuous, especially 
+when the same policy is renewed and the same TPA is servicing the policy. 
+
+3. Objectives of third party administration (TPA) 
+
+The concept of Third Party Administration in health insurance can be said to 
+have been created with the following objectives: 
+
+a) To facilitate service to a customer of health insurance in all possible 
+manners at the time of need. 
+
+b) To organise cashless treatment for the insured patient at network 
+hospitals. 
+
+c) To provide fair and fast settlement of claims to the customers based on 
+the claim documents submitted and as per procedure and guidelines of 
+the insurance company. 
+
+d) To create functional expertise in handling health insurance claims and 
+related services. 
+
+e) To respond to customers in a timely and proper manner. 
+
+f) To create an environment where the market objective of an insured 
+person being able to access quality healthcare at a reasonable cost is 
+achieved and 
+
+g) To help generate/collate relevant data pertaining to morbidity, costs, 
+procedures, length of stay etc., 
+
+4. Relationship between insurer and TPA 
+
+Many insurers utilize the services of the TPA for post-sale service of health 
+insurance policies while few insurers, especially from the life insurance sector 
+also seek assistance of a TPA for arranging pre-policy medical check-up service.
+466 
+The relationship between an insurer and the TPA is contractual with a host of 
+requirements and process steps built into the contract. IRDAI Health Insurance 
+Standardization guidelines now lay down guidelines and provide a set of 
+suggested standard clauses for contract between TPA and insurance company, 
+
+The services that an insurer expects out of the TPA are as follows: 
+
+A. Provider networking services 
+
+The TPA is expected to build a relationship with a network of hospitals across 
+the country, with the objective of providing cashless claim payments for health 
+claims to the insured persons. The recent guidelines by IRDAI require the 
+relationship to be tri-partite including the insurer and not just between the 
+TPA and the provider. 
+
+They also negotiate good scheduled rates for various hospitalization procedures 
+and packages from such network hospitals reducing costs to insureds and also 
+insurers. 
+
+B. Call centre services 
+
+The TPA is usually expected to maintain a call centre with toll-free numbers 
+reachable at all times including nights, weekends and holidays i.e. 24*7*365. 
+The call centre of the TPA will provide information relating to: 
+
+a) Coverage and benefits available under the policy. 
+
+b) Processes and procedures relating to health claims. 
+
+c) Guidance relating to the services and cashless hospitalization. 
+
+d) Information on network hospitals. 
+
+e) Information on balance sum insured available under the policy. 
+
+f) Information on claim status. 
+
+g) Advice on missing documents in case of claims. 
+
+The call centre should be accessible through a national toll free number and 
+the customer service staff should be able to communicate in the major 
+languages normally spoken by the customers. These details are of course 
+governed by the contract between the insurers and their TPAs.
+467 
+C. Cashless access services 
+
+Definition 
+
+"Cashless facility" means a facility extended by the insurer to the insured where 
+the payments, of the costs of treatment undergone by the insured in 
+accordance with the policy terms and conditions, are directly made to the 
+network provider by the insurer to the extent pre-authorization approved. 
+To provide this service, the requirements of the insurer under the contract are: 
+
+a) All policy related information must be available with the TPA. It is the 
+duty of the insurer to provide this to the TPA. 
+
+b) Data of members included in the policy should be available and 
+accessible, without any error or deficiency. 
+
+c) The insured persons must carry an Identity Card that relates them to the 
+policy and the TPA. This Identity Card must be issued by the TPA in an 
+agreed format, reach the member within a reasonable time and should 
+be valid throughout the policy period. 
+
+d) TPA must issue a pre-authorization or a Letter of Guarantee to the 
+hospital based on the information provided for requesting the cashless 
+facility. It could seek more information to understand the nature of 
+illness, treatment proposed and the cost involved. 
+
+e) Where the information is not clear or not available, the TPA can reject 
+the cashless request, making it clear that denial of cashless facility is 
+not to be construed as denial of treatment. The member is also free to 
+pay and file a claim later, which will be considered on its merits. 
+
+f) In emergency cases, the intimation should be done within 24 hours of 
+admission and the decision on cashless communicated. 
+
+D. Customer relationship and contact management 
+
+The TPA needs to provide a mechanism by which the customers can represent 
+their grievances. It is usual for health insurance claims to be subjected to 
+scrutiny and verification. It is also noted that a small percentage of the health 
+insurance claims are denied which are outside the purview of the policy terms 
+and conditions. 
+
+In addition, almost all health insurance claims are subject to deduction on some 
+amount of the claim. These deductions cause customer dissatisfaction, 
+especially where the reason for the deduction or denial is not properly 
+explained to the customer. 
+
+To make sure that such grievances are resolved as quickly as possible, the 
+insurer requires the TPA to have an effective grievance solution management.
+468 
+E. Billing services 
+
+Under billing services, the insurer expects the TPA to provide three functions: 
+
+a) Standardized billing pattern that can help the insurer analyze the use of 
+coverage under various heads as well as decide the pricing. 
+
+b) Confirmation that the amount charged is relevant to the treatment 
+really required for the illness. 
+
+c) Diagnosis and procedure codes are captured so that standardization of 
+data is possible across all TPAs in accordance with national or 
+international standards. 
+
+This requires trained and skilled manpower in the TPA who are capable of 
+coding, verifying the tariff and standardizing the billing data capture. 
+
+F. Claim processing and payment services 
+
+This is the most critical service offered by the TPAs. Claim processing services 
+offered by the TPA to the insurer is usually end-to-end service from registering 
+intimation to processing to recommending approval and payment. 
+
+Payment of claims is done through the funds received from the insurer. The 
+funds may be provided to the TPA in the form of advance money or may be 
+settled directly by the insurer through its bank to the customer or to the 
+hospital. 
+
+The TPA is expected to keep an account of the monies and provide periodic 
+reconciliation of the amounts received from the insurance company. The 
+money cannot be used for any other purpose except for payment of approved 
+claims. 
+
+G. Management Information Services 
+
+Since the TPA performs claim processing, all information relating to the claims 
+individually or collectively is available with the TPA. The insurer requires the 
+data for various purposes and such data must be provided accurately and on a 
+timely basis by the TPA. 
+
+Thus the scope of a TPA‟s services can be stated as end-to-end service of the 
+health insurance policies issued by the insurers, could be restricted to few 
+activities, depending on requirements and MOU with particular insurer. 
+
+H. TPA Remuneration 
+
+For these services, the TPA is paid a fee on one of the following basis: 
+
+a) A percentage of the premium (excluding service tax) charged to the 
+customer,
+469 
+
+b) A fixed amount for each member serviced by the TPA for a defined time 
+period, or 
+
+c) A fixed amount for each transaction of the service provided by the TPA – 
+e.g. cost per member card issued, per claim etc. 
+
+Thus through services of TPA, insurers gain access to: 
+
+i. Cashless services 
+
+ii. Data compilation and analysis 
+
+iii. A 24 hour call centre and assistance for the customers 
+
+iv. Network of hospitals and other medical facilities 
+
+v. Support to major group customers 
+
+vi. Facilitation of the claims interaction with the customer 
+
+vii. Negotiation of tariffs and procedure prices with the hospitals 
+
+viii. Technology enabled services to ease customer service 
+
+ix. Verification and investigation of suspect cases 
+
+x. Analysis of claim patterns across companies and provision of crucial 
+information on costs, newer methods of treatment, emerging trends and 
+in controlling frauds 
+
+xi. Expansion of reach of services quickly
+470 
+F. Claims management – personal accident 
+
+1. Personal accident 
+
+Definition 
+
+Personal accident is a benefit policy and covers accidental death, accidental 
+disability (permanent / partial), Temporary total disability and may also have 
+add-on coverage of accidental medical expenses, funeral expenses, educational 
+expenses etc. depending on particular product. 
+
+The peril covered under the PA policy is “Accident”. 
+
+Definition 
+
+Accident is defined as anything sudden, unforeseen, unintentional, external, 
+violent and by visible means. 
+
+Claims manager should mark caution and check following areas on receipt of the 
+notification of the claim: 
+
+a) Person in respect of whom the claim is made is covered under the policy 
+
+b) Policy is valid as on date of loss and premium is received 
+
+c) Loss is within the policy period 
+
+d) Loss has arisen out of “Accident” and not sickness 
+
+e) Check for any fraud triggers and assign investigation if need be 
+
+f) Register the claim and create reserve for the same 
+
+g) Maintain the turnaround time (claim servicing time) and keep the 
+customer informed of the development of the claim. 
+
+2. Claims investigation 
+
+If any red alert is noticed in the claim intimation or on receipt of the claim 
+documents, claim may be assigned to a professional investigator for verification 
+simultaneously. 
+
+Example 
+
+Examples of red alerts for personal accident claims (for purpose of further 
+investigation, but does not indicate positive indication of fraud or claim being 
+fraudulent):
+471 
+ Close proximity claims (claim within a short time of start of insurance) 
+ High weekly benefit amount with longer period of disability 
+ Discrepancy in the claim documents 
+ Multiple claims by same insured 
+ Indication of alcohol 
+ Suspected suicide 
+ Late night Road Traffic Accident while vehicle was being driven by 
+insured 
+ Snake bite 
+ Drowning 
+ Fall from height 
+ Suspected sickness related cases 
+ Poisoning 
+ Murder 
+ Bullet injury 
+ Frost bite disappearance 
+ Homicide etc. 
+
+The main objectives of investigation are: 
+
+a) Examine the cause of loss. 
+
+b) Ascertain the extent and nature of loss. 
+
+c) Collection of evidence and information. 
+
+d) To ascertain if there is element of fraud or exaggeration of claim 
+amount. 
+
+Please note: the objective of investigation is to verify the facts of the case and 
+gather necessary evidence. 
+
+It is important that Claims examiner guides the investigator as to the focus of 
+investigation. 
+
+Example 
+
+Example of case guideline: 
+
+Road traffic accident 
+
+i. When did the incident take place – exact time and date place? Date and 
+time 
+
+ii. Was the insured a pedestrian, traveling as passenger/pillion rider or 
+driving the vehicle involved in accident? 
+
+iii. Description on the accident, how did it take place?
+472 
+iv. Was the insured under the influence of alcohol at the time of accident? 
+
+v. In case of death, what was the exact time and date of death, treatment 
+provided before death, at which hospital etc? 
+
+The possible reason for the accident: 
+
+Mechanical failure (steering, brake etc. failure) of the insured‟s or opponent 
+vehicle, due to any sickness (heart attack, seizure etc.) of the driver of the 
+vehicle, influence of alcohol, bad road condition, weather condition, speed of 
+the vehicle etc. 
+
+Some examples of possible fraud and leakage in personal accident claims: 
+
+i. Exaggeration in TTD period. 
+
+ii. Illness presented as accident e.g. backache due to pathological reasons 
+converted into a PA claim after reported „fall/slip‟ at home. 
+
+iii. Pre-existing accidents are claimed as fresh, by fabricating documents-
+Natural death presented as accidental case or pre-existing morbidity 
+leading to death after accident 
+
+iv. Suicidal deaths presented as accidental deaths 
+
+Discharge voucher is an important document for settlement of personal accident 
+claim, especially those involving death claims. It is also important to obtain 
+nominee details at the time of proposal and the same should form part of policy 
+document. 
+
+3. Claim documentation 
+
+Table 2.3 
+
+Death claim 
+
+a) Duly completed Personal Accident claim form signed by 
+the claimant‟s nominee/family member 
+b) Original or Attested copy of First Information Report. 
+(Attested copy of FIR / Panchnama / Inquest Panchnama) 
+c) Original or Attested copy of Death certificate. 
+d) Attested copy of Post Mortem Report if conducted. 
+e) Attested copy of AML documents (Anti-money laundering) 
+- for name verification (passport / PAN card / Voter's ID / 
+Driving license) for address verification (Telephone bill / 
+Bank account statement / Electricity bill / Ration card). 
+f) Legal heir certificate containing affidavit and indemnity 
+bond both duly signed by all legal heirs and notarized
+473 
+Permanent 
+Total Disability 
+(PTD) and 
+Permanent 
+Partial 
+Disability(PPD) 
+Claim 
+a) Duly completed Personal Accident claim form signed by 
+the claimant. 
+b) Attested copy of First Information Report if applicable. 
+c) Permanent disability certificate from a civil surgeon or 
+any equivalent competent doctors certifying the 
+disability of the insured. 
+Temporary 
+Total 
+Disability(TTD) 
+Claim 
+
+a) Medical certificate from treating doctor mentioning the 
+type of disability and disability period. Leave certificate 
+from employer giving details of exact leave period, duly 
+signed and sealed by the employer. 
+b) Fitness certificate from the treating doctor certifying 
+that the insured is fit to perform his normal duties. 
+
+The above list is only indicative, further documents (including photographs of 
+scar marks, site of accident etc.) may be required depending on particular facts 
+of the case, especially the cases with suspected fraud angle to be investigated. 
+
+Test Yourself 4 
+
+Which of the following documents are not required to be submitted for 
+Permanent Total Disability claim? 
+
+I. Duly completed Personal Accident claim form signed by the claimant. 
+II. Attested copy of First Information Report if applicable. 
+III. Permanent disability certificate from a civil surgeon or any equivalent 
+competent doctors certifying the disability of the insured. 
+IV. Fitness certificate from the treating doctor certifying that the insured is fit 
+to perform his normal duties. 
+
+G. Claims management- Overseas travel insurance 
+
+1. Overseas travel insurance policy 
+
+Though Overseas travel insurance policy has many sections covering non-
+medical benefits, its underwriting and claims management has traditionally 
+been under health insurance portfolio because medical and sickness benefit is 
+the main cover under the policy. 
+
+The covers under the policy can be broadly divided into following sections. A 
+specific product may cover all or few of the below mentioned benefits: 
+
+a) Medical and sickness section 
+
+b) Repatriation and evacuation 
+
+c) Personal accident cover
+474 
+d) Personal liability 
+
+e) Other non-medical covers: 
+
+i. 
+Trip Cancellation 
+ii. 
+Trip Delay 
+iii. Trip interruption 
+iv. Missed Connection 
+v. 
+Delay of Checked Baggage 
+vi. Loss of Checked Baggage 
+vii. Loss of Passport 
+viii. Emergency Cash Advance 
+ix. Hijack Allowance 
+x. 
+Bail Bond insurance 
+xi. Hijack cover 
+xii. Sponsor Protection 
+xiii. Compassionate Visit 
+xiv. Study Interruption 
+xv. Home burglary 
+
+As the name suggests, the policy is intended for people travelling abroad, it is 
+natural that loss would happen outside India and claims would need to be 
+serviced appropriately as and when reported. In case of overseas travel 
+insurance the claim servicing usually involves a Third Party service provider 
+(Assistance Company) who has established a network for providing necessary 
+support and assistance all over the world. 
+
+Claims services essentially include: 
+
+a) Taking down the claim notification 24*7 basis; 
+b) Sending the claim form and procedure; 
+c) Guiding customer on what to do immediately after loss; 
+d) Extending cashless services for medical and sickness claims; 
+e) Arranging for repatriation and evacuation, emergency cash advance. 
+
+2. Assistance companies – Role in overseas claims 
+
+Assistance companies have their own offices and tie ups with other similar 
+providers world over. These companies offer assistance to the customers of 
+insurance companies in case of contingencies covered under the policy. 
+
+These companies operate a 24*7 call centre including international toll free 
+numbers for claim registration and information. They also offer the following 
+services and charges for the services vary depending on agreement with the 
+particular insurance company, benefits covered etc. 
+
+a) 
+Medical assistance services: 
+
+i. Medical service provider referrals 
+ii. Arrangement of hospital admission
+475 
+iii. Arrangement of Emergency Medical Evacuation 
+iv. Arrangement of Emergency Medical Repatriation 
+v. Mortal remains repatriation 
+vi. Compassionate visit arrangements 
+vii. Minor children assistance/escort 
+
+b) 
+Monitoring of Medical Condition during and after hospitalisation 
+
+c) 
+Delivery of Essential Medicines 
+
+d) 
+Guarantee of Medical Expenses Incurred during hospitalization subject to 
+terms and condition of the policy and approval of insurance company. 
+
+e) 
+Pre-trip information services and other services: 
+
+i. Visas and inoculation requirements 
+ii. Embassy referral services 
+iii. Lost passport and lost luggage assistance services 
+iv. Emergency message transmission services 
+v. Bail bond arrangement 
+vi. Financial Emergency Assistance 
+
+f) 
+Interpreter Referral 
+
+g) 
+Legal Referral 
+
+h) 
+Appointment with lawyer 
+
+3. Claims management for cashless medical cases 
+
+Claims management approach differs for cashless medical cases, reimbursement 
+medical cases and other non-medical cases. Again, cashless medical claims 
+management differs in US than cashless medical in other countries. We shall 
+now study step by step process 
+
+a) Claim notification 
+
+As and when loss happens, the patient takes admission into the hospital and 
+shows the insurance details to the admission counter. Assistance Company 
+receives notification of a new case from hospital and/or from patient or 
+relatives/friends. Claim procedure is then explained to the claimant. 
+
+b) Case management steps: 
+
+These may vary from company to company, common steps are listed below: 
+
+i. Assistance Company case manager verifies the benefits, sum insured, 
+policy period, name of the policy holder.
+476 
+ii. Case manager then gets in touch with the hospital to obtain clinical 
+/medical notes for an update on the patient‟s medical condition, billing 
+information, estimates of cost. Assistance Company receives the clinical 
+notes and estimate of medical cost and send an update to the Insurer. 
+
+iii. Admissibility of the claim is determined and Guarantee of payment is 
+placed to hospital subject to approval from Insurance Company. 
+
+iv. There can be scenario where investigation may be necessary in India 
+(local place of insured) and/or in loss location. Process of investigation is 
+similar to what is explained in personal accident claims section. 
+Investigator abroad is selected with the help of Assistance Company or 
+through direct contact of insurance company. 
+
+v. Assistance Company‟s case manager continues to monitor the case on a 
+daily basis to provide Insurer with a clinical and cost update, progress 
+notes, etc. in order to obtain authorization for continuation of 
+treatment. 
+
+vi. Once the patient is discharged, case manager works diligently with the 
+hospital to confirm final charges. 
+
+vii. Assistance Company ensures that the bill is properly scrutinized, 
+scrubbed and audited. Any error found is notified to the billing 
+department of the hospital for rectification. 
+
+viii. Final bill is then re-priced as per the rates agreed between the provider 
+and Assistance Company or its associate reprising agent. The earlier the 
+payment assurance made to hospital, better discount through re-pricing 
+is possible. 
+
+Re-pricing is typically characteristic of US healthcare and as such, is not 
+applicable for non US cases. This is a major difference between cashless 
+medical case in US and non-US cases. 
+
+c) Claims processing Steps: 
+
+i. 
+The claims assessor receives the re-priced/original bill, verifies and 
+ensures that coverage was in place for the dates of service and 
+treatment rendered. The bill received by the Assistance Company is 
+audited by the claims department to ensure the charges are in line and 
+as per the treatment protocol. The discount is re-confirmed and the bill 
+is processed. 
+
+ii. 
+The bill is then sent to Insurer for payment accompanied by re-pricing 
+notification sheet and explanation of benefits (EOB). 
+
+iii. Insurance company receives the bill and authorizes immediate payment 
+to Assistance Company.
+477 
+d) Payment process steps: 
+
+i. 
+Assistance Company receives authorization from Insurer to release 
+payment to the hospital via local office. 
+
+ii. 
+The finance department releases the payment 
+
+e) Hospitalization Procedures 
+
+i. 
+The system in overseas countries, especially US and Europe are quite 
+different from the hospitals in India since majority of population has 
+universal health coverage either through private insurance or through 
+government schemes. Most hospitals accept Guarantee of Payments from 
+all international insurance companies once the insured provides them 
+with a valid health or overseas travel insurance policy. 
+
+In most countries treatment is not delayed for want of confirmation of 
+insurance coverage or cash deposit. 
+
+Hospitals start the treatment immediately. If there is insurance cover the 
+insurance policy pays or the patient person has to pay. The hospitals tend to 
+inflate charges since payments are delayed. 
+
+If payment is immediate, hospitals tend to offer very high discounts for 
+immediate payment. Re-pricing agencies generally negotiate with hospitals 
+for discounts for early settlement of hospital bills. 
+
+ii. 
+Information regarding network hospitals and the procedures is available 
+to the insured on the toll free numbers provided by the assistance 
+companies. 
+
+iii. In event of the necessity of a hospitalization the insured needs to 
+intimate the same at the call centre and proceed to a specified hospital 
+with the valid travel insurance policy. 
+
+iv. Hospitals usually contact the assistance companies/insurers on the call 
+centre numbers to check the validity of the policy and verify coverage‟s. 
+
+v. 
+Once the policy is accepted by the hospital the insured would undergo 
+treatment in the hospital on a cashless basis. 
+
+vi. Some basic information required by the insurer/assistance provider to 
+determine admissibility are 
+
+1. Details of ailment 
+
+2. In case of any previous history ,details of hospital, local medical 
+officer in India:
+478 
+ Past history, current treatment and further planned course in 
+hospital and request for immediate sending of 
+ Claim form along with attending physicians statement 
+ Passport copy 
+ Release of medical information form 
+
+f) Reimbursement of medical expenses and other non-medical claims: 
+
+Reimbursement claims are normally filed by insured after they return to 
+India. Upon receipt of the claim papers, claim is processed as per usual 
+process. Payments for all admissible claims are made in Indian Rupee (INR), 
+unlike in cashless claims where payment is made in foreign currency. 
+
+While processing the reimbursement claims, currency conversion rate is 
+applied as on date of loss to arrive at quantum of liability in INR. Then the 
+payment is made though cheque or electronic transfer. 
+
+i. Personal accident claims are processed in similar fashion as explained in 
+personal accident claims section. 
+ii. Bail bond cases and financial emergency cases are paid upfront by 
+Assistance Company and later claimed from insurance company. 
+iii. Claims repudiation of untenable claims follows the same process as for 
+all other claims. 
+
+g) Claim documentation for Medical Accident and Sickness Expenses 
+
+i. Claim form 
+ii. Doctor‟s report 
+iii. Original Admission/discharge card 
+iv. Original Bills/Receipts/Prescription 
+v. Original X-ray reports/ Pathological/ Investigative reports 
+vi. Copy of passport/Visa with Entry and exit stamp 
+
+The above list is only indicative. Additional information/documents may be 
+required depending on specific case details or depending upon claim 
+settlement policy/procedure followed by particular insurer. 
+
+Test Yourself 5 
+
+________________ are paid upfront by Assistance Company and later claimed 
+from insurance company. 
+
+I. 
+Bail bond cases 
+II. Personal accident claims 
+III. Overseas travel insurance claims 
+IV. Untenable claims
+479 
+
+Summary 
+
+a) Insurance is a „promise‟ and the policy is a „witness‟ to that promise. The 
+occurrence of insured event leading to a claim under the policy is the true 
+test of that promise. 
+
+b) One of the key rating parameter in insurance is the claims paying ability of 
+the insurance company. 
+
+c) Customers, who buys insurance is the primary stakeholder as well as the 
+receiver of the claim. 
+
+d) In Cashless claim a network hospital provides the medical services based on 
+a pre-approval from the insurer / TPA and later submits the documents for 
+settlement of the claim. 
+
+e) In reimbursement claim, the customer pays the hospital from his own 
+resources and then files claim with Insurer / TPA for payment. 
+
+f) Claim intimation is the first instance of contact between the customer and 
+the claims team. 
+
+g) If a fraud is suspected by insurance company in case of insurance claim, it is 
+sent for investigation. Investigation of a claim could be done in-house by an 
+insurer/TPA or be entrusted to a professional investigation agency. 
+
+h) Reserving refers to the amount of provision made for all claims in the books 
+of the insurer based on the status of the claims. 
+
+i) In case of a denial, the customer has the option, apart from the 
+representation to the insurer, to approach the Insurance Ombudsman or the 
+consumer forums or even the legal authorities. 
+
+j) Frauds occur mostly in hospitalization indemnity policies but Personal 
+accident policies also are used to make fraud claims. 
+
+k) The TPA provides many important services to the insurer and gets 
+remunerated in the form of fees.
+480 
+Self-Examination Questions 
+
+Question 1 
+
+Who among the following is considered as primary stakeholder in insurance 
+claim process? 
+I. Customers 
+II. Owners 
+III. Underwriters 
+IV. Insurance agents/brokers 
+
+Question 2 
+
+Girish Saxena‟s insurance claim was denied by insurance company. In case of a 
+denial, what is the option available to Girish Saxena, apart from the 
+representation to the insurer? 
+
+I. To approach Government 
+II. To approach legal authorities 
+III. To approach insurance agent 
+IV. Nothing could be done in case of case denial 
+
+Question 3 
+
+During investigation, of a health insurance claim presented by Rajiv Mehto, 
+insurance company finds that instead of Rajiv Mehto, his brother Rajesh Mehto 
+had been admitted to hospital for treatment. The policy of Rajiv Mehto is not a 
+family floater plan. This is an example of ___________fraud. 
+
+I. Impersonation 
+II. Fabrication of documents 
+III. Exaggeration of expenses 
+IV. Outpatient treatment converted to in-patient / hospitalization 
+
+Question 4 
+
+Under which of the following condition, is domiciliary hospitalization is covered 
+in a health insurance policy? 
+
+I. The condition of the patient is such that he/she can be removed to the 
+Hospital/Nursing Home , but prefer not to 
+II. The patient cannot be removed to Hospital/Nursing Home for lack of 
+accommodation therein 
+III. The treatment can be carried out only in hospital/Nursing home 
+IV. Duration of hospitalization is exceeding 24 hours
+481 
+
+Question 5 
+
+Which of the following codes capture the procedures performed to treat the 
+illness? 
+
+I. ICD 
+II. DCI 
+III. CPT 
+IV. PCT 
+
+Answers to Self-Examination Questions 
+
+Answer 1 
+
+The correct option is I. 
+
+Customers are primary stakeholder in insurance claim process 
+
+Answer 2 
+
+The correct answer is II. 
+
+In case of insurance claim denial, individuals can approach legal authorities. 
+
+Answer 3 
+
+The correct option is I. 
+
+This is an example of impersonation, as the person insured is different from 
+person treated. 
+
+Answer 4 
+
+The correct answer is II. 
+
+Domiciliary treatment is provided in health insurance policy, only when the 
+patient 
+cannot 
+be 
+removed 
+to 
+Hospital/Nursing 
+Home 
+for 
+lack 
+of 
+accommodation therein 
+
+Answer 5 
+
+The correct option is III. 
+Current Procedure Terminology (CPT) codes capture the procedures performed 
+to treat the illness.

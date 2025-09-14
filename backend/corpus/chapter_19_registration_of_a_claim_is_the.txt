@@ -1,0 +1,987 @@
+Registration of a claim is the process of entering the claim in the system and 
+creating a reference number using which the claim can be traced any time. 
+This number is called Claim number, Claim reference number or Claim 
+control number. The claim number could be numeric or alpha-numeric based 
+on the system and processes used by the processing organization 
+
+Registration and generation of a reference no. is usually done once the 
+claim intimation is received and the correct policy number and insured 
+person‟s particulars are matched. 
+
+Once a claim is registered in the system, a reserve for the same would be 
+created simultaneously in the accounts of the insurer. At the time of 
+intimation/registration, the exact claim amount or estimate may not be 
+known. The initial reserve amount is therefore a standard reserve (mostly 
+based on historical average claim size). Once the estimate or expected 
+amount of liability is known, the reserve is revised upward/downward to 
+reflect the same. 
+
+c) Verification of documents 
+
+Once a claim is registered, the next step is to check for the receipt of all 
+the required documents for processing. 
+
+It must be appreciated that for a claim to be processed following are the 
+most important requirements:
+443 
+
+1. The documentary evidence of the illness 
+2. Treatment provided 
+3. In-patient duration 
+4. Investigation Reports 
+5. Payment made to the hospital 
+6. Further advice for treatment 
+7. Payment proofs for implants etc. 
+
+Verification of documents follows a checklist which the claim processor 
+checks out. Most of the companies ensure that such checklists are part of 
+the processing documentation. 
+
+The missing documentation is noted at this stage – while some processes 
+involve requesting for the documents not submitted by the customer / 
+hospital at this point, most of the companies first complete the scrutiny of 
+all the documents submitted before requesting for additional information so 
+that the customer is not inconvenienced. 
+
+d) Capturing the billing information 
+
+Billing is an important part of the claim processing cycle. Typical health 
+insurance policies provide for indemnifying expenses incurred in the 
+treatment with specific limits under various heads. The standard practice is 
+to classify the treatment charges into: 
+
+ Room, board and nursing expenses including registration and service 
+charges. 
+ Charges for ICU and any intensive care operations. 
+ Operation theatre charges, anaesthesia, blood, oxygen, operation 
+theatre charges, surgical appliances, medicines and drugs, diagnostic 
+materials and X-ray, dialysis, chemotherapy, radiotherapy, cost of 
+pacemaker, artificial limbs and any medical expenses incurred which is 
+integral part of the operation. 
+ Surgeon, anaesthetist, medical practitioner, consultant's, specialists 
+fees. 
+ Ambulance charges. 
+ Investigation charges covering blood test, X-ray, scans, etc. 
+ Medicines and drugs. 
+
+Documents submitted by the customer are examined to capture information 
+under these heads so that the settlement of claims can be done with 
+accuracy. 
+
+Though there are efforts being made to standardize the billing pattern of 
+hospitals, it is common for each hospital to use a different method for 
+billing and the challenges faced in this are: 
+
+ Room charges can include some non-payables such as service charges 
+or diet.
+444 
+ Single bill can include different headings or a lump-sum bill for all 
+investigations or all medicines. 
+ Non-standard names being used – e.g. nursing charges being called 
+service charges. 
+ Use of words like “similar charges”, “etc.”, “allied expenses” in the 
+bill. 
+
+Where the billing is not clear, the processor seeks the break up or additional 
+information, so that the doubts on the classification and admissibility are 
+resolved. 
+
+To address this issue, IRDAI issued Health Insurance Standardization 
+Guidelines which have standardized the format of such bills and the list of 
+non-payable items. 
+
+Package rates 
+
+Many hospitals have agreed package rates for treatment of certain diseases. 
+This is based on the ability of the hospital to standardize the treatment 
+procedure and use of resources. In recent times, for treatment at Preferred 
+Provider Network and also in case of RSBY, package cost of many procedures 
+has been pre-fixed. 
+
+Example 
+
+a) Cardiac packages: Angiogram, Angioplasty, CABG or Open heart surgery, etc. 
+
+b) Gynaecological 
+packages: 
+Normal 
+delivery, 
+Caesarean 
+delivery, 
+hysterectomy, etc. 
+
+c) Orthopaedic packages 
+
+d) Ophthalmological packages 
+
+Additional costs due to complications after surgery are charged separately 
+on actual basis if incurred over and above these. 
+
+Packages have the advantages of certainty of the cost involved and 
+standardization of the procedures and so such claims are easier to handle. 
+
+e) Coding of claims 
+
+The most important code set used is the World Health Organization (WHO) 
+developed International Classification of Diseases (ICD) codes. 
+
+While ICD is used to capture the disease in a standardized format, procedure 
+codes such as Current Procedure Terminology (CPT) codes capture the 
+procedures performed to treat the illness.
+445 
+Insurers are relying on the coding increasingly and Insurance Information 
+Bureau (IIB), which is part of Insurance Regulatory and Development 
+Authority (IRDAI), has started an information bank where such information 
+that can be analyzed. 
+
+f) Processing of claim 
+
+A reading of the health insurance policy shows that while it is a commercial 
+contract, it involves medical terms that define when a claim is payable and 
+to what extent. The heart of claims processing in any insurance policy, is in 
+answering two key questions: 
+
+ Is the claim payable under the policy? 
+ If yes, what is the net payable amount? 
+
+Each of these questions requires understanding of a number of terms and 
+conditions of the policy issued as well as the rates agreed with the hospital 
+in case treatment has taken place at a network hospital. 
+
+Admissibility of a claim 
+
+For a health claim to be admissible the following conditions must be 
+satisfied. 
+
+i. The member hospitalized must be covered under the insurance policy 
+
+While this looks simple, we come across situations where the names (and in 
+more cases, the age) of the person covered and person hospitalized do not 
+match. This could be because of: 
+
+It is important to ensure that the person covered under the policy and the 
+person hospitalized is the same. This kind of fraud is very common in health 
+insurance. 
+
+ii. Admission of the patient within the period of insurance 
+
+iii. Hospital definition 
+
+The hospital where the person was admitted should be as per the definition 
+of “hospital or nursing home” under the policy otherwise the claim is not 
+payable. 
+
+iv. Domiciliary hospitalization 
+
+Some policies cover domiciliary hospitalization i.e. treatment taken at home 
+in India for a period exceeding 3 days for an ailment which normally requires 
+treatment at hospital/nursing home.
+446 
+
+Domiciliary hospitalization, if covered in a policy, is payable only if: 
+
+ The condition of the patient is such that he/she cannot be removed 
+to the Hospital/Nursing Home or 
+
+ The patient cannot be removed to Hospital/Nursing Home for lack of 
+accommodation therein 
+
+v. Duration of hospitalization 
+
+Health insurance policies normally cover hospitalization exceeding 24 hours 
+as an in-patient. Therefore the date and time of admission as well as 
+discharge becomes important to note if this condition is satisfied. 
+
+Day-care treatments 
+
+Technological developments in the healthcare industry have led to 
+simplification of many procedures that earlier required complex and 
+prolonged hospitalization. There are a number of procedures carried out on 
+day care basis without need for hospitalization exceeding 24 hours. 
+
+Most of the day care procedures are on pre-agreed package rate basis, 
+resulting in certainty in costs. 
+
+vi. OPD 
+
+Some policies cover treatment/consultations taken as an out-patient also, 
+subject to a specific sum insured which is usually less than the 
+hospitalization sum insured. 
+
+The coverage under OPD varies from policy to policy. For such 
+reimbursements, the clause for 24 hours hospitalization is not applicable. 
+
+vii. Treatment procedure/line of treatment 
+
+Hospitalization is typically associated with Allopathic method of treatment. 
+However, the patient could undergo other modes of treatment such as: 
+
+ Unani 
+ Siddha 
+ Homeopathy 
+ Ayurveda 
+ Naturopathy etc. 
+
+Most policies exclude these treatments while some policies cover one or 
+more of these treatments with sub-limits.
+447 
+viii. Pre-existing illnesses 
+
+Definition 
+
+Pre-existing illnesses refer to “Any condition, ailment or injury or related 
+condition(s) for which insured person had signs or symptoms and/or was 
+diagnosed and/or received medical advice/treatment within 48 months prior to 
+his/her health policy with the company whether explicitly known to him or 
+not.” 
+
+The reason for excluding pre-existing illnesses is due to the fundamental 
+principles of insurance that a certainty cannot be covered under insurance. 
+
+However, application of this principle is quite difficult and involves a 
+systematic check of the symptoms and treatment to find out whether the 
+person had the condition at the time of insuring. As medical professionals 
+can differ in the opinions of duration of the illness, the opinion of when the 
+disease first showed up is carefully taken before applying this condition to 
+deny any claim. 
+
+In the evolution of health insurance, we come across two modifications to 
+this exclusion. 
+
+ The first is in the case of group insurance where the entire group of 
+people is insured, with no selection against the insurer. Group policies 
+covering, say all government employees, all families below poverty line, 
+all families of employees of a major corporate group, etc. are treated 
+favorably as compared to a single family opting to cover for the first 
+time. These policies often deleted the exception, with exception 
+adequate price built in. 
+
+ The second modification is that pre-existing illnesses are covered after 
+the a certain period of continuous coverage. This follows the principle 
+that even a condition is present in a person, if it does not show up for a 
+certain period of time, it cannot be treated as a certainty. 
+ix. Initial waiting period 
+
+A typical health insurance policy covers illnesses only after an initial 30 days 
+(except accident related hospitalization). 
+
+Similarly, there are lists of illnesses such as: 
+
+ Cataract, 
+ Benign Prostatic Hypertrophy, 
+ Hysterectomy, 
+ Fistula, 
+ Piles, 
+ Hernia, 
+ Hydrocele, 
+ Sinusitis, 
+ Knee / Hip Joint replacement 
+etc. 
+
+These are not covered for an initial period that could be one year or two 
+years or more depending on specific insurance company‟s product.
+448 
+
+The claim processor identifies if the illness is one of these and how long the 
+person has been covered to check if it falls within this admissibility 
+condition. 
+
+x. Exclusions 
+
+The policy lists out a set of exclusions which in general can be classified as: 
+
+ Benefits such as maternity (though this is covered in some policies). 
+ Outpatient and Dental treatments. 
+ Illnesses which are not intended to be covered such as HIV, Hormone 
+therapy, obesity treatment, fertility treatment, cosmetic surgeries, etc. 
+ Diseases caused by alcohol/drug abuse. 
+ Medical treatment outside India. 
+ High hazard activities, suicide attempt, radioactive contamination. 
+ Admission for tests/investigation purpose only. 
+
+In such a case it is extremely important for the claims handler to specifically 
+explain the circumstances so that the specialist opinion is exactly to the 
+point and will stand the scrutiny in a court of law, if challenged. 
+
+xi. Compliance with conditions with respect to the claims. 
+
+The insurance policy also defines certain actions to be taken by the Insured 
+in case of a claim, some of which are important for admissibility of the 
+claim. 
+
+In general, these relate to: 
+
+ Intimation of claim within certain period – we have seen the 
+importance of intimation earlier. The policy could stipulate a time 
+within which such intimation must reach the company. 
+
+ Submission of claim documents within a certain period. 
+
+ Not being involved in misrepresentation, misdescription or non-
+disclosure of material facts. 
+
+g) Arriving at the final claim payable 
+
+Once the claim is admissible, the next step is to decide the the amount of 
+claim payable. To compute this we need to understand the factors that 
+decide the claim amount payable. These factors are:
+449 
+
+i. Sum insured available for the member under the policy 
+
+There are policies issued with individual sum insured, some issued on floater 
+basis where the sum insured is available across the family or policies which 
+are on floater basis but with a limit per member. 
+
+ii. Balance sum insured available under the policy for the member after 
+taking into account any claim made already: 
+
+While calculating the balance of sum insured available after deducting 
+claims already paid, any later cashless authorization provided to the 
+hospitals will also have to be noted. 
+
+iii. Sub-Limits 
+
+Most policies specify room rent limitation, nursing charges etc. either as a 
+percentage of sum insured or as a limit per day. Similar limitation could be 
+in force for consultant fee, or ambulance charges, etc. 
+
+iv. Check for any limits specific to illness 
+
+The policy could specify a certain amount or capping for maternity cover or 
+for other diseases say, cardiac illness. 
+
+v. Check whether entitled or not to cumulative bonus 
+
+Verify whether the insured is entitled to any no-claim bonus (in case the 
+insured has not claimed from his policy in the previous year/s). No-claim 
+bonus often comes in the form of additional sum insured, which in fact 
+increases the sum insured of the patient/insured. Sometimes, the 
+cumulative bonus may also be wrongly stated as claims intimated towards 
+the end of the previous year may not have been taken into account. 
+
+vi. Other expenses covered with limitation: 
+
+There could be other limits e.g. if treatment is undertaken under Ayurvedic 
+system of medicine, usually the same has a much lower limit. Health check-
+up costs are only up to a certain limit after four years of the policy. Hospital 
+cash payment also has a per day limit. 
+
+vii. Co-payment 
+
+This is normally a flat percentage of the assessed claim before payment. The 
+co-pay could also be applicable only in select circumstances – only for 
+parent claims, only for maternity claims, only from second claim onwards or 
+even only on claims exceeding a certain amount. 
+
+Before the payable amount is adjusted to these limits, the claim amount 
+payable is computed net of deductions for non-payable items.
+450 
+Non-payable items in a health claim 
+
+The expenses incurred in treating an illness can be classified into: 
+
+ Expenses for cure and 
+ Expenses for care. 
+
+Expenses for curing an illness comprise of all the medical costs and the 
+normal related facilities. In addition, there could be costs incurred to make 
+the stay in a hospital more comfortable or even luxurious. 
+
+A typical health insurance policy attends to the expenses for curing an 
+illness and unless stated specifically, the extra expenses for luxury are not 
+payable. 
+
+These expenses can be classified into non-treatment charges such as 
+registration charge, documentation charges, etc. and to items that can be 
+considered if directly relating to the cure (e.g. protein supplement during 
+the inpatient period specifically prescribed). 
+
+Earlier every TPA/insurer had its own list of non-payable items, now the 
+same has been standardized under IRDAI Health Insurance Standardization 
+Guidelines. 
+
+The order of arriving at the final claim payable is as follows: 
+
+Table 2.1 
+
+Step I 
+List all the bills and receipts under the various heads of room rent, 
+consultant fee, etc. 
+Step II 
+Deduct the non-payable items from the amount claimed under each 
+head 
+Step III 
+Apply any limits applicable for each head of expense 
+Step IV 
+Arrive at the total payable amount and check if it is within sum 
+insured overall 
+Step V 
+Deduct any co-pay if applicable to arrive at the net claim payable 
+
+h) Payment of claim 
+
+Once the payable claim amount is arrived at, payment is done to the 
+customer or the hospital as the case may be. The approved claim amount is 
+advised to the Finance / Accounts function and the payment may be made 
+either by cheque or by transferring the claim money to the customer‟s bank 
+account.
+451 
+When the payment is made to the hospital, necessary tax deduction, if any 
+is made from the payment. 
+
+Where the payment is handled by the Third Party Administrator, the 
+payment process may vary from insurer to insurer. A more detailed insight 
+into working of TPAs is provided later on. 
+
+Payment updates in the system are crucial for handling customer inquiries. 
+Typically these details will be shared through the system with the call 
+centre / customer service team. 
+
+Once payment is made, the claim is treated as settled. Reports have to be 
+periodically sent to the company‟s management, intermediaries, customers 
+and IRDAI for number and amount of settled claims. The typical analysis of 
+settled claims includes the % settled, amount of non-payables as a 
+proportion, average time taken to settle claims, etc. 
+
+i) Management of deficiency of documents / additional information 
+required 
+
+Processing of a claim requires the scrutiny of a list of key documents. These 
+are: 
+
+ Discharge summary with admission notes, 
+ Supporting investigation reports, 
+ Final consolidated bill with break up into various parts, 
+ Prescriptions and pharmacy bills, 
+ Payment receipts, 
+ Claim form and 
+ Customer identification. 
+
+Experience shows that one out of four claims submitted has a suffer from 
+being incomplete in terms of the basic documents. It is therefore required 
+that the customer is advised of the documents not submitted and is given a 
+time limit within which he can attach them to his claim. 
+
+Similarly, it may happen that while a claim is being processed, additional 
+information may be required because: 
+
+i. The discharge summary provided is not in the correct format as 
+prescribed by IRDAI or does not capture some details of the diagnosis or 
+the history of the illness. 
+
+ii. Treatment given has not been described in enough detail or requires 
+clarification. 
+
+iii. The treatment is not in line with the diagnosis as per discharge summary 
+or medicines prescribed are not related to the illness for which 
+treatment was provided.
+452 
+
+iv. The bills provided do not have the required break up. 
+
+v. Mismatch of age of the person between two of the documents. 
+
+vi. Mismatch in date of admission / date of discharge between discharge 
+summary and the bill. 
+
+vii. The claim requires a more detailed scrutiny of the hospitalization and 
+for this, the hospital‟s indoor case papers are required. 
+
+In both the cases, the customer is informed in writing or through email 
+detailing the requirement of additional information. In most cases, the 
+customer will be able to provide the information required. However, there 
+are circumstances where the information required is too important to be 
+overlooked but the customer does not respond. In such cases, the customer 
+is sent reminders that the information is needed to process the claim and 
+after three such reminders, a claim closure notice is sent. 
+
+In all correspondence relating to a claim when it is in process, you will see 
+that the words “Without Prejudice” are mentioned on top of the letter. This 
+is a legal requirement to ensure that the right of the insurer to reject a 
+claim after these correspondences remains intact. 
+
+Example 
+
+The insurer may ask for indoor case papers to study the case in detail and may 
+come to a conclusion that the procedure / treatment does not fall within the 
+policy conditions. The act of asking for more information should not be treated 
+as an act that implies that the insurer has accepted the claim. 
+
+Managing shortfalls in documentation and explanation and additional 
+information required is a key challenge in claims management. While the 
+claim cannot be processed without all the required information, the 
+customer cannot be put to inconvenience by frequent requests for more and 
+more information. 
+
+Good practice requires that such request is raised once with a consolidated 
+list of all information that may be needed and no new requirement is raised 
+thereafter. 
+
+j) Denial claims 
+
+The experience in health claims show that 10% to 15% of the claims 
+submitted do not fall within the terms of the policy. This could be because 
+of a variety of reasons some of which are:
+453 
+i. 
+Date of admission is not within the period of insurance. 
+ii. The Member for whom the claim is made is not covered. 
+iii. Due to Pre-existing illness (where the policy excludes such condition). 
+iv. Undue delay in submission without valid reason. 
+v. No active treatment; admission is only for investigation purpose. 
+vi. Illness treated is excluded under the policy. 
+vii. The cause of illness is abuse of alcohol or drugs 
+viii. Hospitalization is less than 24 hours. 
+
+Denial or repudiation of a claim (due to whatever reason) has to be 
+informed to the customer in writing. Usually, such denial letter clearly 
+states the reason for denial, narrating the policy term / condition on which 
+the claim was denied. 
+
+Most insurers have a process by which a denial is authorized by a manager 
+senior to the one authorized to approve the claim. This is to ensure that any 
+denial is fully justified and will be explained in case the insured seeks any 
+legal remedy. 
+
+Apart from the representation to the insurer, the customer has the option, 
+to approach the following in case of denial of claim: 
+
+ Insurance Ombudsman or 
+ The consumer forums or 
+ IRDAI or 
+ Law courts. 
+
+In case of each denial the file is checked to assess if the denial will stand 
+the legal scrutiny in the normal course and the documents are stored in a 
+safe location, should a need to defend the decision arise. 
+
+k) Suspect claims for more detailed investigation 
+
+Insurers have been trying to handle the problem of fraud in all lines of 
+business. In terms of sheer number of fraud claims handled, health 
+insurance presents a great challenge to the insurers. 
+
+Few examples of frauds committed in health insurance are: 
+
+i. Impersonation, the person insured is different from person treated. 
+
+ii. Fabrication of documents to make a claim where there is no 
+hospitalization. 
+
+iii. Inflation of expenses, either with the help of the hospital or by addition 
+of external bills fraudulently created.
+454 
+iv. Outpatient treatment converted to in-patient / hospitalization to 
+cover cost of diagnosis, which could be high in some conditions. 
+
+With newer methods of frauds emerging on a daily basis, the insurers and 
+TPAs have to continuously monitor the situation on the ground and come up 
+with measures to find and control such frauds. 
+
+Claims are chosen for investigation based on two methods: 
+
+ Routine claims and 
+ Triggered claims 
+
+A TPA or an insurer may set an internal standard that a specific percentage 
+of the claims be physically verified; this percentage could be different for 
+cashless and reimbursement claims. 
+
+Under this method, claims are chosen using random sampling method. Some 
+insurers stipulate that all claims above a certain value be investigated and a 
+sampled set of claims which are below that limit are taken up for 
+verification. 
+
+In the second method, each claim goes through a set of checkpoints which if 
+not in line, trigger investigation such as 
+i. a high portion of the claim relating to medical tests or medicines 
+ii. customer too eager to settle 
+iii. bills with over-writing, etc. 
+
+If the claim is suspected to be not genuine, the claim is investigated, 
+however small it is. 
+
+n. Cashless settlement process by TPA 
+
+How does the cashless facility work? At the heart of this is an agreement 
+that the TPA insurer enters into, with the hospital. There are agreements 
+possible with other medical service providers as well. We shall look at the 
+process used for providing cashless facility in this section: 
+
+Table 3.1 
+
+Step 1 
+A customer covered under health insurance suffers from an illness or 
+sustains an injury and so is advised admission into a hospital. He/she 
+(or someone on his/her behalf) approaches the hospital‟s insurance 
+desk with the insurance details such as: 
+
+i. TPA name, 
+ii. His membership number, 
+iii. Insurer name, etc.
+455 
+Step 2 
+The hospital compiles the necessary information such as: 
+
+i. Illness diagnosis 
+ii. Treatment, 
+iii. Name of treating doctor, 
+iv. Number of days of proposed hospitalization and 
+v. The estimated cost 
+
+This is presented in a format, called the cashless authorization 
+form. 
+Step 3 
+The TPA studies the information provided in the cashless 
+authorization form. It checks the information with the policy terms 
+and the agreed tariff with the hospital, if any, and arrives at the 
+decision on whether the cashless authorization could be provided and 
+if so, for how much amount it should be authorized. 
+
+The TPA could ask for more information to arrive at the decision. 
+Once the decision is made, it is communicated to the hospital without 
+delay. 
+
+Both forms have now been standardized under IRDAI Health Insurance 
+Standardization Guidelines; refer to Annexure at the end). 
+Step 4 
+The patient is treated by the hospital, keeping the amount authorized 
+by the TPA as credit in the patient‟s account. The member may be 
+called on to make a deposit payment to cover the non-treatment 
+expenses and any co-pay required under the policy. 
+Step 5 
+When the patient is ready for discharge, the hospital checks the 
+amount of credit in the account of the patient approved by the TPA 
+against the actual treatment charges covered by insurance. 
+
+If the credit is less, the hospital requests for additional approval of 
+credit for the cashless treatment. 
+
+TPA analyses the same and approves the additional amount. 
+Step 6 
+Patient pays the non-admissible charges and gets discharged. He will 
+be asked to sign the claim form and the bill, to complete the 
+documentation.
+456 
+Step 7 
+Hospital consolidates all the documents and presents to the TPA the 
+following documents for processing of the bill: 
+
+i. 
+Claim form 
+ii. 
+Discharge summary / admission notes 
+iii. Patient / proposer identification card issued by the TPA and 
+photo ID proof. 
+iv. Final consolidated bill 
+v. 
+Detailed bill 
+vi. Investigation reports 
+vii. Prescription and pharmacy bills 
+viii. Approval letters sent by the TPA 
+Step 8 
+TPA will process the claim and recommend for payment to the 
+hospital after verifying details such as the following: 
+
+i. The Patient treated is the same person for whom approval was 
+provided. 
+ii. Treated the patient for the same condition that it requested the 
+approval for. 
+iii. Expenses for treatment of excluded illness, if any, is not part of 
+the bill. 
+iv. All limits that were communicated to the hospital have been 
+adhered to. 
+v. Tariff rates agreed with the hospital have been adhered to, 
+calculate the net payable amount. 
+
+The value of cashless facility is not in doubt. It is also important for the 
+customer to know how to make the best use of the facility. The points to note 
+are: 
+
+i. Customer must make sure that he/she has his/her insurance details with 
+him/her. This includes his: 
+
+ TPA card, 
+ Policy copy, 
+ Terms and conditions of cover etc. 
+
+When this is not available, he can contact the TPA (through a 24 hour 
+helpline) and seek the details. 
+
+ii. Customer must check if the hospital suggested by his/her consulting 
+doctor is in the network of the TPA. If not, he needs to check with the 
+TPA the options available where cashless facility for such treatment is 
+available. 
+
+iii. He/she needs to make sure that the correct details are entered into the 
+pre-authorization form. This form has been standardized by IRDAI as per
+457 
+Guidelines on Standardization in Health Insurance issued in 2013. If the 
+case is not clear, the TPA could deny the cashless facility or raise query. 
+
+iv. He/she needs to ensure that the hospital charges are consistent with the 
+limits such as room rent or caps on specified treatments such as 
+cataract. 
+
+In case he/she wants to spend more than what is allowed by the policy, it is 
+better to know, in advance, what would be his/her share of expenses. 
+
+v. The customer must inform the TPA in advance of the discharge and 
+request the hospital to send to the TPA any additional approval that may 
+be required before discharge. This will ensure the patient does not wait 
+unnecessarily at the hospital. 
+
+It is also possible that the customer requests and takes an approval for 
+cashless treatment at a hospital but decides to admit the patient elsewhere. 
+In such cases, the customer must inform and ask the hospital to 
+communicate to the TPA that the cashless approval is not being used. 
+
+If this is not done, the amount approved could get blocked in the customer‟s 
+policy and could prejudice the approval of the subsequent request.
+458 
+C. Documentation in health insurance claims 
+
+Health insurance claims require a range of documents for processing, as 
+explained earlier. Each document is expected to assist in answering the two key 
+questions – admissibility (Is it payable?) and extent of claim (how much?). 
+
+This section explains the need for and content of each of the documents 
+required to be submitted by the customers: 
+
+1. Discharge summary 
+
+Discharge summary can be termed as the most important document that is 
+required to process a health insurance claim. It details the complete 
+information about the condition of the patient and the line of treatment. 
+
+As per IRDAI Standardization Guidelines the contents of a standard Discharge 
+Summary are as follows: 
+
+1. Patient‟s Name 
+2. Telephone No / Mobile No 
+3. IPD No 
+4. Admission No 
+5. Treating Consultant/s Name, contact numbers and Department / 
+Specialty 
+6. Date of Admission with Time 
+7. Date of Discharge with Time 
+8. MLC No / FIR No 
+9. Provisional Diagnosis at the time of Admission 
+10. Final Diagnosis at the time of Discharge 
+11. ICD-10 code(s) or any other codes, as recommended by the 
+Authority, for Final diagnosis 
+12. Presenting Complaints with Duration and Reason for Admission 
+13. Summary of Presenting Illness 
+14. Key findings on physical examination at the time of admission 
+15. History of alcoholism, tobacco or substance abuse, if any 
+16. Significant Past Medical and Surgical History, if any 
+17. Family History if significant/relevant to diagnosis or treatment 
+18. Summary of key investigations during Hospitalization 
+19. Course in the Hospital including complications if any 
+20. Advice on Discharge 
+21. Name & Signature of treating Consultant/ Authorized Team 
+Doctor 
+22. Name & Signature of Patient / Attendant 
+
+A well written discharge summary helps the claim processing person immensely 
+to understand the illness / injury and the line of treatment, thereby speeding 
+up the process of settlement. Where the patient unfortunately does not survive, 
+the discharge summary is termed Death Summary in many hospitals.
+459 
+The discharge summary is always sought in original. 
+2. Investigation reports 
+
+Investigation reports assist in comparing the diagnosis and the treatment, 
+thereby providing the necessary information to understand the exact condition 
+that prompted the treatment and the progress made during the hospitalization. 
+
+Investigation reports usually consist of: 
+
+a) Blood test reports; 
+
+b) X-ray reports; 
+
+c) Scan reports and 
+
+d) Biopsy reports 
+
+All investigation reports carry the name, age, gender, date of test etc. and 
+typically presented in original. The insurer may return the X-ray and other films 
+to the customer on specific request. 
+
+3. Consolidated and detailed bills: 
+
+This is the document that decides what needs to be paid under the insurance 
+policy. Earlier there was no standard format for the bill, but IRDAI 
+Standardization Guidelines provide format for consolidated and detailed bills. 
+The student is advised to understand the details available on the IRDAI website. 
+
+While the consolidated bill presents the overall picture, the detailed bill will 
+provide the break up, with reference codes. 
+
+Scrutiny of non-payable expenses is done using the detailed bill, where the non-
+admissible expenses are rounded off and used for deduction under the expense 
+head to which it belongs. 
+
+The bills have to be received in original. 
+
+4. Receipt for payment 
+
+Being a contract of indemnity, the reimbursement of a health insurance claim 
+will also require the formal receipt from the hospital of the amount paid. 
+
+While the amount paid must correspond to the total of the bill, many hospitals 
+do provide an element of concession or discount in the payable amount. In such 
+a case, the insurer is called to pay only the amount actually paid on behalf of 
+the patient. 
+
+The receipt should be numbered and or stamped and be presented in original.
+460 
+5. Claim form 
+
+Claim form is the formal and legal request for processing the claim and is 
+submitted in original signed by the customer. The claim form has now been 
+standardized by IRDAI and broadly consists of: 
+
+a) Details of the primary insured and the policy number under which the 
+claim is made. 
+b) Details of the insurance history 
+
+c) Details of the insured person hospitalized. 
+
+d) Details of the hospitalization such as hospital, room category, date and 
+time of admission and discharge, whether reported to police in case of 
+accident, system of medicine etc. 
+
+e) Details of the claim for which the hospitalization was done including 
+breakdown of the costs, pre and post-hospitalization period, details of 
+lump-sum/cash benefit claimed etc. 
+
+f) Details of bills enclosed 
+
+g) Details of bank account of primary insured for remittance of sanctioned 
+claim 
+
+h) Declaration from the insured. 
+
+Besides information on disease, treatment etc., the declaration from the 
+insured person makes the claim form the most important document in the legal 
+sense. 
+
+It is this declaration which applies the “doctrine of utmost good faith” into the 
+claim, breach of which attracts the misrepresentation clause under the policy. 
+
+6. Identity proof 
+
+With the increasing use of identity proof across various activities in our life, the 
+general proof of identity serves an important purpose – that of verifying 
+whether the person covered and the person treated are one and the same. 
+
+Usually identification document which is sought could be: 
+
+a) Voters identity card, 
+
+b) Driving license, 
+
+c) PAN card, 
+
+d) Aadhaar card etc.
+461 
+Insistence on identity proof has resulted in a significant reduction of 
+impersonation cases in cashless claims as the identity proof is sought before 
+hospitalization, making it a duty of the hospital to verify and present the same 
+to the insurer or the TPA. 
+
+In reimbursement claims, the identity proof serves a lesser purpose. 
+
+7. Documents contingent to specific claims 
+
+There are certain types of claims that require additional documents apart from 
+what has been stated above. These are: 
+
+a) Accident claims, where FIR or Medico-legal certificate issued by the 
+hospital to the registered police station, may be required. It states the 
+cause of accident and if the person was under the influence of alcohol, 
+in case of traffic accidents. 
+
+b) Case indoor papers in case of complicated or high value claims. Indoor 
+case paper or case sheet is a document which is maintained at the 
+hospital end, detailing all treatment given to patient on day to day basis 
+for entire duration of hospitalization. 
+
+c) Dialysis / Chemotherapy / Physiotherapy charts where applicable. 
+
+d) Hospital registration certificate, where the compliance with the 
+definition of hospital needs to be checked. 
+
+The claims team uses certain internal document formats for processing a claim. 
+These are: 
+
+i. Checklists for document verification, 
+
+ii. Scrutiny/ settlement sheet, 
+
+iii. Quality checks / control format. 
+
+Though these formats are not uniform across the insurers, let us study the 
+purpose of the documents with a specimen of the usual contents.
+462 
+Table 2.2 
+
+1. 
+Document 
+verification 
+sheet 
+It is the simplest of all, a check mark placed on the 
+list of documents received to note that these have 
+been submitted by the customer. Some insurers may 
+provide a copy of this as an acknowledgement to the 
+customer. 
+2. Scrutiny/process 
+sheet 
+It is usually a single sheet where the entire processing 
+notes are captured. 
+
+a) Name of the customer and id number 
+b) Claim number, date of receipt of the claim papers 
+c) Policy overview, Section 64VB compliance 
+d) Sum insured and utilization of sum insured 
+e) Date of hospitalization and discharge 
+f) Diagnosis and treatment 
+g) Claim admissibility / processing comments with 
+reason thereof 
+h) Computation of claim amount 
+i) Movement of the claim with dates and names of 
+people who processed 
+3. Quality checks / 
+control format 
+Final check or quality control format for checking of 
+claim by person other than claim handler 
+
+Besides check list and claim scrutiny questionnaire, 
+the quality control/audit format shall also include 
+information relating to: 
+
+a) Settlement of claim, 
+b) Rejection of claim or 
+c) Requesting for additional information. 
+
+Test Yourself 2 
+
+Which of the following document is maintained at the hospital detailing all 
+treatment done to an in-patient? 
+
+I. Investigation report 
+II. Settlement sheet 
+III. Case paper 
+IV. Hospital registration certificate
+463 
+D. Claims reserving 
+
+1. Reserving 
+
+This refers to the amount of provision made for all claims in the books of the 
+insurer based on the status of the claims. While this looks very simple, the 
+process of reserving requires enormous care – any mistake in reserving affects 
+the insurer‟s profits and solvency margin calculation.

@@ -1,0 +1,983 @@
+If an individual has to take health insurance coverage quickly without going 
+through a long process of medical examinations, waiting periods and processing 
+delays, then he can opt for a non-medical underwriting policy. In a non-medical 
+underwriting policy, premium rates and sum assured are usually decided on the 
+basis of answers to a few health questions mostly based on age, gender, 
+smoking class, build etc. The process is speedy but the premiums may be 
+relatively higher.
+418 
+3. Numerical rating method 
+
+This is a process adopted in underwriting, wherein numerical or percentage 
+assessments are made on each component of the risk. 
+
+Factors like age, sex, race, occupation, residence, environment, build, habits, 
+family and personal history are examined and scored numerically based on pre-
+determined criteria. 
+
+4. Underwriting decisions 
+
+The underwriting process is completed when the received information is 
+carefully assessed and classified into appropriate risk categories. Based on the 
+above tools and his judgment, the underwriter classifies the risk into the 
+following categories: 
+
+a) Accept risk at standard rates 
+b) Accept risk at an extra premium (loading), though it may not be 
+practiced in all companies 
+c) Postpone the cover for a stipulated period/term 
+d) Decline the cover 
+e) Counter offer (either restrict or deny part of the cover) 
+f) Impose a higher deductible or Co-pay 
+g) Levy permanent exclusion(s) under the policy 
+
+If any illness is permanently excluded, it is endorsed on the policy certificate. 
+This becomes an additional exclusion apart from the standard policy exclusion 
+and shall form the part of the contract. 
+
+Expert individual risk assessment by underwriters is vital to insurance companies 
+as it keeps the insurance system in balance. Underwriting enables insurers to 
+group together those with the same level of expected risk and to charge them 
+the same premium for the protection they choose. The benefit for the 
+policyholder is availability of insurance at a fair and competitive price whereas 
+the benefit for an insurer is the ability to maintain the experience of its 
+portfolio in line with the morbidity assumptions. 
+
+5. Use of general or standard exclusions 
+
+The majority of policies impose exclusions that apply to all their members. 
+These are known as standard exclusions or sometimes referred to as general 
+exclusions. Insurers limit their exposure by the implementation of standard 
+exclusions. 
+
+The same have been discussed in earlier chapter.
+419 
+Test Yourself 4 
+
+Which of the following statements about medical underwriting is incorrect? 
+
+I. It involves high cost in collecting and assessing medical reports. 
+II. Current health status and age are the key factors in medical underwriting 
+for health insurance. 
+III. Proposers have to undergo medical and pathological investigations to assess 
+their health risk profile. 
+IV. Percentage assessment is made on each component of the risk. 
+
+V. 
+
+Diagram 1: Underwriting process
+420 
+
+G. Group health insurance 
+
+1. Group health insurance 
+
+Group insurance is underwritten mainly on the law of averages, implying that 
+when all members of a standard group are covered under a group health 
+insurance policy, the individuals constituting the group cannot anti-select 
+against the insurer. Thus, while accepting a group for health insurance, the 
+insurers take into consideration the possibility of existence of a few members in 
+the group who may have severe and frequent health problems. 
+
+Underwriting of group health insurance requires analyzing the characteristics of 
+the group to evaluate whether it falls within the insurance company‟s 
+underwriting guidelines as well as the guidelines laid down for group insurance 
+by the insurance regulators. 
+
+Standard underwriting process for group health insurance requires evaluating 
+the proposed group on the following factors: 
+
+a) Type of group 
+
+b) Group size 
+
+c) Type of industry 
+
+d) Eligible persons for coverage 
+
+e) Whether entire group is being covered or there is an option for members 
+to opt out 
+
+f) Level of coverage – whether uniform for all or differently 
+
+g) Composition of the group in terms of sex, age, single or multiple 
+locations, income levels of group members, employee turnover rate, 
+whether premium paid entirely by the group holder or members are 
+required to participate in premium payment 
+
+h) Difference in healthcare costs across regions in case of multiple locations 
+spread in different geographical locations 
+
+i) Preference of the group holder for administration of the group insurance 
+by a third party administrator (of his choice or one selected by the 
+insurer) or by the insurer itself 
+
+j) Past claims experience of the proposed group
+421 
+Example 
+
+A group of members working in mines or factories is at higher health risk than a 
+group of members working in air-conditioned offices. Also the nature of diseases 
+(thereby claims) are also likely to be quite different for both groups. 
+Therefore, the insurer will price the group health insurance policy accordingly 
+in both the cases. 
+
+Similarly to avoid adverse selection in case of groups with high turnover such as 
+IT companies, insurers can introduce precautionary criteria requiring employees 
+to serve their probationary period before becoming eligible for insurance. 
+
+Due to highly competitive nature of group health insurance business, insurers 
+allow substantial flexibility and customization in benefits of the group insurance 
+plans. In employer-employee group insurance plans, the benefits design is 
+usually developed over time and used as an employee retention tool by the 
+human resources department of the employer. Often, the flexibility is the result 
+of competition among insurers to match or improve the benefits of the existing 
+group insurance plan given by another insurer to capture and shift business. 
+
+2. Underwriting other than employer- employee groups 
+
+Employer-employee groups are traditionally the most common groups offered 
+group health insurance. However, as health insurance gains acceptance as an 
+effective vehicle of financing healthcare expenditure, different types of group 
+formations have now developed. In such a scenario, it is important for group 
+health insurance underwriters to take into consideration the character of the 
+group composition while underwriting the group. 
+
+In addition to employee-employer groups, insurers have provided group health 
+insurance coverage to varied type of groups such as: labour unions, trusts and 
+societies, 
+multiple-employer 
+groups, 
+franchisee 
+dealers, 
+professional 
+associations, clubs and other brotherhood organizations. 
+
+Governments in different countries have been buyers of group health insurance 
+coverage for poorer sections of the society. In India, governments both at the 
+central and state level have aggressively been sponsoring group health 
+insurance schemes for the poor e.g. RSBY, Yeshaswini etc. 
+
+Though basic underwriting considerations for such diverse groups are similar to 
+generally accepted group underwriting factors, additional aspects include: 
+
+a) Size of the group (small group size may suffer from frequent changes) 
+b) Different levels of healthcare cost in different geographical regions 
+c) Risk of adverse selection in case all group constituents do not participate 
+in the group health insurance plan 
+d) Continuation of members in the group in the policy 
+There has been a growth in irregular types of group formations just to take 
+advantage of such group health insurance benefits at cheap prices, called
+422 
+„groups of convenience‟. The insurance regulator IRDA has therefore issued 
+group insurance guidelines with a view to regulate the approach to be adopted 
+by insurers in dealing with various groups. Such non-employer groups include: 
+
+a) Employer welfare associations 
+b) Holders of credit cards issued by a specific company 
+c) Customers of a particular business where insurance is offered as an add-
+on benefit 
+d) Borrowers of a bank and professional associations or societies 
+
+The rationale of the group insurance guidelines is to restrict formation of groups 
+for the sole purpose of availing insurance with advantage of flexible design, 
+coverage of benefits not available on individual policies and cost savings. It has 
+been observed that such „groups of convenience‟ have often led to adverse 
+selection against the insurers and eventually high claim ratios. Group insurance 
+guidelines by the regulatory authority, thus, help in responsible market conduct 
+by the insurers. They instill discipline in underwriting by insurance companies 
+and also in canvassing group insurance schemes by setting up administration 
+standards for group schemes.
+423 
+H. Underwriting of Overseas Travel Insurance 
+
+Since the main cover under Overseas Travel Insurance policies is the health 
+cover, the underwriting would follow the pattern for health insurance in 
+general. 
+
+The premium rating and acceptance would as per individual company guidelines 
+but a few important considerations are given below: 
+
+1. Premium rate would depend on the age of the proposer and the duration 
+of foreign travel. 
+
+2. As medical treatment is costly overseas, the premium rates are normally 
+much higher compared to domestic health insurance policies. 
+
+3. Even among the foreign countries, USA and Canada premium is the 
+highest. 
+
+4. Care should be taken to rule out the possibility of a proposer using the 
+policy to take medical treatment abroad and hence the existence of any 
+pre-existing disease must be carefully considered at the proposal stage.
+424 
+I. Underwriting of Personal Accident Insurance 
+
+The underwriting considerations for personal accident policies are discussed 
+below: 
+
+Rating 
+
+In personal accident insurance, the main factor considered is the occupation of 
+the insured. Generally speaking exposure to personal accidents at home, on the 
+street etc. is the same for all persons. But the risks associated with profession 
+or occupation varies in accordance with the nature of work performed. For 
+example, an office manager is less exposed to risk at work than a civil engineer 
+working at a site where a building is being constructed. 
+
+It is not practical, to fix a rate for each profession or occupation. Hence, 
+occupations are classified into groups, each group reflecting, more or less, 
+similar risk exposure. The following system of classification is simple and found 
+to be feasible in practice. Individual companies may have their own basis of 
+classification. 
+
+Classification of Risk 
+
+On the basis of occupation, the risks associated with the insured person may be 
+classified into three groups: 
+
+ 
+Risk group I 
+Accountants, Doctors, Lawyers, Architects, Consulting Engineers, 
+Teachers, Bankers, persons engaged in administration functions, persons 
+primarily engaged in occupations of similar hazards. 
+
+ 
+Risk group II 
+Builders, Contractors and Engineers engaged in superintending functions 
+only, Veterinary Doctors, paid drivers of motor cars and light motor 
+vehicles and persons engaged in occupation of similar hazards. 
+All persons engaged in manual labour (except those falling under Group 
+III), cash carrying employees, garage and motor Mechanics, Machine 
+operators, Drivers of trucks or lorries and other heavy vehicles, 
+professional athletes and sportsmen, woodworking Machinists and 
+persons engaged in occupations of similar hazards. 
+
+ 
+Risk group III 
+Persons working in underground mines, explosives magazines, workers 
+involved in electrical installation with high tension supply, Jockeys, 
+circus personnel, persons engaged in activities like racing on wheels or 
+horseback, big game hunting, mountaineering, winter sports, skiing, ice 
+hockey, ballooning, hang gliding, river rafting, polo and persons engaged 
+in occupations / activities of similar hazard.
+425 
+Risk groups are also known in the form of „Normal‟, „Medium‟ and „High‟ 
+respectively. 
+
+Age Limits 
+
+The minimum and maximum age for being covered and renewed varies from 
+company to company. Generally a band of 5 years to 70 years is the norm. 
+However, in case of persons who already have a cover, policies may be renewed 
+after they complete 70 years but up to the age of 80 subject to a loading of the 
+renewal premium. 
+
+No medical examination is usually required for renewal or fresh cover. 
+
+Medical Expenses 
+
+The medical expenses cover is as follows: 
+
+ 
+A personal accident policy can be extended by endorsement, on payment 
+of extra premium to cover medical expenses incurred by the insured in 
+connection with the accidental bodily injury. 
+
+ 
+These benefits are in addition to the other benefits under the policies. 
+
+ 
+It is not necessary that person has to be hospitalised. 
+
+War and Allied Risks 
+
+War risk cover may be covered to Indian personnel / experts working in foreign 
+countries on civilian duties with additional premium. 
+
+ 
+P.A. policies issued during peace time or normal period would be at say 
+50 percent extra over the normal rate (i.e. 150 percent of the normal 
+rate.) 
+
+ 
+P.A. policies issued during abnormal/ apprehensive period (i.e. during 
+the period when warlike conditions have already occurred or are 
+imminent in foreign country/i.e. where the Indian personnel are working 
+on civilian duties) at say 150 percent extra over the normal rate (i.e. 250 
+percent of the normal rate) 
+
+The Proposal Form 
+
+The form elicits information on the following: 
+
+ 
+Personal details 
+ 
+Physical condition 
+ 
+Habits and pastimes 
+ 
+Other or previous insurances 
+ 
+Previous accidents or illness
+426 
+ 
+Selection of benefits and sum insured 
+ 
+Declaration 
+
+The above required details can be explained as follows: 
+
+ 
+Personal details relate to, inter alia, age, height and weight, full 
+description of occupation and average monthly income. 
+
+ 
+Age will show whether the proposer is within the limits of age for 
+entrants for the policy desired. Weight and height should be compared 
+with a table of average weight for sex, height and age and further 
+investigation would be made if the proposer is say 15 percent or more 
+over or under the average. 
+
+ 
+Physical condition details relate to any physical infirmity or defect, 
+chronic diseases etc. 
+
+ 
+Proposers who have lost a limb or the sight of an eye may only be 
+accepted on special terms in approved cases. They constitute abnormal 
+risks because they are “less able to avoid certain types of accidents and 
+in view of the fact that if the remaining arm or leg is injured or the sight 
+or the remaining eye is affected, the degree and length of disablement is 
+likely to be much greater than normal. 
+
+ 
+Diabetes may retard recovery as the wound may not heal quickly and the 
+disablement may be unduly prolonged. The medical history of the 
+proposer must be examined in order to determine whether and to what 
+extent injuries or illnesses may affect the future accident risks. There 
+are many complaints of such an obviously serious nature as to make the 
+risk uninsurable, e.g. valvular disease of the heart. 
+
+ 
+Hazardous pastimes like mountaineering, polo, motor racing, acrobatics 
+etc., require extra premium. 
+
+Sum Insured 
+
+The sum insured in a personal accident policy has to be fixed with caution, as 
+they are benefit policies and not subject to strict indemnity. Care should be 
+taken to consider income derived through „gainful employment‟. In other words, 
+income which will not be affected by accident to the proposer should not be 
+considered while determining the sum insured. 
+
+As practices of fixing the S.I varies among insures/underwriters, the exact 
+amount for which the cover could be granted depends on the underwriters. 
+However the general practice that the cover granted should not exceed the 
+equivalent of 72 months / 6 years‟ earning of the insured.
+427 
+This restriction is not strictly applied if the policy is for capital benefits only. 
+For temporary total disablement cover however it should not happen that in the 
+event of compensation payable, the same is disproportionate to his earnings 
+during the same period. If the cover is for weekly compensation for TTD, the 
+sum insured usually does not exceed twice his/her annual income. 
+
+While giving cover to persons who are not gainfully employed e.g. housewives, 
+students etc. the insurers make sure that they provide for capital benefits only 
+and that no weekly compensation is provided for. 
+
+Family Package Cover 
+
+For children and non-earning spouse the cover is limited to death and 
+permanent disablement (total or partial). However, based on individual 
+company‟s norms the Table of Benefits may be considered. Some Companies 
+allow TTD cover to non-earning spouse also up to a particular limit. 
+
+A discount of 5 percent is usually granted on the gross premium. 
+
+Group Policies 
+
+A group discount is allowed off the premium, if the number of insured person 
+exceeds a certain number say 100. Group policy however may be issued when 
+number is smaller, say 25 but without any discount. 
+
+Normally, policies on unnamed basis are issued only to very valued clients, 
+where the identity of the member is clearly ascertainable beyond doubt. 
+
+Group discount criteria 
+
+Group policies should be issued only in respect of the named groups. For the 
+purpose of availing of group discount and other benefits, the proposed “Group” 
+should fall clearly under any one of the following categories: 
+
+ 
+Employer – employee relationship including dependents of the 
+employee 
+ 
+Pre identified segments / groups where the premium is to be paid by 
+the State / Central Governments 
+ 
+Members of a registered co-operative society 
+ 
+Members of registered service clubs 
+ 
+Holders of credit card of banks / Diners / Master / Visa 
+ 
+Holders of deposit certificates issued by banks / NBFC‟s 
+ 
+Shareholders of banks / public limited companies 
+
+In case of proposals relating to any further category different from the above 
+categories, they may be deliberated and decided upon by the technical 
+department of the respective insurers.
+428 
+No group discount can be offered on the „anticipated‟ group size. Group 
+discount is to be considered and worked out only on the actual number of 
+members registered in the „Group‟ at the time of taking out the policy. It can 
+be reviewed at renewals. 
+Sum insured 
+
+The sum insured may be fixed for specific amounts separately for each insured 
+person or it may be linked to emoluments payable to the insured persons. 
+
+The principle of „All or None‟ applies in a group insurance. Additions and 
+deletions are made thereto with pro rata additional premium or refund. 
+
+Premium 
+
+Varying rates of premium are applicable to named employees as per the 
+classification of risks and the benefits selected. Thus rates will vary according 
+to the occupation of persons covered. 
+
+Example 
+
+The same rate will apply to well defined groups of employee all of whom, 
+broadly speaking follow the same type of occupation. 
+
+In respect of unnamed employees the employer is required to declare the 
+number of employees in each classification based on authentic records 
+maintained by him. 
+
+Premium rates for named member of an association, clubs etc. apply according 
+to the classification of risk. 
+
+When the membership is of a general nature and not restricted to any particular 
+occupation, underwriters use their discretion in applying the rates. 
+
+On-duty covers 
+
+The cover provided during the on-duty hours is as follows: 
+
+ 
+If P.A cover is required only for the restricted hours of duty (and not for 
+24 hours a day), a reduced premium say 75 percent of the appropriate 
+premium is charged. 
+
+ 
+The cover applies to accident to the employees arising out of and in the 
+course of employment only. 
+
+Off-duty covers 
+
+If cover is required only for the restricted hours, when the employee is not at 
+work and/or not on official duty, the reduced premium of say 50 percent of the 
+appropriate premium may be charged.
+429 
+Exclusion of death cover 
+
+It is possible to issue group P.A. policies excluding the death benefit, subject to 
+individual company guidelines. 
+
+Group discount and Bonus/Malus 
+
+Since a large number of persons are covered under one policy, there is less 
+administrative work and expense. Besides, usually all members of the group will 
+be insured and there will be no adverse selection against the insurers. Hence, a 
+discount in premium is allowed, according to a scale. 
+
+Rating under renewal of group policies is determined with reference to the 
+claims experience. 
+
+ 
+Favourable experience is rewarded with a discount in the renewal 
+premium (bonus) 
+
+ 
+Adverse experience is penalised by loading of renewal premium (malus), 
+according to a scale 
+
+ 
+Normal rates will apply for renewal if the claims experience is, say, 70 
+percent 
+
+Proposal form 
+
+ 
+It is customary to dispense the forms for completion by the members and 
+to have one document only, completed by the insured. 
+
+ 
+He is required to make a declaration that no member suffers from a 
+physical infirmity or defect that would render his participation 
+unacceptable. 
+
+ 
+Sometimes even this precaution is waived, it being understood and/or 
+made clear by endorsement that disability prior to the commencement 
+of cover and also any cumulative effect as a result of such disability 
+stand excluded. 
+
+However the practice may vary among the companies.
+430 
+Test Yourself 5 
+
+1) In a group health insurance, any of the individual constituting the group 
+could anti-select against the insurer. 
+2) Group health insurance provides coverage only to employer-employee 
+groups. 
+
+I. Statement 1 is true and statement 2 is false 
+II. Statement 2 is true and statement 1 is false 
+III. Statement 1 and statement 2 are true 
+IV. Statement 1 and statement 2 are false 
+
+Information 
+
+As part of the risk management process, the underwriter uses two methods of 
+transferring his risks especially in case of large group policies: 
+
+Coinsurance: This refers to the acceptance of a risk by more than one insurer. 
+Normally, this is done by way of allocating a percentage of the risk to each 
+insurer. Thus the policy may be accepted by two insurers say, Insurer A with a 
+60% share and Insurer B with a 40% share. Normally, insurer A would be the lead 
+insurer handling all matters relating to the policy, including issuance of the 
+policy and settlement of claims. Insurer B would reimburse insurer A for 40% of 
+the claims paid. 
+
+Reinsurance: The insurer accepts risks of various types and sizes. How can he 
+protect his various risks? He does this by re-insuring his risks with other 
+insurance companies and this is called reinsurance. Reinsurers therefore accept 
+risks of insurers either by way of standing arrangements called treaties or on a 
+case to case basis called facultative reinsurance. Reinsurance is done word-wide 
+and hence it spreads risk far and wide.
+431 
+Summary 
+
+a) Health insurance is based on the concept of morbidity which is defined as 
+the risk of a person falling ill or sick. 
+
+b) Underwriting is the process of risk selection and risk pricing. 
+
+c) Underwriting is required to strike a proper balance between risk and 
+business thereby maintaining the competitiveness and yet profitability for 
+the organisation. 
+
+d) Some of the factors which affect a person‟s morbidity are age, gender, 
+habits, occupation, build, family history, past illness or surgery, current 
+health status and place of residence. 
+
+e) The purpose of underwriting to prevent adverse selection against the insurer 
+and also ensure proper classification and equity among risks. 
+
+f) The agent is the first level underwriter as he is in the best position to know 
+the prospective client to be insured. 
+
+g) The core principles of insurance are: utmost good faith, insurable interest, 
+indemnity, contribution, subrogation and proximate cause. 
+
+h) The key tools for underwriting are: proposal form, age proof, financial 
+documents, medical reports and sales reports. 
+
+i) Medical underwriting is a process which is used by the insurance companies 
+to determine the health status of an individual applying for health insurance 
+policy. 
+
+j) Non-medical underwriting is a process where the proposer is not required to 
+undergo any medical examination. 
+
+k) Numerical rating method is a process adopted in underwriting, wherein 
+numerical or percentage assessments are made on each aspect of the risk. 
+
+l) The underwriting process is completed when the received information is 
+carefully assessed and classified into appropriate risk categories. 
+
+m) Group insurance is mainly underwritten based on the law of averages, 
+implying that when all members of a standard group are covered under a 
+group health insurance policy, the individuals constituting the group cannot 
+anti-select against the insurer.
+432 
+Answers to Test Yourself 
+
+Answer 1 
+
+The correct option is III. 
+
+Underwriting is the process of risk selection and risk pricing. 
+
+Answer 2 
+
+The correct option is III. 
+
+The principle of utmost good faith in underwriting has to be followed by both 
+the insurer and the insured. 
+
+Answer 3 
+
+The correct option is I. 
+
+Insurable interest refers to the pecuniary or the financial interest of a person in 
+the asset he is going to get insured and can suffer financial loss in the event of 
+any damage to such asset. 
+
+Answer 4 
+
+The correct option is IV. 
+
+Percentage and numerical assessment is made on each component of the risk in 
+numerical rating method, and not medical underwriting method. 
+
+Answer 5 
+
+The correct option is IV. 
+
+In a group health insurance, when all members of a group are covered under a 
+group health insurance policy, the individuals constituting the group cannot 
+anti-select against the insurer. 
+
+In addition to employee-employer groups, insurers have provided group health 
+insurance coverage to varied type of groups such as: labour unions, trusts and 
+societies, professional associations, clubs and other fraternal organisations.
+433 
+
+Self-Examination Questions 
+
+Question 1 
+
+Which of the following factor does not affect the morbidity of an individual? 
+
+I. Gender 
+II. Spouse job 
+III. Habits 
+IV. Residence location 
+
+Question 2 
+
+According to the principle of indemnity, the insured is paid for __________. 
+
+I. The actual losses to the extent of the sum insured 
+II. The sum insured irrespective of the amount actually spent 
+III. A fixed amount agreed between both the parties 
+IV. The actual losses irrespective of the sum assured 
+
+Question 3 
+
+The first and the primary source of information about an applicant, for the 
+underwriter is his ________________. 
+
+I. Age proof documents 
+II. Financial documents 
+III. Previous medical records 
+IV. Proposal form 
+
+Question 4 
+
+The underwriting process is completed when ___________________. 
+
+I. All the critical information related to the health and personal details of the 
+proposer are collected through the proposal form 
+II. All the medical examinations and tests of the proposer are completed 
+III. The received information is carefully assessed and classified into 
+appropriate risk categories 
+IV. The policy is issued to the proposer after risk selection and pricing.
+434 
+Question 5 
+
+Which of the following statements about the numerical rating method is 
+incorrect? 
+
+I. Numerical rating method provides greater speed in the handling of a large 
+business with the help of trained personnel. 
+II. Analysis of difficult or doubtful cases is not possible on the basis of 
+numerical points without medical referees or experts. 
+III. This method can be used by persons without any specific knowledge of 
+medical science. 
+IV. It ensures consistency between the decisions of different underwriters. 
+
+Answers to Self-Examination Questions 
+
+Answer 1 
+
+The correct option is II. 
+
+The morbidity of an individual is not affected by their spouse‟s job, though their 
+own occupation is one of the important factors which can affect their 
+morbidity. 
+
+Answer 2 
+
+The correct option is I. 
+
+According to the principle of indemnity, insured is compensated for the actual 
+costs or losses, but to the extent of the sum insured. 
+
+Answer 3 
+
+The correct option is IV. 
+
+The primary source of information about an applicant, for the underwriter is his 
+proposal form or application form, in which all the critical information related 
+to the health and personal details of the proposer are collected. 
+
+Answer 4 
+
+The correct option is III. 
+
+The underwriting process is completed when the received information is 
+carefully assessed and classified into appropriate risk categories.
+435 
+
+Answer 5 
+
+The correct answer is II. 
+
+A more careful analysis of difficult or doubtful cases is made possible by 
+numerical rating method because past experience with reference to the 
+doubtful points is expressed numerically in terms of a known standard and 
+shadings.
+436 
+CHAPTER 21 
+
+HEALTH INSURANCE CLAIMS 
+Chapter Introduction 
+
+In this chapter we will discuss about claim management process in health 
+insurance, documentation required and the process of claim reserving. Apart 
+from this we will also look into claims management under personal accident 
+insurance and understand the role of TPAs. 
+
+Learning Outcomes 
+
+A. Claims management in insurance 
+B. Management of health insurance claims 
+C. Documentation in health insurance claims 
+D. Claims reserving 
+E. Role of third party administrators (TPA) 
+F. Claims management – personal accident 
+G. Claims management- Overseas travel insurance 
+
+After studying this chapter, you should be able to: 
+
+a) Explain the various stakeholders in insurance claims 
+b) Describe how health insurance claims are managed 
+c) Discuss the various documents required for settlement of health insurance 
+claims 
+d) Explain how reserves for claims are provided for by insurers 
+e) Discuss personal accident claims 
+f) Understand the concept and role of TPAs
+437 
+
+A. Claims management in insurance 
+
+It is very well understood that insurance is a „promise‘ and the policy is a 
+„witness‘ to that promise. The occurrence of an insured event leading to a 
+claim under the policy is the true test of that promise. How well an insurer 
+performs is evaluated by how well it keeps its claims promises. One of the key 
+rating factors in insurance is the claims paying ability of the insurance company. 
+
+1. Stakeholders in claim process 
+
+Before we look in detail at how claims are managed, we need to understand 
+who are the interested parties in the claims process. 
+
+Diagram 1: Stakeholders in claim process 
+
+Customer 
+The person who buys insurance is the first stakeholder and 
+„receiver of the claim‟. 
+Owners 
+Owners of the insurance company have a big stake as the 
+„payers of the claims‟. Even if the claims are met from the 
+policy holders‟ funds, in most cases, it is they who are 
+liable to keep the promise.
+438 
+Underwriters 
+Underwriters within an insurance company and across all 
+insurers have the responsibility to understand the claims 
+and design the products, decide policy terms, conditions 
+and pricing etc. 
+Regulator 
+The regulator (Insurance Regulatory and Development 
+Authority of India) is a key stakeholder in its objective to: 
+ Maintain order in the insurance environment 
+ Protect policy holders‟ interest 
+ Ensure long term financial health of insurers. 
+Third Party 
+Administrators 
+Service intermediaries known as Third Party Administrators, 
+who process health insurance claims. 
+Insurance agents 
+/ brokers 
+Insurance agents / brokers not only sell policies but are 
+also expected to service the customers in the event of a 
+claim. 
+Providers / 
+Hospitals 
+They ensure that the customer gets a smooth claim 
+experience, especially when the hospital is on the panel of 
+the TPA the Insurer to provide cashless hospitalization. 
+
+Thus managing claims well means managing the objectives of the each of these 
+stakeholders related to the claims. Of course, it may happen that some of these 
+objectives can conflict with each other. 
+
+2. Role of claims management in insurance company 
+
+As per industry data- “the health insurance loss ratio of various insurers ranges 
+from 65% to above 120%, with major part of the market operating at above 100% 
+loss ratio”. Most companies are making losses in health insurance business. 
+
+This means that there is a great need to adopt sound underwriting practices and 
+efficient management of claims to bring better results to the company and the 
+policyholders. 
+
+Test Yourself 1 
+
+Who among the following is not a stakeholder in insurance claim process? 
+
+I. Insurance company shareholders 
+II. Human Resource Department 
+III. Regulator 
+IV. TPA
+439 
+B. Management of health insurance claims 
+
+1. Challenges in health insurance 
+
+It is important to understand the peculiar features of the health insurance 
+portfolio in depth so that health claims can be effectively managed. These are: 
+
+a) Majority of the policies are for hospitalization indemnity where the 
+subject matter covered is a human being. This brings forth emotional 
+issues that are not normally faced in other classes of insurance. 
+
+b) India presents very peculiar patterns of illnesses, approach to treatment 
+and follow up. These result in some people being excessively cautious 
+with some others being unworried about their illness and treatment. 
+
+c) Health insurance can be purchased by an individual, a group such as a 
+corporate organization or through a retail selling channel like a bank. 
+This results in the product being sold as a standard commodity at one 
+extreme while being tailored to satisfy needs of the customer at the 
+other. 
+
+d) Health insurance depends on the act of being hospitalized, to trigger a 
+claim under the policy. However, there is great difference in the 
+availability, specialization, treatment methods, billing patterns and 
+charges of all health service providers whether doctors, surgeons or 
+hospitals which make it very difficult to assess claims. 
+
+e) The discipline of healthcare is the fastest developing one. New diseases 
+and conditions keep occurring resulting in development of new 
+treatment methods. Examples of this are key-hole surgeries, laser 
+treatments, etc. 
+This makes health insurance more technical and the skills to handle the 
+insurance claims for such procedure needs constant improvement. 
+
+f) More than all these factors, the fact that a human body cannot be 
+standardized adds a completely new dimension. Two people could 
+respond differently to the same treatment for the same illness or require 
+different treatments or varying periods of hospitalization. 
+
+The portfolio of health insurance is growing rapidly. The challenge of such rapid 
+growth is the huge number of products. There are hundreds of health insurance 
+products in the market and even within a company one can find many different 
+products. Each product and its variant has its peculiarity and therefore needs to 
+be studied before a claim can be handled. 
+
+Growth of the health portfolio also brings about the challenge of numbers – a 
+company selling 100,000 health policies to retail customers covering say, 
+300,000 members under these policies, has to be prepared to service about 
+20,000 claims at least! With the expectation of cashless service and speedy
+440 
+settlement of claims, organizing health insurance claims department is a 
+significant challenge. 
+
+Typically health insurance policies written in India cover hospitalization 
+anywhere within the country. The team handling claims must understand the 
+practices across the country to be able to appreciate the claim presented. 
+
+The health claims manager meets these challenges using expertise, experience 
+and various tools available to him. 
+
+In the final analysis, health insurance offers the satisfaction of having assisted a 
+person who is in need and is undergoing the physical and emotional stress of 
+illness of himself or his family. 
+
+Efficient claims management ensures that right claim is paid to right person 
+at the right time. 
+
+2. 
+Claim process in health insurance 
+
+A claim may be serviced either by the insurance company itself or through the 
+services of a Third Party Administrator (TPA) authorized by the insurance 
+company. 
+
+From the time a claim is made known to the insurer / TPA to the time the 
+payment is made as per the policy terms, the health claim passes through a set 
+of well-defined steps, each having its own relevance. 
+
+The processes detailed below are in specific reference to health insurance 
+(hospitalization) indemnity products which form the major part of health 
+insurance business. 
+
+The general process and supporting documents for a claim under fixed benefit 
+product or critical illness or daily cash product etc. would be quite similar, 
+except for the fact that such products may not come with cashless facility. 
+
+The claim under an indemnity policy could be a: 
+
+a) 
+Cashless claim 
+
+The customer does not pay the expenses at the time of admission or 
+treatment. The network hospital provides the services based on a pre-
+approval from the insurer/TPA and later submits the documents to the 
+insurer/TPA for settlement of the claim.
+441 
+b) 
+Reimbursement claim 
+
+The customer pays the hospital from his own resources and then files his 
+claim with Insurer/TPA for payment of the admissible claim. 
+
+In both cases, the basic steps remain the same. 
+
+Diagram 2: Claim process broadly comprises of following steps (not in exact 
+order)
+442 
+a) Intimation 
+
+Claim intimation is the first instance of contact between the customer and 
+the claims team. The customer could inform the company that he is 
+planning to avail a hospitalization or the intimation would be made after the 
+hospitalization has taken place, especially in case of emergency admission 
+to a hospital. 
+
+Till recently, the act of intimation of a claim event was a formality. 
+However, recently insurers have started insisting on the intimation of claim 
+as soon as practicable. Typically it is required before hospitalization in case 
+of planned admission, and within 24 hours of hospitalization in case of an 
+emergency. 
+
+The timely availability of information about hospitalization helps the 
+Insurer/TPA to verify that the hospitalization of the customer is genuine and 
+there is no impersonation or fraud and sometimes, to negotiate the charges. 
+
+Intimation earlier meant „a letter written, submitted and acknowledged‟ or 
+by fax. With development in communication and technology, intimation is 
+now possible through call centres run by insurers/TPAs open 24 hours as well 
+as through the internet and e-mail. 
+
+b) Registration

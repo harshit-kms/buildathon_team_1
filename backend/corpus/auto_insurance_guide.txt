@@ -1,0 +1,27 @@
+
+            Auto Insurance Fundamentals:
+            Auto insurance protects against financial loss from car accidents.
+            Most states require minimum liability coverage.
+
+            Coverage types:
+            - Liability: Covers damage to others (bodily injury and property)
+            - Collision: Covers damage to your vehicle from accidents
+            - Comprehensive: Covers theft, vandalism, natural disasters
+            - Personal Injury Protection: Covers medical expenses regardless of fault
+            - Uninsured/Underinsured Motorist: Protection from uninsured drivers
+
+            Factors affecting rates:
+            - Driving record and experience
+            - Vehicle make, model, and year
+            - Location and parking situation
+            - Credit score and insurance history
+            - Coverage limits and deductibles
+            - Annual mileage and usage
+
+            Money-saving tips:
+            - Bundle with other policies
+            - Maintain good credit score
+            - Take defensive driving courses
+            - Install safety features
+            - Choose higher deductibles
+            
