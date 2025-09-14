@@ -43,12 +43,12 @@ const Sidebar = () => {
       name: 'Learning', 
       icon: BookOpen, 
       path: '/learning' 
-    },
-    { 
-      name: 'Settings', 
-      icon: Settings, 
-      path: '/settings' 
     }
+    // { 
+    //   name: 'Settings', 
+    //   icon: Settings, 
+    //   path: '/settings' 
+    // }
   ];
 
   const isActive = (path, exact = false) => {

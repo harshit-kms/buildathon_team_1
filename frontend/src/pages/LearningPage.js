@@ -36,7 +36,7 @@ const LearningPage = () => {
       duration: "4.5h",
       lessons: 12,
       icon: "📊",
-      color: "from-blue-500 to-purple-600"
+      color: "from-teal-500 to-teal-600"
     },
     {
       id: 2,
@@ -46,7 +46,7 @@ const LearningPage = () => {
       duration: "3.2h",
       lessons: 8,
       icon: "📱",
-      color: "from-green-500 to-teal-600"
+      color: "from-teal-400 to-cyan-500"
     },
     {
       id: 3,
@@ -56,7 +56,7 @@ const LearningPage = () => {
       duration: "2.8h",
       lessons: 10,
       icon: "🎯",
-      color: "from-orange-500 to-red-600"
+      color: "from-slate-600 to-slate-700"
     }
   ]);
 
@@ -143,13 +143,13 @@ const LearningPage = () => {
     }
   ]);
   const [newMessage, setNewMessage] = useState('');
+
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentTipIndex((prev) => (prev + 1) % dailyTips.length);
     }, 5000);
     return () => clearInterval(interval);
   }, [dailyTips.length]);
-
 
   const handleSendMessage = () => {
     if (!newMessage.trim()) return;
@@ -194,12 +194,36 @@ const LearningPage = () => {
       handleSendMessage();
     }
   };
+
   return (
     <Layout title = "Learning">
     <div>
       <div className="max-w-7xl mx-auto px-6 py-8">
+        {/* Welcome Section */}
+        <div className="mb-8">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center space-x-4">
+              <div>
+                <h1 className="text-2xl font-bold text-gray-900 dark:text-white">Welcome back, {user.name}!</h1>
+                <p className="text-gray-600 dark:text-gray-300">Ready to boost your sales skills today?</p>
+              </div>
+            </div>
+            <div className="flex items-center space-x-4">
+              <div className="flex space-x-2">
+                {user.badges.map((badge, index) => (
+                  <span key={index} className="text-2xl">{badge}</span>
+                ))}
+              </div>
+              <div className="text-right">
+                <p className="text-sm font-semibold text-teal-600">{user.certification}</p>
+                <p className="text-xs text-gray-500">{user.completedLessons} lessons completed</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         {/* Daily Tip Banner */}
-        <div className="bg-gradient-to-r from-yellow-400 to-orange-500 rounded-xl p-6 mb-8 text-white">
+        <div className="bg-gradient-to-r from-teal-500 to-teal-600 rounded-xl p-6 mb-8 text-white">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <Zap className="w-6 h-6" />
@@ -222,74 +246,72 @@ const LearningPage = () => {
         </div>
 
         {/* Learning Progress Card */}
-        <div className="bg-white rounded-xl shadow-lg p-6 mb-8">
+        <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 mb-8">
           <div className="flex items-center justify-between mb-4">
-            <h2 className="text-xl font-bold text-gray-900">Learning Snapshot</h2>
-            
-            <button className="w-40 bg-teal-500 hover:bg-teal-600 text-white py-2 rounded-lg font-medium transition-colors">
-                Unlock Premium
+            <h2 className="text-xl font-bold text-gray-900 dark:text-white">Learning Snapshot</h2>
+            <button className="bg-teal-500 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-teal-600 transition-colors">
+              Unlock Premium
             </button>
-
           </div>
           <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
-            <div className="text-center p-4 bg-gradient-to-br from-blue-50 to-indigo-50 rounded-lg">
-              <BookOpen className="w-8 h-8 text-indigo-600 mx-auto mb-2" />
-              <p className="text-2xl font-bold text-indigo-600">{user.completedLessons}</p>
-              <p className="text-sm text-gray-600">Lessons Completed</p>
+            <div className="text-center p-4 bg-gradient-to-br from-teal-50 to-teal-100 dark:from-teal-900/20 dark:to-teal-800/20 rounded-lg">
+              <BookOpen className="w-8 h-8 text-teal-600 dark:text-teal-400 mx-auto mb-2" />
+              <p className="text-2xl font-bold text-teal-600 dark:text-teal-400">{user.completedLessons}</p>
+              <p className="text-sm text-gray-600 dark:text-gray-400">Lessons Completed</p>
             </div>
-            <div className="text-center p-4 bg-gradient-to-br from-green-50 to-emerald-50 rounded-lg">
-              <Award className="w-8 h-8 text-green-600 mx-auto mb-2" />
-              <p className="text-lg font-bold text-green-600">{user.certification}</p>
-              <p className="text-sm text-gray-600">Current Level</p>
+            <div className="text-center p-4 bg-gradient-to-br from-slate-700 to-slate-800 rounded-lg text-white">
+              <Award className="w-8 h-8 text-teal-400 mx-auto mb-2" />
+              <p className="text-lg font-bold text-teal-400">{user.certification}</p>
+              <p className="text-sm text-gray-300">Current Level</p>
             </div>
-            <div className="text-center p-4 bg-gradient-to-br from-purple-50 to-pink-50 rounded-lg">
-              <Target className="w-8 h-8 text-purple-600 mx-auto mb-2" />
-              <p className="text-sm font-medium text-purple-600">{user.nextLesson}</p>
-              <p className="text-xs text-gray-600">Next Suggested</p>
+            <div className="text-center p-4 bg-gradient-to-br from-teal-50 to-teal-100 dark:from-teal-900/20 dark:to-teal-800/20 rounded-lg">
+              <Target className="w-8 h-8 text-teal-600 dark:text-teal-400 mx-auto mb-2" />
+              <p className="text-sm font-medium text-teal-600 dark:text-teal-400">{user.nextLesson}</p>
+              <p className="text-xs text-gray-600 dark:text-gray-400">Next Suggested</p>
             </div>
-            <div className="text-center p-4 bg-gradient-to-br from-orange-50 to-red-50 rounded-lg">
-              <TrendingUp className="w-8 h-8 text-orange-600 mx-auto mb-2" />
-              <p className="text-2xl font-bold text-orange-600">+23%</p>
-              <p className="text-sm text-gray-600">Conversion Rate</p>
+            <div className="text-center p-4 bg-gradient-to-br from-slate-700 to-slate-800 rounded-lg text-white">
+              <TrendingUp className="w-8 h-8 text-teal-400 mx-auto mb-2" />
+              <p className="text-2xl font-bold text-teal-400">35%</p>
+              <p className="text-sm text-gray-300">Renewal Increase</p>
             </div>
           </div>
         </div>
 
         {/* Courses in Progress */}
-        <div className="bg-white rounded-xl shadow-lg p-6 mb-8">
+        <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 mb-8">
           <div className="flex items-center justify-between mb-6">
-            <h2 className="text-xl font-bold text-gray-900">Courses In Progress</h2>
-            {/* <a href="#" className="text-indigo-600 font-medium flex items-center hover:text-indigo-700">
+            <h2 className="text-xl font-bold text-gray-900 dark:text-white">Courses In Progress</h2>
+            <a href="#" className="text-teal-600 font-medium flex items-center hover:text-teal-700">
               View All <ChevronRight className="w-4 h-4 ml-1" />
-            </a> */}
+            </a>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {coursesInProgress.map((course) => (
-              <div key={course.id} className="border border-gray-200 rounded-lg p-6 hover:shadow-md transition-shadow">
+              <div key={course.id} className="border border-gray-200 dark:border-gray-700 rounded-lg p-6 hover:shadow-lg transition-all hover:border-teal-300 bg-white dark:bg-gray-800">
                 <div className="flex items-center justify-between mb-4">
                   <div className={`w-12 h-12 bg-gradient-to-r ${course.color} rounded-lg flex items-center justify-center text-2xl`}>
                     {course.icon}
                   </div>
-                  <button className="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
-                    <Play className="w-4 h-4 text-gray-600" />
+                  <button className="p-2 bg-teal-100 dark:bg-teal-900/30 rounded-full hover:bg-teal-200 dark:hover:bg-teal-900/50 transition-colors">
+                    <Play className="w-4 h-4 text-teal-600 dark:text-teal-400" />
                   </button>
                 </div>
-                <h3 className="font-semibold text-gray-900 mb-2">{course.title}</h3>
-                <p className="text-sm text-gray-600 mb-4">{course.subtitle}</p>
+                <h3 className="font-semibold text-gray-900 dark:text-white mb-2">{course.title}</h3>
+                <p className="text-sm text-gray-600 dark:text-gray-400 mb-4">{course.subtitle}</p>
                 <div className="mb-4">
                   <div className="flex items-center justify-between mb-2">
-                    <span className="text-sm text-gray-600">{course.progress}% Complete</span>
-                    <span className="text-sm text-gray-500">{course.duration}</span>
+                    <span className="text-sm text-gray-600 dark:text-gray-400">{course.progress}% Complete</span>
+                    <span className="text-sm text-gray-500 dark:text-gray-500">{course.duration}</span>
                   </div>
-                  <div className="w-full bg-gray-200 rounded-full h-2">
+                  <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2">
                     <div 
-                      className={`h-2 bg-gradient-to-r ${course.color} rounded-full transition-all duration-300`}
+                      className="h-2 bg-teal-500 rounded-full transition-all duration-300"
                       style={{ width: `${course.progress}%` }}
                     />
                   </div>
                 </div>
-                <button className="w-full bg-teal-500 hover:bg-teal-600 text-white py-3 rounded-lg font-medium transition-colors">
-                    Continue Learning
+                <button className="w-full bg-slate-800 text-white py-2 px-4 rounded-lg text-sm font-medium hover:bg-slate-700 transition-colors">
+                  Continue Learning
                 </button>
               </div>
             ))}
@@ -298,29 +320,29 @@ const LearningPage = () => {
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           {/* Skill Tracks */}
-          <div className="bg-white rounded-xl shadow-lg p-6">
+          <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6">
             <div className="flex items-center justify-between mb-6">
-              <h2 className="text-xl font-bold text-gray-900">Skill Tracks</h2>
-              {/* <a href="#" className="text-indigo-600 font-medium flex items-center hover:text-indigo-700">
+              <h2 className="text-xl font-bold text-gray-900 dark:text-white">Skill Tracks</h2>
+              <a href="#" className="text-teal-600 font-medium flex items-center hover:text-teal-700">
                 View All <ChevronRight className="w-4 h-4 ml-1" />
-              </a> */}
+              </a>
             </div>
             <div className="space-y-4">
               {skillTracks.map((track, index) => (
-                <div key={index} className="flex items-center justify-between p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors cursor-pointer">
+                <div key={index} className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700 rounded-lg hover:bg-teal-50 hover:border-teal-200 dark:hover:bg-gray-600 transition-colors cursor-pointer border border-transparent">
                   <div className="flex items-center space-x-4">
-                    <div className="w-12 h-12 bg-white rounded-lg flex items-center justify-center text-2xl shadow-sm">
+                    <div className="w-12 h-12 bg-white dark:bg-gray-800 rounded-lg flex items-center justify-center text-2xl shadow-sm border border-gray-100 dark:border-gray-600">
                       {track.icon}
                     </div>
                     <div>
-                      <h3 className="font-semibold text-gray-900">{track.name}</h3>
-                      <p className="text-sm text-gray-600">{track.description}</p>
+                      <h3 className="font-semibold text-gray-900 dark:text-white">{track.name}</h3>
+                      <p className="text-sm text-gray-600 dark:text-gray-400">{track.description}</p>
                       <div className="flex items-center space-x-4 mt-1">
                         <span className="text-xs text-gray-500">{track.courses} Courses</span>
                         <span className="text-xs text-gray-500">{track.duration}</span>
                         <div className="flex items-center">
                           <Star className="w-3 h-3 text-yellow-400 fill-current" />
-                          <span className="text-xs text-gray-600 ml-1">{track.rating}</span>
+                          <span className="text-xs text-gray-600 dark:text-gray-400 ml-1">{track.rating}</span>
                         </div>
                       </div>
                     </div>
@@ -337,28 +359,28 @@ const LearningPage = () => {
           </div>
 
           {/* Top Mentors */}
-          <div className="bg-white rounded-xl shadow-lg p-6">
+          <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6">
             <div className="flex items-center justify-between mb-6">
-              <h2 className="text-xl font-bold text-gray-900">Top Mentors</h2>
-              {/* <a href="#" className="text-indigo-600 font-medium flex items-center hover:text-indigo-700">
+              <h2 className="text-xl font-bold text-gray-900 dark:text-white">Top Mentors</h2>
+              <a href="#" className="text-teal-600 font-medium flex items-center hover:text-teal-700">
                 View All <ChevronRight className="w-4 h-4 ml-1" />
-              </a> */}
+              </a>
             </div>
             <div className="space-y-4">
               {topMentors.map((mentor, index) => (
-                <div key={index} className="flex items-center justify-between p-4 bg-gray-50 rounded-lg hover:bg-teal-50 hover:border-teal-200 transition-colors cursor-pointer border border-transparent">
+                <div key={index} className="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-700 rounded-lg hover:bg-teal-50 hover:border-teal-200 dark:hover:bg-gray-600 transition-colors cursor-pointer border border-transparent">
                   <div className="flex items-center space-x-4">
                     <div className="w-12 h-12 bg-teal-500 rounded-full flex items-center justify-center text-2xl text-white">
                       {mentor.avatar}
                     </div>
                     <div>
-                      <h3 className="font-semibold text-gray-900">{mentor.name}</h3>
-                      <p className="text-sm text-gray-600">{mentor.specialties.join(", ")}</p>
+                      <h3 className="font-semibold text-gray-900 dark:text-white">{mentor.name}</h3>
+                      <p className="text-sm text-gray-600 dark:text-gray-400">{mentor.specialties.join(", ")}</p>
                       <div className="flex items-center space-x-4 mt-1">
                         <span className="text-xs text-gray-500">{mentor.courses} Courses</span>
                         <div className="flex items-center">
                           <Star className="w-3 h-3 text-yellow-400 fill-current" />
-                          <span className="text-xs text-gray-600 ml-1">({mentor.rating})</span>
+                          <span className="text-xs text-gray-600 dark:text-gray-400 ml-1">({mentor.rating})</span>
                         </div>
                       </div>
                     </div>
@@ -375,17 +397,17 @@ const LearningPage = () => {
           </div>
         </div>
       </div>
-    </div>
-    {/* Floating Chat Button */}
+
+      {/* Floating Chat Button */}
       <div className="fixed bottom-6 right-6 z-50">
         {!isChatOpen && (
-        <button
-        onClick={() => setIsChatOpen(true)}
-        className="flex items-center gap-2 bg-teal-500 hover:bg-teal-600 text-white px-5 py-3 rounded-full shadow-lg transition-all hover:scale-105 animate-pulse"
-        >
-        <MessageCircle className="w-5 h-5" />
-        <span className="font-medium">Insu Learning</span>
-        </button>
+          <button
+            onClick={() => setIsChatOpen(true)}
+            className="flex items-center gap-2 bg-teal-500 hover:bg-teal-600 text-white px-5 py-3 rounded-full shadow-lg transition-all hover:scale-105 animate-pulse"
+          >
+            <MessageCircle className="w-5 h-5" />
+            <span className="font-medium">Insu Learning</span>
+          </button>
         )}
       </div>
 
@@ -399,7 +421,7 @@ const LearningPage = () => {
           />
           
           {/* Sidebar */}
-          <div className={`fixed top-0 right-0 h-full w-96 bg-white shadow-2xl z-50 transform transition-transform duration-300 ease-in-out ${
+          <div className={`fixed top-0 right-0 h-full w-96 bg-white dark:bg-gray-800 shadow-2xl z-50 transform transition-transform duration-300 ease-in-out ${
             isChatOpen ? 'translate-x-0' : 'translate-x-full'
           } flex flex-col`}>
             {/* Chat Header */}
@@ -425,22 +447,22 @@ const LearningPage = () => {
                 >
                   <div className={`flex items-start space-x-2 max-w-[85%] ${msg.type === 'user' ? 'flex-row-reverse space-x-reverse' : ''}`}>
                     <div className={`w-8 h-8 rounded-full flex items-center justify-center flex-shrink-0 ${
-                      msg.type === 'bot' ? 'bg-teal-100' : 'bg-blue-100'
+                      msg.type === 'bot' ? 'bg-teal-100 dark:bg-teal-900/30' : 'bg-blue-100 dark:bg-blue-900/30'
                     }`}>
                       {msg.type === 'bot' ? (
-                        <Bot className="w-4 h-4 text-teal-600" />
+                        <Bot className="w-4 h-4 text-teal-600 dark:text-teal-400" />
                       ) : (
-                        <User className="w-4 h-4 text-blue-600" />
+                        <User className="w-4 h-4 text-blue-600 dark:text-blue-400" />
                       )}
                     </div>
                     <div className={`p-3 rounded-lg ${
                       msg.type === 'bot' 
-                        ? 'bg-gray-100 text-gray-800' 
+                        ? 'bg-gray-100 dark:bg-gray-700 text-gray-800 dark:text-gray-200' 
                         : 'bg-teal-500 text-white'
                     }`}>
                       <p className="text-sm">{msg.message}</p>
                       <span className={`text-xs mt-1 block ${
-                        msg.type === 'bot' ? 'text-gray-500' : 'text-teal-100'
+                        msg.type === 'bot' ? 'text-gray-500 dark:text-gray-400' : 'text-teal-100'
                       }`}>
                         {msg.timestamp.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
                       </span>
@@ -451,7 +473,7 @@ const LearningPage = () => {
             </div>
 
             {/* Chat Input */}
-            <div className="p-4 border-t border-gray-200">
+            <div className="p-4 border-t border-gray-200 dark:border-gray-700">
               <div className="flex space-x-2">
                 <input
                   type="text"
@@ -459,7 +481,7 @@ const LearningPage = () => {
                   onChange={(e) => setNewMessage(e.target.value)}
                   onKeyPress={handleKeyPress}
                   placeholder="Ask me anything about your learning..."
-                  className="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-teal-500 focus:border-transparent"
+                  className="flex-1 px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-teal-500 focus:border-transparent bg-white dark:bg-gray-700 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400"
                 />
                 <button
                   onClick={handleSendMessage}
@@ -472,6 +494,7 @@ const LearningPage = () => {
           </div>
         </>
       )}
+    </div>
     </Layout>
   );
 };
