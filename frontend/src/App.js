@@ -13,19 +13,19 @@ import { ThemeProvider } from './context/ThemeContext';
 import './App.css';
 
 // Protected Route Component
-const ProtectedRoute = ({ children }) => {
-  const { user, loading } = useAuth();
+// const ProtectedRoute = ({ children }) => {
+//   const { user, loading } = useAuth();
 
-  if (loading) {
-    return (
-      <div className="min-h-screen flex items-center justify-center bg-gray-50">
-        <div className="text-xl text-gray-600">Loading...</div>
-      </div>
-    );
-  }
+//   if (loading) {
+//     return (
+//       <div className="min-h-screen flex items-center justify-center bg-gray-50">
+//         <div className="text-xl text-gray-600">Loading...</div>
+//       </div>
+//     );
+//   }
 
-  return user ? children : <Navigate to="/login" />;
-};
+//   return user ? children : <Navigate to="/login" />;
+// };
 
 // Public Route Component (redirects to dashboard if already logged in)
 const PublicRoute = ({ children }) => {
@@ -63,49 +63,49 @@ function App() {
             <Route 
               path="/referrals" 
               element={
-                <ProtectedRoute>
+                // <ProtectedRoute>
                   <ReferralsPage />
-                </ProtectedRoute>
+                // </ProtectedRoute>
               } 
             />
             <Route 
               path="/dashboard" 
               element={
-                <ProtectedRoute>
+                // <ProtectedRoute>
                   <DashboardPage />
-                </ProtectedRoute>
+                // </ProtectedRoute>
               } 
             />
             <Route 
               path="/customers" 
               element={
-                <ProtectedRoute>
+                // <ProtectedRoute>
                   <CustomersPage />
-                </ProtectedRoute>
+                // </ProtectedRoute>
               } 
             />
             <Route 
               path="/marketing" 
               element={
-                <ProtectedRoute>
+                // <ProtectedRoute>
                   <MarketingPage />
-                </ProtectedRoute>
+                // </ProtectedRoute>
               } 
             />
             <Route 
               path="/learning" 
               element={
-                <ProtectedRoute>
+                // <ProtectedRoute>
                   <LearningPage />
-                </ProtectedRoute>
+                // </ProtectedRoute>
               } 
             />
             <Route 
               path="/settings" 
               element={
-                <ProtectedRoute>
+                // <ProtectedRoute>
                   <SettingsPage />
-                </ProtectedRoute>
+                // </ProtectedRoute>
               } 
             />
 
@@ -117,7 +117,7 @@ function App() {
           </Routes>
         </div>
       </Router>
-    </AuthProvider>
+      </AuthProvider>
     </ThemeProvider>
   );
 }
